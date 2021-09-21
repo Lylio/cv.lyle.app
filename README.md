@@ -4,7 +4,7 @@
 ## Description
 An online CV built using <b>React</b> with info such as development projects, work experience and education.
 
-[portfolio.lylio.tech](https://cv.lyle.app)
+[cv.lyle.app](https://cv.lyle.app)
 
 ### Acknowledgements
 
