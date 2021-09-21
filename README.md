@@ -2,9 +2,9 @@
 # Portfolio
 
 ## Description
-An online CV built using <b>React</b> with info such as development projects, work experience and education.
+An online CV built using <b>React</b> with info such as development projects, work experience and education. Hosted on Google Cloud Platform:
 
-[cv.lyle.app](https://cv.lyle.app)
+[https://cv.lyle.app](https://cv.lyle.app)
 
 ### Acknowledgements
 
