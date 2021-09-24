@@ -1,11 +1,11 @@
 {
-  "name": "personal-site",
+  "name": "lylio-portfolio",
   "version": "3.0.1",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://portfolio.lylio.tech",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/Lylio/portfolio.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",

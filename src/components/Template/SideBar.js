@@ -13,19 +13,18 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Lyle Christine</h2>
-        <p><a href="mailto:cxz@gmx.com">cxz@gmx.com</a></p>
+        <h3>Software Developer</h3>
       </header>
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
-      <p>Hi, I&apos;m Lyle. I like building things.
-        I am a <a href="https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/">University of Glasgow</a> post-graduate (2018), after which
-        I worked for 3-years as a DevOps/Platform Engineer at <a href="https://uk.virginmoney.com/">Virgin Money</a>.
+      <h2>Interests</h2>
+      <p>Product Development | Automation | Microservice Architecture
+        | CI/CD | Internet of Things
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Resume</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>

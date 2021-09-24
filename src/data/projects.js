@@ -24,21 +24,12 @@ const data = [
   },
   {
     title: 'Chatty!',
-    subtitle: 'A straightforward chat room app. DO NOT try to sell and/or buy missile launchers here.',
+    subtitle: 'A straightforward chat room app.',
     link: 'https://chatty-services.herokuapp.com/',
     image: '/images/projects/chatty.jpg',
     date: '2021-07-01',
     desc:
       'Good clean chat.',
-  },
-  {
-    title: 'Dento',
-    subtitle: 'Book your checkup with your local friendly dentist!',
-    link: 'https://dento-dentistry.herokuapp.com/',
-    image: '/images/projects/dento.jpg',
-    date: '2021-08-30',
-    desc:
-      'A dental website built with Django!',
   },
 ];
 

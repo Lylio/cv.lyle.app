@@ -8,8 +8,8 @@ import Site from '../components/Stats/Site';
 
 const Stats = () => (
   <Main
-    title="Stats"
-    description="Some statistics about Lyle Christine"
+    title="MORE..."
+    description="More useless info about Lyle Christine"
   >
     <article className="post" id="stats">
       <header>
