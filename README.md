@@ -1,18 +1,13 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/react.png?raw=true)
+![](https://github.com/Lylio/image-repo/blob/master/logos/gcp.png?raw=true)
 # Portfolio
 
 ## Description
-An online CV/portfolio built using <b>React JS</b> hosted on Google Cloud Platform.
+An online CV built using <b>React</b> with info such as development projects, work experience and education. Hosted on Google Cloud Platform:
 
-[https://cv.lyle.app](https://portfolio.lylio.tech)
+[https://cv.lyle.app](https://cv.lyle.app)
 
+### Acknowledgements
 
-### Launch Instructions
-1. Navigate into main project folder with `cd portfolio` then install dependencies with `npm install`
-2. Once dependencies have been downloaded, start the application with `npm start`
-3. The browser should automatically open up at http://localhost:3000
+* Template based on https://github.com/mldangelo/personal-site
 
-
-#### Acknowledgements
-
-This React JS app is based on Michael D 'Angelo's resume at https://github.com/mldangelo/personal-site (MIT Licence - no copyright infringement). 
