@@ -12,27 +12,27 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">cv.lyle.app</Link></h2>
           <p>
-            This online <b>portfolio/CV</b> was built using React.JS. Credit to Michael D&apos;Angelo for his <b><a href="https://github.com/mldangelo/personal-site">starter template</a></b> (MIT licence).
+            This online <b>C.V.</b> was built using React JS. Credit to Michael D&apos;Angelo for his <b><a href="https://github.com/mldangelo/personal-site">starter template</a></b> (MIT licence).
           </p>
         </div>
       </header>
-      <p><h2>Current Activity</h2>
-        <ul>
-          <li><b>Software Developer</b> with <b><a href="https://www.olmsystems.com/">OLM Systems</a></b> (since Aug 2021)</li>
-          <li>Java (JDK 11) | Quarkus | Spring Boot | Kafka</li>
-          <li>React</li>
-          <li>PostgreSQL</li>
-          <li>Kubernetes | Docker | Google Cloud Platform | Linux (Ubuntu)</li>
-          <li>Bitbucket | Slack</li>
-        </ul>
-        Developing health & social care software products as part of OLMs integration team:
-        <ul>
-          <li>Delivering new functionality using Java and React</li>
-          <li>Engaging in agile development process (full SDLC)</li>
-          <li>Taking part in peer code reviews</li>
-          <li>Test automation</li>
-        </ul>
+      <h2>Current Activity</h2>
+      <ul>
+        <li><b>Software Developer</b> with <b><a href="https://www.olmsystems.com/">OLM Systems</a></b></li>
+        <li>Java (JDK 11) | Quarkus | PostgreSQL | Kafka</li>
+        <li>Kubernetes | Docker | Google Cloud Platform | Linux (Ubuntu)</li>
+        <li>React JS | Bitbucket</li>
+      </ul>
+
+      <p>This role involves developing health & social care software products as part of OLMs
+        integration team:
       </p>
+      <ul>
+        <li>Delivering new functionality using <b>Java</b> and <b>React JS</b></li>
+        <li>Engaging in agile development process (full SDLC)</li>
+        <li>Taking part in peer code reviews</li>
+        <li>Test automation</li>
+      </ul>
     </article>
   </Main>
 );
