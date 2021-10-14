@@ -12,6 +12,7 @@ const Job = ({ data }) => (
         <li key={point}>{point}</li>
       ))}
     </ul>
+    <p> {data.description} </p>
   </article>
 );
 
@@ -22,6 +23,7 @@ Job.propTypes = {
     position: PropTypes.string.isRequired,
     daterange: PropTypes.string.isRequired,
     points: PropTypes.arrayOf(PropTypes.string).isRequired,
+    description: PropTypes.string.isRequired,
   }).isRequired,
 };
 

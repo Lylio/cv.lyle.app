@@ -11,28 +11,24 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/">cv.lyle.app</Link></h2>
-          <p>
-            This online <b>C.V.</b> was built using React JS. Credit to Michael D&apos;Angelo for his <b><a href="https://github.com/mldangelo/personal-site">starter template</a></b> (MIT licence).
-          </p>
         </div>
       </header>
       <h2>Current Activity</h2>
+      <p><b>Software Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems:</a></p>
       <ul>
-        <li><b>Software Developer</b> with <b><a href="https://www.olmsystems.com/">OLM Systems</a></b></li>
-        <li>Java (JDK 11) | Quarkus | PostgreSQL | Kafka</li>
-        <li>Kubernetes | Docker | Google Cloud Platform | Linux (Ubuntu)</li>
-        <li>React JS | Bitbucket</li>
+        <li>Java (JDK 11) | Quarkus | PostgreSQL | Liquibase | Kafka</li>
+        <li>React | Kubernetes | Docker | Google Cloud Platform </li>
+        <li>Linux (Ubuntu) | Bitbucket</li>
       </ul>
 
-      <p>This role involves developing health & social care software products as part of OLMs
-        integration team:
+      <p>My current role involves developing health & social care software products as part of the
+        OLM integration team. My position involves engaging in an agile development process as part
+        of the full SDLC and includes peer code reviews and test automation.
       </p>
-      <ul>
-        <li>Delivering new functionality using <b>Java</b> and <b>React JS</b></li>
-        <li>Engaging in agile development process (full SDLC)</li>
-        <li>Taking part in peer code reviews</li>
-        <li>Test automation</li>
-      </ul>
+      <p>
+        This online CV is a customised React web app which was built using an MIT
+        <b><a href="https://www.github.com/mldangelo/personal-site"> licenced template</a></b>.
+      </p>
     </article>
   </Main>
 );

@@ -25,6 +25,7 @@ Experience.propTypes = {
     link: PropTypes.string,
     daterange: PropTypes.string,
     points: PropTypes.arrayOf(PropTypes.string),
+    description: PropTypes.string,
   })),
 };
 

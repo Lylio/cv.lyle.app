@@ -5,9 +5,14 @@ const positions = [
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Present',
     points: [
-      'Java',
-      'React',
+      'Java (JDK 11) | Quarkus | PostgreSQL | Liquibase | Kafka',
+      'React | Kubernetes | Docker | Google Cloud Platform',
+      'Linux (Ubuntu) | Bitbucket',
     ],
+    description: 'Developing health & social care software products as part of OLM\'s integration '
+      + 'team. This role involves engaging in an agile development process as part of the full SDLC '
+      + 'and includes peer code reviews and test automation. This role has advanced my skills in '
+      + 'using Quarkus and React.\n',
   },
   {
     company: 'Virgin Money',
@@ -19,6 +24,10 @@ const positions = [
       'Java (JDK 8) | Spring Boot | Gradle/Maven | Python/Bash | MongoDB',
       'Jenkins | GoCD | Nexus Repo | GitHub',
     ],
+    description: 'Developing, supporting and maintaining Virgin Money’s Operational Platform which'
+      + ' is a complex containerisation estate comprising of microservices and web applications. '
+      + 'This role advanced my DevOps skill-set in Back End Development, Microservice Technology '
+      + 'and Continuous Integration/Delivery.',
   },
   {
     company: 'Research Scotland',
