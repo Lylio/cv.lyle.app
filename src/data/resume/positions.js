@@ -9,10 +9,11 @@ const positions = [
       'React | Kubernetes | Docker | Google Cloud Platform',
       'Linux (Ubuntu) | Bitbucket',
     ],
-    description: 'Developing health & social care software products as part of OLM\'s integration '
-      + 'team. This role involves engaging in an agile development process as part of the full SDLC '
-      + 'and includes peer code reviews and test automation. This role has advanced my skills in '
-      + 'using Quarkus and React.\n',
+    description: 'Developing health & social care software products within the OLM integration '
+      + 'team. This role involves engaging in an agile development process as part of the full '
+      + 'Software Development Life Cycle and includes peer code reviews and test automation. This '
+      + 'role has developed my skills in Product Integration, Feature Development and Cloud '
+      + 'Computing.',
   },
   {
     company: 'Virgin Money',
