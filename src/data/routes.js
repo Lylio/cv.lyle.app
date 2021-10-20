@@ -10,7 +10,7 @@ const routes = [
   },
   {
     label: 'CV',
-    path: '/resume',
+    path: '/cv',
   },
   {
     label: 'Projects',

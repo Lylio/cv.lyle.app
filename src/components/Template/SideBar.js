@@ -20,11 +20,11 @@ const SideBar = () => (
     <section className="blurb">
       <h2>Interests</h2>
       <p>Product Development | Automation | Microservice Architecture
-        | CI/CD | Internet of Things
+        | CI/CD | Internet-of-Things
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">CV</Link> : <Link to="/about" className="button">About Me</Link>}
+          {!window.location.pathname.includes('/cv') ? <Link to="/cv" className="button">CV</Link> : <Link to="/about" className="button">About Me</Link>}
         </li>
       </ul>
     </section>

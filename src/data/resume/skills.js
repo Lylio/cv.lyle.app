@@ -1,6 +1,3 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
-
 const skills = [
   {
     title: 'Java',
@@ -122,17 +119,17 @@ const skills = [
 // this is a list of colors that I like. The length should be == to the
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
-  '#6968b3',
+  '#ad755a',
   '#37b1f5',
-  '#40494e',
-  '#515dd4',
-  '#e47272',
-  '#cc7b94',
-  '#3896e2',
+  '#365294',
+  '#d451ba',
+  '#64cb7b',
+  '#376bb9',
+  '#7ece6f',
   '#c3423f',
   '#d75858',
-  '#747fff',
-  '#64cb7b',
+  '#444040',
+  '#6968b3',
 ];
 
 const categories = [

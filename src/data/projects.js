@@ -1,16 +1,12 @@
-// TODO Add a couple lines about each project
-
 const data = [
   {
-    title: 'bugout.lylio.tech',
+    title: 'BugOut Demo @ Heroku',
     subtitle: 'Bug & issue tracker for development teams',
-    link: 'https://bugout.lylio.tech',
+    link: 'https://bugout-demo.herokuapp.com/',
     image: '/images/projects/bugout.jpg',
     date: '2021-07-21',
     desc:
-      'BugOut is an issue/bug tracker application for development teams to document problems'
-      + ' found within their digital estate and assign team members to fix bugs or build new'
-      + ' features.',
+      'Spring Boot | Angular',
     icon: '/images/lyle-christine.jpg',
   },
   {
@@ -20,16 +16,16 @@ const data = [
     image: '/images/projects/lylechristinedotcom.jpg',
     date: '2021-07-24',
     desc:
-      "I write and record music. It's a pain in the arse",
+      'Gatsby | React',
   },
   {
-    title: 'Chatty!',
+    title: 'Chatty Demo @ Heroku',
     subtitle: 'A straightforward chat room app.',
     link: 'https://chatty-services.herokuapp.com/',
     image: '/images/projects/chatty.jpg',
     date: '2021-07-01',
     desc:
-      'Good clean chat.',
+      'Spring Boot',
   },
 ];
 

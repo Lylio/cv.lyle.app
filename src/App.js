@@ -25,7 +25,7 @@ const App = () => (
         <Route path="/projects" component={Projects} />
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
-        <Route path="/resume" component={Resume} />
+        <Route path="/cv" component={Resume} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
