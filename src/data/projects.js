@@ -1,31 +1,39 @@
 const data = [
   {
     title: 'BugOut Demo @ Heroku',
-    subtitle: 'Bug & issue tracker for development teams',
+    subtitle: 'Bug & issue tracker for development teams (Spring Boot | Angular)',
     link: 'https://bugout-demo.herokuapp.com/',
     image: '/images/projects/bugout.jpg',
-    date: '2021-07-21',
+    date: '2021-10-21',
     desc:
-      'Spring Boot | Angular',
-    icon: '/images/lyle-christine.jpg',
+      'Bug & issue tracker for development teams (Spring Boot | Angular)',
   },
   {
     title: 'LyleChristine.com',
-    subtitle: 'Official site for Glasgow-based alt/inDIE/RRRROCK musician',
+    subtitle: 'Music website (Gatsby.js | React)',
     link: 'https://www.lylechristine.com',
     image: '/images/projects/lylechristinedotcom.jpg',
-    date: '2021-07-24',
+    date: '2021-10-24',
     desc:
-      'Gatsby | React',
+      'Music website (Gatsby.js | React)',
   },
   {
     title: 'Chatty Demo @ Heroku',
-    subtitle: 'A straightforward chat room app.',
+    subtitle: 'Chat room app (Spring Boot)',
     link: 'https://chatty-services.herokuapp.com/',
     image: '/images/projects/chatty.jpg',
-    date: '2021-07-01',
+    date: '2021-10-01',
     desc:
-      'Spring Boot',
+      'Chat room app (Spring Boot)',
+  },
+  {
+    title: 'Coronavirus Tracker Demo @ Heroku',
+    subtitle: 'Coronavirus Tracker (Spring Boot)',
+    link: 'https://coronavirus-tracker-demo.herokuapp.com/',
+    image: '/images/projects/corona.jpg',
+    date: '2021-10-01',
+    desc:
+      'Coronavirus data tracker with daily updates (Spring Boot)',
   },
 ];
 
