@@ -10,19 +10,19 @@ const data = [
   },
   {
     title: 'LyleChristine.com',
-    subtitle: 'Music website (Gatsby.js | React)',
+    subtitle: 'Music website (Gatsby)',
     link: 'https://www.lylechristine.com',
     image: '/images/projects/lylechristinedotcom.jpg',
-    date: '2021-10-24',
+    date: '2021-01-09',
     desc:
-      'Music website (Gatsby.js | React)',
+      'Music website (Gatsby)',
   },
   {
     title: 'Chatty Demo @ Heroku',
     subtitle: 'Chat room app (Spring Boot)',
     link: 'https://chatty-services.herokuapp.com/',
     image: '/images/projects/chatty.jpg',
-    date: '2021-10-01',
+    date: '2019-07-03',
     desc:
       'Chat room app (Spring Boot)',
   },
@@ -31,9 +31,18 @@ const data = [
     subtitle: 'Coronavirus Tracker (Spring Boot)',
     link: 'https://coronavirus-tracker-demo.herokuapp.com/',
     image: '/images/projects/corona.jpg',
-    date: '2021-10-01',
+    date: '2021-04-01',
     desc:
       'Coronavirus data tracker with daily updates (Spring Boot)',
+  },
+  {
+    title: 'cv.lyle.app',
+    subtitle: 'Online curriculum vitae (React)',
+    link: 'https://cv.lyle.app',
+    image: '/images/projects/cv.jpg',
+    date: '2021-07-24',
+    desc:
+      'Online curriculum vitae and portfolio of development projects (React)',
   },
 ];
 
