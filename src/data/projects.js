@@ -9,6 +9,15 @@ const data = [
       'Bug & issue tracker for development teams (Spring Boot | Angular)',
   },
   {
+    title: 'Tasket Demo @ Heroku',
+    subtitle: 'A task board featuring drag & drop functionality. (Spring Boot | React)',
+    link: 'https://tasket-demo.herokuapp.com/',
+    image: '/images/projects/tasket.jpg',
+    date: '2021-11-23',
+    desc:
+      'A task board featuring drag & drop functionality (Spring Boot | React)',
+  },
+  {
     title: 'LyleChristine.com',
     subtitle: 'Music website (Gatsby)',
     link: 'https://www.lylechristine.com',
