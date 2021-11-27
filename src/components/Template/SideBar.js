@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>Interests</h2>
       <p>Product Development | Automation | Microservice Architecture
-        | CI/CD | Internet-of-Things
+        | Integration | Internet-of-Things
       </p>
       <ul className="actions">
         <li>
