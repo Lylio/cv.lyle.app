@@ -18,15 +18,6 @@ const data = [
       'A task board featuring drag & drop functionality (Spring Boot | React)',
   },
   {
-    title: 'LyleChristine.com',
-    subtitle: 'Music website (Gatsby)',
-    link: 'https://www.lylechristine.com',
-    image: '/images/projects/lylechristinedotcom.jpg',
-    date: '2021-01-09',
-    desc:
-      'Music website (Gatsby)',
-  },
-  {
     title: 'Chatty Demo @ Heroku',
     subtitle: 'Chat room app (Spring Boot)',
     link: 'https://chatty-services.herokuapp.com/',
@@ -43,15 +34,6 @@ const data = [
     date: '2021-04-01',
     desc:
       'Coronavirus data tracker with daily updates (Spring Boot)',
-  },
-  {
-    title: 'cv.lyle.app',
-    subtitle: 'Online curriculum vitae (React)',
-    link: 'https://cv.lyle.app',
-    image: '/images/projects/cv.jpg',
-    date: '2021-07-24',
-    desc:
-      'Online curriculum vitae and portfolio of development projects (React)',
   },
 ];
 
