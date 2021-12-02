@@ -4,6 +4,6 @@ Hello I'm Lyle. I’m an experienced Software Developer with interests in techno
 of working with tech stacks which are backed with Java services and fronted by React components.
 <br>
 <br>
-I currently work as a Software Developer for OLM Systems, prior to which I was a DevOps/Platform Engineer 
+I currently work as a Java Developer for OLM Systems, prior to which I was a DevOps/Platform Engineer 
 with Virgin Money.
 

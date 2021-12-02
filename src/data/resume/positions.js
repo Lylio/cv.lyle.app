@@ -1,13 +1,13 @@
 const positions = [
   {
     company: 'OLM Systems',
-    position: 'Developer (Java)',
+    position: 'Java Developer',
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Present',
     points: [
-      'Java (JDK 11) | Quarkus | PostgreSQL | Liquibase | Kafka',
-      'React | Kubernetes | Docker | Google Cloud Platform',
-      'Linux (Ubuntu) | Bitbucket',
+      'Java (JDK 11) ∙ Quarkus ∙ PostgreSQL ∙ Liquibase ∙ Kafka',
+      'React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform',
+      'Linux (Ubuntu) ∙ Bitbucket',
     ],
     description: 'Developing health & social care software products using Java within the OLM integration '
       + 'team. This role involves engaging in an agile development process as part of the full '
@@ -21,9 +21,9 @@ const positions = [
     link: 'https://uk.virginmoney.com/',
     daterange: 'Oct 2018 - Jun 2021',
     points: [
-      'OpenShift | Docker | API-Gateway | Linux (RHEL 8)',
-      'Java (JDK 8) | Spring Boot | Gradle/Maven | Python/Bash | MongoDB',
-      'Jenkins | GoCD | Nexus Repo | GitHub',
+      'OpenShift ∙ Docker ∙ API-Gateway ∙ Linux (RHEL 8)',
+      'Java (JDK 8) ∙ Spring Boot ∙ Gradle/Maven ∙ Python/Bash ∙ MongoDB',
+      'Jenkins ∙ GoCD ∙ Nexus Repo ∙ GitHub',
     ],
     description: 'Developing, supporting and maintaining Virgin Money’s Operational Platform which'
       + ' is a complex containerisation estate comprising of microservices and web applications. '

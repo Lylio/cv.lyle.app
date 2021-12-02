@@ -19,8 +19,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Interests</h2>
-      <p>Product Development | Automation | Microservice Architecture
-        | Integration | Internet-of-Things
+      <p>Product Development ∙ Automation ∙ Microservice Architecture
+        ∙ Integration ∙ Internet-of-Things
       </p>
       <ul className="actions">
         <li>

@@ -14,17 +14,17 @@ const Index = () => (
         </div>
       </header>
       <h2>Current Activity</h2>
-      <p><b>Software Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
+      <p><b>Java Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
       <p>Current tech stack includes:</p>
       <ul>
-        <li>Java (JDK 11) | Quarkus | PostgreSQL | Liquibase | Kafka</li>
-        <li>React | Kubernetes | Docker | Google Cloud Platform </li>
-        <li>Linux (Ubuntu) | Bitbucket</li>
+        <li>Java (JDK 11) ∙ Quarkus ∙ PostgreSQL ∙ Liquibase ∙ Kafka</li>
+        <li>React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform </li>
+        <li>Linux (Ubuntu) ∙ Bitbucket</li>
       </ul>
 
-      <p>My current role involves developing health & social care software products as part of the
-        OLM integration team. My position involves engaging in an agile development process as part
-        of the full SDLC and includes peer code reviews and test automation.
+      <p>My current role involves developing health & social care software products using Java as
+        part of the OLM integration team. My position involves engaging in an agile development
+        process as part of the full SDLC and includes peer code reviews and test automation.
       </p>
     </article>
   </Main>
