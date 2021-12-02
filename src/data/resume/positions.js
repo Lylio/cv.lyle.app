@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'OLM Systems',
-    position: 'Software Developer',
+    position: 'Developer (Java)',
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Present',
     points: [
@@ -9,11 +9,11 @@ const positions = [
       'React | Kubernetes | Docker | Google Cloud Platform',
       'Linux (Ubuntu) | Bitbucket',
     ],
-    description: 'Developing health & social care software products within the OLM integration '
+    description: 'Developing health & social care software products using Java within the OLM integration '
       + 'team. This role involves engaging in an agile development process as part of the full '
       + 'Software Development Life Cycle and includes peer code reviews and test automation. This '
-      + 'role has developed my skills in Product Integration, Feature Development and Cloud '
-      + 'Computing.',
+      + 'role has developed my skills in Java Microservice Development, Enterprise Systems Integration and Cloud '
+      + 'Engineering.',
   },
   {
     company: 'Virgin Money',
