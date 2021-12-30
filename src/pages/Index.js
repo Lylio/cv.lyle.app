@@ -14,7 +14,7 @@ const Index = () => (
         </div>
       </header>
       <h2>Current Activity</h2>
-      <p><b>Java Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
+      <p><b>Software Developer (Java & React)</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
       <p>Current tech stack includes:</p>
       <ul>
         <li>Java (JDK 11) ∙ Quarkus ∙ PostgreSQL ∙ Liquibase ∙ Kafka</li>

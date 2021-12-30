@@ -1,7 +1,7 @@
 const positions = [
   {
     company: 'OLM Systems',
-    position: 'Java Developer',
+    position: 'Software Developer (Java & React)',
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Present',
     points: [
