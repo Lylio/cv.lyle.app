@@ -15,6 +15,9 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
+          <p>The following projects are hosted on the free tier of Heroku which
+            results in 30-second load times. Thank you for your patience.
+          </p>
         </div>
       </header>
       {data.map((project) => (
