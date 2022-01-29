@@ -9,7 +9,7 @@ node {
 	        	credentialsId: 'Lylio-GitHub',
 	        	url: 'https://github.com/Lylio/portfolio.git'
 	    }
-	    
+
 	    stage('Build Image') {
 			app = docker.build image
 	    }
