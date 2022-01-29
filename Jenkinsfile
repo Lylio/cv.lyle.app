@@ -10,13 +10,6 @@ node {
 	        	url: 'https://github.com/Lylio/portfolio.git'
 	    }
 
-		stage('Build') {
-	    	steps {
-                sh 'npm install'
-                sh 'npm run build'
-            }
-	    }
-
 	    stage('Build Image') {
 			app = docker.build image
 	    }
