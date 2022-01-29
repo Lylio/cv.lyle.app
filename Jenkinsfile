@@ -9,7 +9,7 @@ node {
 	        	credentialsId: 'Lylio-GitHub',
 	        	url: 'https://github.com/Lylio/portfolio.git'
 	    }
-
+	    
 	    stage('Build Image') {
 			app = docker.build image
 	    }
@@ -24,7 +24,5 @@ node {
 		echo 'Error occurred during build process!'
 		echo e.toString()
 		currentBuild.result = 'FAILURE'
-	} finally {
-        junit '**/target/surefire-reports/TEST-*.xml'
 	}
 }
