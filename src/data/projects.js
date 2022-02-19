@@ -1,15 +1,15 @@
 const data = [
   {
-    title: 'QuarCode Demo @ Heroku',
+    title: 'quarcode.herokuapp.com',
     subtitle: 'QR code generator for URLs, Emails, Phone & SMS (Spring Boot | Thymeleaf)',
     link: 'https://quarcode.herokuapp.com/',
     image: '/images/projects/quarcode.jpg',
-    date: '20212-02-19',
+    date: '2022-02-19',
     desc:
       'QR code generator for URLs, Emails, Phone & SMS (Spring Boot | Thymeleaf)',
   },
   {
-    title: 'BugOut Demo @ Heroku',
+    title: 'bugout-demo.herokuapp.com',
     subtitle: 'Bug & issue tracker for development teams (Spring Boot | Angular | PostgreSQL)',
     link: 'https://bugout-demo.herokuapp.com/',
     image: '/images/projects/bugout.jpg',
@@ -18,7 +18,7 @@ const data = [
       'Bug & issue tracker for development teams (Spring Boot | Angular | PostgreSQL)',
   },
   {
-    title: 'Tasket Demo @ Heroku',
+    title: 'tasket-demo.herokuapp.com',
     subtitle: 'A task board featuring drag & drop functionality. (Spring Boot | React | PostgreSQL)',
     link: 'https://tasket-demo.herokuapp.com/',
     image: '/images/projects/tasket.jpg',
@@ -27,7 +27,7 @@ const data = [
       'A task board featuring drag & drop functionality (Spring Boot | React | PostgreSQL)',
   },
   {
-    title: 'Chatty Demo @ Heroku',
+    title: 'chatty-services.herokuapp.com',
     subtitle: 'Chat room app (Spring Boot)',
     link: 'https://chatty-services.herokuapp.com/',
     image: '/images/projects/chatty.jpg',
@@ -36,7 +36,7 @@ const data = [
       'Chat room app (Spring Boot)',
   },
   {
-    title: 'Coronavirus Tracker Demo @ Heroku',
+    title: 'coronavirus-tracker-demo.herokuapp.com',
     subtitle: 'Coronavirus data tracker with automatic daily updates (Spring Boot | Thymeleaf)',
     link: 'https://coronavirus-tracker-demo.herokuapp.com/',
     image: '/images/projects/corona.jpg',
