@@ -12,8 +12,8 @@ const positions = [
     description: 'Developing health & social care software products using Java within the OLM integration '
       + 'team. This role involves engaging in an agile development process as part of the full '
       + 'Software Development Life Cycle and includes peer code reviews and test automation. This '
-      + 'role has developed my skills in Java Microservice Development, Enterprise Systems Integration and Cloud '
-      + 'Engineering.',
+      + 'role has developed my skills in Java Microservice Development, Enterprise Systems Integration and '
+      + 'Software-as-a-Service.',
   },
   {
     company: 'Virgin Money',
