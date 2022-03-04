@@ -1,15 +1,14 @@
 # Introduction
-Hello I'm Lyle. I’m an experienced Software Developer with interests in technology fields such as **Product Development**,
+Hello I'm Lyle. I’m a Software Developer with interests in technology fields such as **App Development**,
 **Automation**, **Microservice Architecture**, **Integration** and the **Internet-of-Things**. I’m particularly fond 
 of working with tech stacks which are backed with Java services and fronted by React components.
-<br>
-<br>
-<br>
-![Java](https://png.pngitem.com/pimgs/s/174-1746684_java-java-logo-black-png-transparent-png.png)
-<br>
-<br>
-<br>
-I like building things, I like fixing things, I have a KanBan of tech tutorials that I slowly chip away at. I like Java,
-Spring Boot, Docker, Linux, React. I'm learning Kotlin, I can get by in JavaScript, Python is good. Databases are ok, 
-monitoring and reporting bores me. I hate deciphering error logs.
+
+<p align="center">
+<img src="https://ams03pap001files.storage.live.com/y4mnhztGab2OW6cNnsLFOmTUvI259pLArhsG_nkoyBxeKGmFE_YzLPpGUw-KPLfNrCWJH0IDtgwwuX5Mh9gm9XpfTvs7iNo_iKN1fYdqqPKTt7c4bbDu834ytEVS6Q2HAKMu2J3vjZQfclMn-1AUZp6irte0o8-mvARUjXdvSg2IrGK7HJjopKMMHG9wODQp80T?width=760&height=736&cropmode=none">
+</p>
+
+I like building things, I like fixing things. I have a KanBan of tech tutorials that I like to chip away at in my spare time. 
+I like Java, I like Spring Boot, Docker, Linux and React. I like Quarkus. I like Kubernetes. I like Shell scripting, Python scripting and
+Groovy scripting. I'm currently learning Kotlin and I like it!
+
 
