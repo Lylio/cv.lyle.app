@@ -14,18 +14,24 @@ const Index = () => (
         </div>
       </header>
       <h2>Current Activity</h2>
-      <p><b>Software Developer (Java & React)</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
-      <p>Current tech stack includes:</p>
-      <ul>
-        <li>Java (JDK 11) ∙ Quarkus ∙ PostgreSQL ∙ Liquibase ∙ Kafka</li>
-        <li>React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform </li>
-        <li>Linux (Ubuntu) ∙ Bitbucket</li>
-      </ul>
+      <p><b>Software Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
 
-      <p>My current role involves developing health & social care software products using Java as
-        part of the OLM integration team. My position involves engaging in an agile development
-        process as part of the full SDLC and includes peer code reviews and test automation.
+      <p>I develop health & social care software products within the OLM integration team. This
+        role is focused on backend Java development whereby the Quarkus framework supports a variety
+        of microservices, web apps and bespoke integrations. The OLM product suite is very popular
+        with local authorities and other public sector organisations. Their award winning
+        Software-as-a-Service range includes:
       </p>
+      <uo>
+        <li><b>CP-IS</b>: The Child Protection-Information Sharing project enables health and social
+          care staff to share information securely to better protect the most vulnerable children
+          in society.
+        </li>
+        <li><b>Eclipse</b>: cloud native case management and finance software platform.</li>
+        <li><b>CareKnowledge</b>: a holistic professional development platform for busy social care
+          teams.
+        </li>
+      </uo>
     </article>
   </Main>
 );

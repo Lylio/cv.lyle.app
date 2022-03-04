@@ -5,6 +5,8 @@ import ContactIcons from '../Contact/ContactIcons';
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 
+const getCurrentYear = () => new Date().getFullYear();
+
 const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
@@ -19,8 +21,8 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Interests</h2>
-      <p>Product Development ∙ Automation ∙ Microservice Architecture
-        ∙ Integration ∙ Internet-of-Things
+      <p>Java ∙ Spring ∙ React ∙ Kotlin<br />
+        Microservices ∙ Docker ∙ Linux
       </p>
       <ul className="actions">
         <li>
@@ -31,7 +33,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy;2021 Lyle Christine</p>
+      <p className="copyright">&copy;{getCurrentYear()} Lyle Christine</p>
     </section>
   </section>
 );

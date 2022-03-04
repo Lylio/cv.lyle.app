@@ -9,11 +9,12 @@ const positions = [
       'React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform',
       'Linux (Ubuntu) ∙ Bitbucket',
     ],
-    description: 'Developing health & social care software products using Java within the OLM integration '
-      + 'team. This role involves engaging in an agile development process as part of the full '
-      + 'Software Development Life Cycle and includes peer code reviews and test automation. This '
-      + 'role has developed my skills in Java Microservice Development, Enterprise Systems Integration and '
-      + 'Software-as-a-Service.',
+    description: 'I develop health & social care software products within OLMs integration team.'
+      + 'This role is focused on backend Java development whereby the Quarkus framework supports a'
+      + 'variety of microservices, web apps and bespoke integrations. OLMs product suite is very popular'
+      + 'with local authorities and other public sector organisations. '
+      + 'My skills in Java Microservice Development, Cloud Native Application Design and '
+      + 'Enterprise Systems Integration have been thoroughly strengthened during my time with OLM.',
   },
   {
     company: 'Virgin Money',
@@ -21,12 +22,12 @@ const positions = [
     link: 'https://uk.virginmoney.com/',
     daterange: 'Oct 2018 - Jun 2021',
     points: [
-      'OpenShift ∙ Docker ∙ API-Gateway ∙ Linux (RHEL 8)',
-      'Java (JDK 8) ∙ Spring Boot ∙ Gradle/Maven ∙ Python/Bash ∙ MongoDB',
-      'Jenkins ∙ GoCD ∙ Nexus Repo ∙ GitHub',
+      'OpenShift ∙ Docker ∙ Linux (RHEL 8) ∙ Bash',
+      'Java (JDK 8) ∙ Spring Boot ∙ Python ∙ Gradle ∙ Maven',
+      'Jenkins ∙ GoCD ∙ Nexus Repo ∙ MongoDB ∙ GitHub',
     ],
-    description: 'Developing, supporting and maintaining Virgin Money’s Operational Platform which'
-      + ' is a complex containerisation estate comprising of microservices and web applications. '
+    description: 'I developed, supported and maintained Virgin Money’s Operational Platform which'
+      + ' was a complex containerisation estate comprising of Spring Boot microservices and React web applications. '
       + 'This role advanced my DevOps skill-set in Back End Development, Microservice Technology '
       + 'and Continuous Integration/Delivery.',
   },
