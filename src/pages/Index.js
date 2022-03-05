@@ -13,7 +13,7 @@ const Index = () => (
           <h2 data-testid="heading"><Link to="/">cv.lyle.app</Link></h2>
         </div>
       </header>
-      <h2>Current Activity</h2>
+      <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
       <p><b>Software Developer</b> with <a href="https://www.olmsystems.com/">OLM Systems</a>.</p>
 
       <p>I develop health & social care software products within the OLM integration team. This
