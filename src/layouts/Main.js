@@ -14,6 +14,7 @@ const Main = (props) => (
     <Helmet titleTemplate="%s | Lyle Christine" defaultTitle="Lyle Christine" defer={false}>
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
+      <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png" />
     </Helmet>
     <div id="wrapper">
       <Navigation />
