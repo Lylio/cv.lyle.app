@@ -14,7 +14,6 @@ const Main = (props) => (
     <Helmet titleTemplate="%s | Lyle Christine" defaultTitle="Lyle Christine" defer={false}>
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
-      <meta name="og:image" content="../../public/images/screenshot.png" />
     </Helmet>
     <div id="wrapper">
       <Navigation />
