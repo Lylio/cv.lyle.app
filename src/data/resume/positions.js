@@ -9,12 +9,13 @@ const positions = [
       'React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform',
       'Linux (Ubuntu) ∙ Bitbucket',
     ],
-    description: 'I develop health & social care software products within OLMs integration team.'
-      + 'This role is focused on backend Java development whereby the Quarkus framework supports a'
-      + 'variety of microservices, web apps and bespoke integrations. OLMs product suite is very popular'
-      + 'with local authorities and other public sector organisations. '
-      + 'My skills in Java Microservice Development, Cloud Native Application Design and '
-      + 'Enterprise Systems Integration have been thoroughly strengthened during my time with OLM.',
+    description: 'I develop health & social care software products within OLM\'s integration team.'
+      + ' This role is focused on backend Java development in which Quarkus and Spring Boot '
+      + ' frameworks support a variety of microservices, web apps and bespoke integrations. OLM\'s '
+      + ' product suite is very popular with local authorities and other public sector '
+      + ' organisations. My skills in Java Microservice Development, Cloud Native Application '
+      + ' Design and Enterprise Systems Integration continue to be strengthened by my position '
+      + ' within OLM.',
   },
   {
     company: 'Virgin Money',
@@ -26,10 +27,11 @@ const positions = [
       'Java (JDK 8) ∙ Spring Boot ∙ Python ∙ Gradle ∙ Maven',
       'Jenkins ∙ GoCD ∙ Nexus Repo ∙ MongoDB ∙ GitHub',
     ],
-    description: 'I developed, supported and maintained Virgin Money’s Operational Platform which'
-      + ' was a complex containerisation estate comprising of Spring Boot microservices and React web applications. '
-      + 'This role advanced my DevOps skill-set in Back End Development, Microservice Technology '
-      + 'and Continuous Integration/Delivery.',
+    description: 'In this DevOps role I developed, supported and maintained'
+      + ' Virgin Money\'s Operational Platform which was a complex containerisation estate'
+      + ' comprising of Spring Boot microservices and React web applications. This role advanced'
+      + ' my DevOps skill-set in Back End Development, Microservice Technology and Continuous'
+      + ' Integration/Delivery.',
   },
   {
     company: 'Research Scotland',
