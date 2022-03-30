@@ -1,45 +1,45 @@
 const data = [
   {
-    title: 'QR Code Generator ¦ quarcode.herokuapp.com',
+    title: 'QR Code Generator | quarcode.lyle.app',
     subtitle: 'QR Code Generator',
-    link: 'https://quarcode.herokuapp.com/',
+    link: 'https://quarcode.lyle.app',
     image: '/images/projects/quarcode.jpg',
     date: '2022-02-19',
     desc:
       'Spring Boot • Thymeleaf',
   },
   {
-    title: 'Software Bug Tracker ¦ bugout-demo.herokuapp.com',
+    title: 'Software Bug Tracker | bugout.lyle.app',
     subtitle: 'Software Bug Tracker',
-    link: 'https://bugout-demo.herokuapp.com/',
+    link: 'https://bugout.lyle.app/',
     image: '/images/projects/bugout.jpg',
     date: '2021-10-21',
     desc:
       'Spring Boot • Angular • PostgreSQL',
   },
   {
-    title: 'Task Board ¦ tasket-demo.herokuapp.com',
+    title: 'Task Board | tasket.lyle.app',
     subtitle: 'Task Board',
-    link: 'https://tasket-demo.herokuapp.com/',
+    link: 'https://tasket.lyle.app',
     image: '/images/projects/tasket.jpg',
     date: '2021-11-23',
     desc:
       'Spring Boot • React • PostgreSQL',
   },
   {
-    title: 'Chat Room ¦ chatty-services.herokuapp.com',
+    title: 'Chat Room | chatty.lyle.app',
     subtitle: 'Chat Room',
-    link: 'https://chatty-services.herokuapp.com/',
+    link: 'https://chatty.lyle.app',
     image: '/images/projects/chatty.jpg',
     date: '2019-07-03',
     desc:
       'Spring Boot',
   },
   {
-    title: 'Coronavirus Tracker ¦ coronavirus-tracker-demo.herokuapp.com',
+    title: 'Coronavirus Tracker | rona-report.lyle.app',
     subtitle: 'Coronavirus Tracker',
-    link: 'https://coronavirus-tracker-demo.herokuapp.com/',
-    image: '/images/projects/corona.jpg',
+    link: 'https://rona-report.lyle.app',
+    image: '/images/projects/ronareport.jpg',
     date: '2021-04-01',
     desc:
       'Spring Boot • Thymeleaf',
