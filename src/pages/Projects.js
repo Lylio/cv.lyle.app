@@ -20,11 +20,6 @@ const Projects = () => (
             typical front end, back end and persistence layers. I have them listed here to
             provide a little evidence of my coding skills (i.e. my Googling skills).
           </p>
-          <br />
-          <p>Some of these apps are hosted on the <i>free</i> tier of the Heroku cloud platform.
-            This means an occasional <b>30-second load-time</b> 🙃. Your patience is appreciated
-            when trying out these demos.
-          </p>
         </div>
       </header>
       {data.map((project) => (

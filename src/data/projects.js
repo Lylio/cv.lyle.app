@@ -1,5 +1,14 @@
 const data = [
   {
+    title: 'Cookie Contacts | cookie-contacts.lyle.app',
+    subtitle: 'Contact Management Service',
+    link: 'https://cookie-contacts.lyle.app',
+    image: '/images/projects/cookie-contacts.jpg',
+    date: '2022-06-16',
+    desc:
+      'Spring Boot • React • MongoDB',
+  },
+  {
     title: 'QR Code Generator | quarcode.lyle.app',
     subtitle: 'QR Code Generator',
     link: 'https://quarcode.lyle.app',
