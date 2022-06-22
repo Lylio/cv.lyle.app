@@ -1,6 +1,6 @@
 ![](https://github.com/Lylio/image-repo/blob/master/logos/react.png?raw=true)
 ![](https://github.com/Lylio/image-repo/blob/master/logos/gcp.png?raw=true)
-# Portfolio
+# cv.lyle.app
 
 ## Description
 An online CV/Resume built as a static website using <b>React JS</b>. 
