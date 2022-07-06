@@ -16,6 +16,7 @@ Presents info such as development projects, work experience and education. Hoste
 | GitHub Commits | ![Github Commit Activity](https://img.shields.io/github/commit-activity/m/lylio/cv.lyle.app?style=for-the-badge)                                                                                                                      |
 
 <br>
+<br>
 
 ### Acknowledgements
 
