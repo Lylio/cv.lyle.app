@@ -30,6 +30,10 @@ const Courses = ({ data }) => (
   </div>
 );
 
+Courses.defaultProps = {
+  data: [],
+};
+
 Courses.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
@@ -37,10 +41,6 @@ Courses.propTypes = {
     link: PropTypes.string,
     university: PropTypes.string,
   })),
-};
-
-Courses.defaultProps = {
-  data: [],
 };
 
 export default Courses;

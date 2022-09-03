@@ -1,3 +1,5 @@
+// noinspection NonAsciiCharacters
+
 const degrees = [
   {
     school: 'University of Glasgow',

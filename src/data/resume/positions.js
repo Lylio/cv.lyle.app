@@ -5,17 +5,19 @@ const positions = [
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Present',
     points: [
-      'Java (JDK 11) ∙ Quarkus ∙ PostgreSQL ∙ Liquibase ∙ Kafka',
-      'React ∙ Kubernetes ∙ Docker ∙ Google Cloud Platform',
-      'Linux (Ubuntu) ∙ Bitbucket',
+      'Java (JDK 8/11) ∙ Quarkus ∙ Spring Boot ∙ GraphQL',
+      'PostgreSQL ∙ Kubernetes ∙ Kafka ∙ Docker ∙ Maven',
+      'Google Cloud Platform ∙ Linux (Ubuntu) ∙ Bitbucket ',
     ],
-    description: 'I develop health & social care software products within OLM\'s integration team.'
-      + ' This role is focused on backend Java development in which Quarkus and Spring Boot '
-      + ' frameworks support a variety of microservices, web apps and bespoke integrations. OLM\'s '
-      + ' product suite is very popular with local authorities and other public sector '
-      + ' organisations. My skills in Java Microservice Development, Cloud Native Application '
-      + ' Design and Enterprise Systems Integration continue to be strengthened by my position '
-      + ' within OLM.',
+    description: 'As part of the integration team, I developed bespoke data services which sat'
+      + ' within OLM\'s health & social care software products.'
+      + ' This role focused on Java/backend development in which Quarkus and Spring Boot'
+      + ' frameworks supported a variety of microservices and web apps. OLM\'s'
+      + ' product suite remains very popular with local authorities and other public sector'
+      + ' organisations, and the integration team was responsible for developing ad-hoc solutions'
+      + ' to support customer\'s case management and data needs.'
+      + ' My skills in Java Microservice Development, Cloud Native Application Design,'
+      + ' and Enterprise Systems Integration were highly strengthened during my time at OLM.',
   },
   {
     company: 'Virgin Money',
@@ -25,7 +27,8 @@ const positions = [
     points: [
       'OpenShift ∙ Docker ∙ Linux (RHEL 8) ∙ Bash',
       'Java (JDK 8) ∙ Spring Boot ∙ Python ∙ Gradle ∙ Maven',
-      'Jenkins ∙ GoCD ∙ Nexus Repo ∙ MongoDB ∙ GitHub',
+      'Jenkins ∙ Nexus Repo ∙ MongoDB ∙ SonarQube ∙ GoCD',
+      'GitHub ∙ React ∙ Azure',
     ],
     description: 'In this DevOps role I developed, supported and maintained'
       + ' Virgin Money\'s Operational Platform which was a complex containerisation estate'

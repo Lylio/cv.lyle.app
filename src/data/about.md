@@ -1,7 +1,9 @@
 # Introduction
-Hello I'm Lyle. I’m a Software Developer with interests in technology fields such as **App Development**,
-**Automation**, **Microservice Architecture**, **Integration** and the **Internet-of-Things**. I’m particularly fond 
-of working with tech stacks which are backed with **Java** services and fronted by **React** components.
+Hello I'm Lyle. I’m an experienced Software Developer and my technical interests are in **App Development**, **SPAs**,
+**Microservice Architecture**, **AI**, **The-Internet-of-Things** and various other **fads-of-the-month**.
+
+I’m particularly fond of working with tech stacks which are fronted by **React** components and backed with **Java** 
+services.
 
 <br>
 <p>
@@ -10,9 +12,11 @@ of working with tech stacks which are backed with **Java** services and fronted 
 <br>
 
 
-I like building things, I like fixing things. I have a long list of tech tutorials that I chew through of an evening. 
-I like **Java**, I like **Spring Boot**, I like **Docker**, **Linux** and **React**. I like **Quarkus**. I like 
-**Kubernetes**. I like **Shell** scripting and **Python** scripting. **Git** is great, **Groovy** is groovy, 
-**Gradle** is grand. **REST**, **CRUD** and **ORM**. **JRE**, **JDK** and **JVM**.
+I like the satisfaction of **building** things; I like the lottery win of finding a **fix**. I have a long list of **tech tutorials** 
+that I chew through during most evenings and weekends. I like **React** and **JavaScript**, I like **Java** and **Spring Boot**. 
+I like **Docker** and **Container Tech**. I'm a big fan of **Linux** and **MacOS**. **Cloud Tech** is cool, I like **Kubernetes**. 
+I enjoy writing lean, clean scripts with **Python** and **Bash**. **Git** is great. I like a neat-and-tidy **codebase**. I like
+sensible **names** for variables, classes and functions 😧. I like clear and inclusive **documentation** 😱. In summary, you guys: I really like
+**learning** how to do something *better* that I had previously been doing **terribly**! 🤢 
 
 
