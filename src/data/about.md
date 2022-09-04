@@ -14,9 +14,9 @@ services.
 I like the satisfaction of **building** things; I like the lottery win of finding a **solution**. I have a long list of **tech tutorials** 
 that I gnaw through during most evenings and weekends. I like **React** and **JavaScript**. I also like **Spring Boot** and **Java**. 
 **Docker** and **Container Tech** is good.**Linux** is fab. I think **Cloud Tech** is neat and **Kubernetes** is **Kuber-coolies**. 
-I enjoy writing lean, clean scripts with **Bash** and **Python**. **Git** is great. I love a neat-and-tidy **codebase**. 
-I like sensible and thoughtful **naming conventions** for variables, classes and functions 😧. I like transparent and inclusive **documentation** 😱. 
-In summary: I like a **well-oiled** machine that's free of **filler or filter** 🤢.
+I enjoy writing lean, clean scripts with **Bash** and **Python**. **Git** is great. I love a neat-and-tidy **codebase** 🤗. 
+I like sensible and thoughtful **naming conventions** for variables, classes and functions 😄. I like transparent and inclusive **documentation** 😍. 
+In summary: I like a **well-oiled** machine that's free of **filler or filter** 🥳💕.
 
 
 
