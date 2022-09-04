@@ -11,12 +11,13 @@ services.
 </p>
 <br>
 
+I like the satisfaction of **building** things; I like the lottery win of finding a **solution**. I have a long list of **tech tutorials** 
+that I gnaw through during most evenings and weekends. I like **React** and **JavaScript**, I also like **Java** and **Spring Boot**. 
+**Docker** and **Container Tech** is cool. I'm a big fan of **Linux** and **MacOS**. I think **Cloud Tech** is cool, **Kubernetes** is **Kuber-coolies**. 
+I enjoy writing lean, clean scripts with tech like **Python** and **Bash**. **Git** is great. I love a neat-and-tidy **codebase**. 
+I like sensible names for variables, classes and functions 😧. I like clear and inclusive documentation 😱. In summary, in seriousness: 
+I really like learning how to replace a slow-poke method with a by-the-beach making the most sense. 🤢
 
-I like the satisfaction of **building** things; I like the lottery win of finding a **fix**. I have a long list of **tech tutorials** 
-that I chew through during most evenings and weekends. I like **React** and **JavaScript**, I like **Java** and **Spring Boot**. 
-I like **Docker** and **Container Tech**. I'm a big fan of **Linux** and **MacOS**. **Cloud Tech** is cool, I like **Kubernetes**. 
-I enjoy writing lean, clean scripts with **Python** and **Bash**. **Git** is great. I like a neat-and-tidy **codebase**. I like
-sensible **names** for variables, classes and functions 😧. I like clear and inclusive **documentation** 😱. In summary, you guys: I really like
-**learning** how to do something *better* that I had previously been doing **terribly**! 🤢 
+
 
 
