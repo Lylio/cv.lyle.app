@@ -15,8 +15,8 @@ I like the satisfaction of **building** things; I like the lottery win of findin
 that I gnaw through during most evenings and weekends. I like **React** and **JavaScript**, I also like **Java** and **Spring Boot**. 
 **Docker** and **Container Tech** is cool. I'm a big fan of **Linux** and **MacOS**. I think **Cloud Tech** is cool, **Kubernetes** is **Kuber-coolies**. 
 I enjoy writing lean, clean scripts with tech like **Python** and **Bash**. **Git** is great. I love a neat-and-tidy **codebase**. 
-I like sensible names for variables, classes and functions 😧. I like clear and inclusive documentation 😱. In summary, in seriousness: 
-I really like learning how to replace a slow-poke method with a by-the-beach making the most sense. 🤢
+I like sensible, thoughtful naming conventions for variables, classes and functions 😧. I like transparent and inclusive documentation 😱. 
+In summary: I like a lean machine without filler or filter 🤢. 
 
 
 
