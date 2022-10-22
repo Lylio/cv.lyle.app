@@ -1,5 +1,14 @@
 const data = [
   {
+    title: 'Tic Tac Toe | tic-tac-toe.lyle.app',
+    subtitle: 'Classic Gaming',
+    link: 'https://tic-tac-toe.lyle.app',
+    image: '/images/projects/tic-tac-toe.jpg',
+    date: '2022-10-22',
+    desc:
+      'React • Framer Motion',
+  },
+  {
     title: 'Cookie Contacts | cookie-contacts.lyle.app',
     subtitle: 'Contact Management Service',
     link: 'https://cookie-contacts.lyle.app',
