@@ -1,9 +1,19 @@
 const positions = [
   {
+    company: 'FSB',
+    position: 'Java Developer',
+    link: 'https://fsbtech.com/',
+    daterange: 'Nov 2022 - present',
+    points: [
+      'Java ∙ React',
+    ],
+    description: 'FSB are focused on developing gambling and gaming software. More info soon',
+  },
+  {
     company: 'OLM Systems',
     position: 'Software Developer (Java)',
     link: 'https://www.olmsystems.com/',
-    daterange: 'Aug 2021 - Present',
+    daterange: 'Aug 2021 - Oct 2022',
     points: [
       'Java (JDK 8/11) ∙ Quarkus ∙ Spring Boot ∙ GraphQL',
       'PostgreSQL ∙ Kubernetes ∙ Kafka ∙ Docker ∙ Maven',

@@ -30,9 +30,9 @@ I like **React** and **Java**. I also like **Spring Boot** and **JavaScript**. *
 **Docker** is dandy, **Linux** is *liberty*. **Kubernetes** is **Kubercoolies**.  
 <br>
 
-I enjoy writing good, clean code: cool scripts with **Bash** and **Python** (of course with Robert C. Martin's watchful 
-eye and thoughtful comments). **Git** is great; I love a neat-and-tidy **codebase**. I like sensible and thoughtful 
-**naming conventions** for variables, classes and functions. I like transparent and inclusive **documentation**.
+I enjoy writing good, Clean Code (© 2008 Robert C. Martin): cool scripts with **Bash** and **Python**. **Git** is great; 
+I love a neat-and-tidy **codebase**. I like sensible and thoughtful **naming conventions** for variables, classes and 
+functions. I like transparent and inclusive **documentation**.
 <br/>
 
 In summary: I like a **well-oiled** machine that's free of **filler or filter**. Cheers 🍻.
