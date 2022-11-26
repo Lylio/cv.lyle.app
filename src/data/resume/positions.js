@@ -5,9 +5,16 @@ const positions = [
     link: 'https://fsbtech.com/',
     daterange: 'Nov 2022 - present',
     points: [
-      'Java ∙ React',
+      'Java (JDK 8/11) ∙ WildFly ∙ Vagrant',
+      'PostgreSQL ∙ MongoDB ∙ 3T ∙ Maven',
+      'Linux (Ubuntu) ∙ Camel ∙ GitLab',
+      'Active MQ ∙ FitNesse ∙ Kafka ∙ Karaf',
     ],
-    description: 'FSB are focused on developing gambling and gaming software. More info soon',
+    description: 'FSB Tech is an award-winning gaming technology company with global operators '
+      + 'who assemble their curated sports betting and iGaming experience. Specialising in '
+      + 'sportsbook software and online casino solutions, FSB Tech are currently making global '
+      + 'strides, including exciting developments in North American territories, providing '
+      + 'full-scale online casinos and sports betting solutions.',
   },
   {
     company: 'OLM Systems',

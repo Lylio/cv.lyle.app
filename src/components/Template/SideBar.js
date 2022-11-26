@@ -21,8 +21,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Interests</h2>
-      <p>Java ☕ ∙ React ⚛ ∙ Spring 🍃 ∙ JavaScript 📜<br />
-        Linux 🐧 ∙ Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁️
+      <p>Java ☕ ∙ Spring 🌱 ∙ React ⚛ ∙ JavaScript 📜<br />
+        Linux 🐧 ∙ Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁<br />
+        MongoDB 🍃 ∙ PostgreSQL 🐘 ∙ Maven 🪶
       </p>
       <ul className="actions">
         <li>

@@ -7,6 +7,7 @@ const data = [
     date: '2022-10-22',
     desc:
       'React • Framer Motion',
+    github: 'https://github.com/Lylio/tic-tac-toe',
   },
   {
     title: 'Cookie Contacts | cookie-contacts.lyle.app',
@@ -16,6 +17,7 @@ const data = [
     date: '2022-06-16',
     desc:
       'Spring Boot • React • MongoDB',
+    github: 'https://github.com/Lylio/cookie-contacts',
   },
   {
     title: 'QR Code Generator | quarcode.lyle.app',
@@ -25,6 +27,7 @@ const data = [
     date: '2022-02-19',
     desc:
       'Spring Boot • Thymeleaf',
+    github: 'https://github.com/Lylio/quarcode',
   },
   {
     title: 'Software Bug Tracker | bugout.lyle.app',
@@ -34,6 +37,7 @@ const data = [
     date: '2021-10-21',
     desc:
       'Spring Boot • Angular • PostgreSQL',
+    github: 'https://github.com/Lylio/bugout',
   },
   {
     title: 'Task Board | tasket.lyle.app',
@@ -43,6 +47,7 @@ const data = [
     date: '2021-11-23',
     desc:
       'Spring Boot • React • PostgreSQL',
+    github: 'https://github.com/Lylio/tasket',
   },
   {
     title: 'Chat Room | chatty.lyle.app',
@@ -52,6 +57,7 @@ const data = [
     date: '2019-07-03',
     desc:
       'Spring Boot',
+    github: 'https://github.com/Lylio/chatty',
   },
   {
     title: 'Coronavirus Tracker | rona-report.lyle.app',
@@ -61,6 +67,7 @@ const data = [
     date: '2021-04-01',
     desc:
       'Spring Boot • Thymeleaf',
+    github: 'https://github.com/Lylio/rona-report',
   },
 ];
 
