@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
-import octocat from './octocat.png'; // with import
+import githublogo from './images/github-logo.png';
 
 const Cell = ({ data }) => (
   <div className="cell-container">
@@ -18,7 +18,7 @@ const Cell = ({ data }) => (
       </div>
       <div className="github">
         <a href={data.github} className="image">
-          <img src={octocat} alt="" />
+          <img src={githublogo} alt="" />
         </a>
       </div>
     </article>
