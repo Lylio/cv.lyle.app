@@ -14,15 +14,16 @@ const Index = () => (
         </div>
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
-      <p>I am currently a <b>Java Developer</b> with <a href="https://fsbtech.com/">FSB</a> having
-        joined the team at the start of November 2022.
+      <p>I was recently a <b>Java Developer</b> with <a href="https://fsbtech.com/">FSB Tech</a>
+        having joined the team at the start of November 2022.
       </p>
-
-      <p>FSB Tech is an award-winning gaming technology company with global operators who assemble
-        their curated sports betting and iGaming experience. Specialising in sportsbook software
-        and online casino solutions, FSB Tech are currently making global strides, including
-        exciting developments in North American territories, providing full-scale online casinos
-        and sports betting solutions.
+      <p>Unfortunately, in Decemeber 2022, FSB was forced to close its Glasgow office
+        as a result of chaotic role restructuring and unsustainable market strategies.
+        Subsequently, I am currently looking for a new developer position and keen to join a
+        company with an interesting roadmap and solid business foundation.
+      </p>
+      <p>Please don&apos;t hesitate to get in touch if my skill-set and experience aligns with the
+        business goals of your company.
       </p>
     </article>
   </Main>

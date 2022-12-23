@@ -3,7 +3,7 @@ const positions = [
     company: 'FSB',
     position: 'Java Developer',
     link: 'https://fsbtech.com/',
-    daterange: 'Nov 2022 - present',
+    daterange: 'Nov 2022 - Dec 2022',
     points: [
       'Java (JDK 8/11) ∙ WildFly ∙ Vagrant',
       'PostgreSQL ∙ MongoDB ∙ 3T ∙ Maven',
@@ -11,10 +11,9 @@ const positions = [
       'Active MQ ∙ FitNesse ∙ Kafka ∙ Karaf',
     ],
     description: 'FSB Tech is an award-winning gaming technology company with global operators '
-      + 'who assemble their curated sports betting and iGaming experience. Specialising in '
-      + 'sportsbook software and online casino solutions, FSB Tech are currently making global '
-      + 'strides, including exciting developments in North American territories, providing '
-      + 'full-scale online casinos and sports betting solutions.',
+      + 'who assemble their curated sports betting and iGaming experience.  FSB was forced to close '
+      + 'its Glasgow office as a result of chaotic role restructuring and unsustainable market '
+      + 'strategies.',
   },
   {
     company: 'OLM Systems',
