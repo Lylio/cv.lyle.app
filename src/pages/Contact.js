@@ -16,9 +16,12 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>It would be grand to hear from you! I have <a href="https://www.linkedin.com/in/lylechristine/"><b>LinkedIn</b></a> | I have <a href="mailto:cxz@gmx.com"><b>em@il</b></a>.</p>
-        <p>Check out my <a href="https://github.com/Lylio"><b>GitHub</b></a>.</p>
-        <br />
+        <p>It would be grand to hear from you!</p>
+        <ul>
+          <li>Here&apos;s <a href="https://www.linkedin.com/in/lylechristine/"><b>LinkedIn</b></a></li>
+          <li>Here&apos;s <a href="mailto:cxz@gmx.com"><b>em@il</b></a></li>
+          <li>Here&apos;s <a href="https://github.com/Lylio"><b>GitHub</b></a></li>
+        </ul>
         🌳
       </div>
       <ContactIcons />

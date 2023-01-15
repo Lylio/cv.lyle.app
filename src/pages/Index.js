@@ -14,8 +14,14 @@ const Index = () => (
         </div>
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
-      <p>I&apos;m currently looking for a new developer position and keen to join a
-        company who has an interesting roadmap and solid business foundation.
+      <p>Hi I&apos;m Lyle, thanks for checking out my online CV. At the moment I&apos;m currently
+        looking for a new developer position and keen to join a company who has an interesting
+        roadmap and solid business foundation. My main areas of professional tech experience are in
+        <b> Java development</b>, <b>Back-End engineering</b> and <b>DevOps administration</b>.
+        I also have a front-end skill set with the <b>ReactJS</b> framework.
+      </p>
+      <p>Please check out my <b><a href="https://cv.lyle.app/projects">projects</a></b> page for
+        examples of apps I&apos;ve built with links to my GitHub code repos.
       </p>
     </article>
   </Main>
