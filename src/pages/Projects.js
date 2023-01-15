@@ -13,10 +13,10 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>The following projects have been developed using cool tech such as
+          <p>The following projects have been developed using tech frameworks such as
             <b> Spring Boot</b> and <b>React</b>. Although these are fairly simple applications
-            composed of typical front end, back end and persistence layers, I have them listed
-            here to provide a little evidence of my coding skills (i.e. my Googling skills).
+            composed of typical front-end, back-end and persistence layers, I have them listed
+            here to provide a little evidence of my coding skills (i.e. my Googling skills 😹).
           </p>
         </div>
       </header>
