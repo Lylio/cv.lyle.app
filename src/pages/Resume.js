@@ -5,19 +5,16 @@ import Main from '../layouts/Main';
 
 import Education from '../components/Resume/Education';
 import Experience from '../components/Resume/Experience';
-import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
-import { skills, categories } from '../data/resume/skills';
 
 const sections = [
   'Experience',
   'Education',
   'Courses',
-  'Skills',
 ];
 
 const Resume = () => (
@@ -41,7 +38,6 @@ const Resume = () => (
       <Experience data={positions} />
       <Education data={degrees} />
       <Courses data={courses} />
-      <Skills skills={skills} categories={categories} />
 
     </article>
   </Main>
