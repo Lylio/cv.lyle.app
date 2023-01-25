@@ -23,7 +23,7 @@ const data = [
     icon: faEnvelope,
   },
   {
-    link: 'https://drive.google.com/file/d/1MYjJShBu39JNA6_XbJuISLUDE1yGQbJy/view?usp=share_link',
+    link: 'https://1drv.ms/b/s!Ap0L9avjjiaNgvsmZLxo-UtQjNFfXA?e=HHbrNv',
     label: 'PDF',
     icon: faFilePdf,
   },
