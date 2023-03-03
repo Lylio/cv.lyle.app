@@ -1,13 +1,14 @@
 # Introduction
 
 I’m an experienced Software Developer and my technical interests are varied but can generally 
-be located in **App Development** (e.g. Web Apps, Cloud Native, Desktop, SPAs, Mobile, etc.). As a Java developer I 
-like **Microservice** architecture; I love **Gaming** tech; **The-Internet-of-Things** is interesting.
-
-
-
+be located in **App Development** (e.g. Web, Mobile, Desktop, Cloud Native, SPAs, Websites, etc.). As a 
+Java developer I love Object-oriented programming, but also love the slender coding experience of functional programming.
+I think **Microservice** architecture is cool; I also like **Gaming** tech. **The-Internet-of-Things** is interesting 
+(maybe more in the code that will end up auto-driving cars than the tech which will auto order cheese slices for your 
+fridge).<br />
 I’m fond of working with tech stacks which are backed with **Java** services and fronted by **React** 
-components. I like the **Spring** framework and my favourite Linux flavour is **Ubuntu**.
+components. I'm a full-stack developer at heart and I spend a lot of time expanding my skills on both sides of the 
+*ends*.
 
 <br />
 
@@ -17,18 +18,18 @@ components. I like the **Spring** framework and my favourite Linux flavour is **
 
 <br />
 
-I like building things, I like fixing things, I like creating digital components and connecting them up, so they can
-happily chit-chat streams of data between each other. I have a long list of tech tutorials that I gnaw through most 
-evenings and weekends. I'm really into expanding my skills and knowledge and spend a lot of time trying to become a 
-better developer. I enjoy learning new languages, tools, and frameworks.
+I enjoy building things and I enjoy fixing things. I like creating cool components and building pipelines between them 
+so they can shuttle streams of data between each other without friction or fuss. I have a long list of tech tutorials 
+that I gnaw through most evenings and weekends. I like refreshing my current skill-set and I love expanding my current 
+tech knowledge. I spend a lot of time becoming a better developer by learning new **tools**, **techniques**, 
+and **trends**.
 
 <br />
 
-**Container Tech** is cool, **Docker** rocks, **Kubernetes** is **Kuberneato!** I enjoy writing spotless, 
-**clean code**. I like cool automation scripts with **Bash** and **Python**. **Git** is great: A neat-and-tidy 
-**codebase** makes me happy. I like sensible and thoughtful naming conventions for variables, classes and methods. 
-I like clear and inclusive documentation. 
+**Clean Code** is really important to me. A neat-and-tidy codebase makes me happy. I like cool automation scripts with
+**Bash** and **Python**. I have an enduring enthusiasm for sensible and thoughtful naming conventions for 
+variables, classes and methods. I like clear and inclusive documentation.
 
-<br /> In summary: I like a **well-oiled** machine that's free of **filler and fuss**.
+<br /> In summary: I like a well-oiled machine that's free of palaver or pain.
 
 <br /> **Come As You Are** 🎸

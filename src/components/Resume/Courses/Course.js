@@ -6,7 +6,7 @@ const Course = ({ data, last }) => (
     <a href={data.link}>
       <h4 className="course-name">{data.title}</h4>
     </a>
-    {!last && <div className="course-dot"><p className="course-name"> &#8226;</p></div>}
+    {!last && <div className="course-dot"><p>{data.title} &#8226;</p></div>}
   </li>
 );
 
@@ -15,6 +15,7 @@ Course.propTypes = {
     link: PropTypes.string.isRequired,
     number: PropTypes.string.isRequired,
     title: PropTypes.string.isRequired,
+    curriculum: PropTypes.string.isRequired,
   }).isRequired,
   last: PropTypes.bool,
 };

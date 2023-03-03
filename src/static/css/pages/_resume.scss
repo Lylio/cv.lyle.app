@@ -78,6 +78,10 @@
 	}
 }
 
+.contact-color {
+	color: #3c3b3b;
+}
+
 .daterange {
 	margin-bottom: .2em;
 }
@@ -122,6 +126,10 @@
 .course-dot {
 	display: inline;
 	// display: none;
+}
+
+.curriculum {
+	color: cadetblue;
 }
 
 @include breakpoint(small) {

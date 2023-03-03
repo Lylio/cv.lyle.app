@@ -1,13 +1,28 @@
 const positions = [
   {
-    company: 'FSB',
+    company: 'CGI',
+    position: 'Senior Software Engineer (Java)',
+    link: 'https://www.cgi.com/en',
+    daterange: 'March 2023 - Present',
+    points: [
+      'Java (JDK 8/11) ∙ Maven ∙ Linux',
+      'PostgreSQL ∙ MongoDB ∙ More Info TBC',
+    ],
+    description: 'GGI is a global leader in excellence based on an outstanding reputation which '
+      + 'has been forged through creative and enthusiastic problem solving. Their team of '
+      + 'international software engineers regularly engage in varied domains including finance, '
+      + 'consumer trends, big data analysis, management and security, strategic IT and business '
+      + 'consulting, systems integration, intellectual property, and managed IT and business '
+      + 'process services.',
+  },
+  {
+    company: 'FSB Tech',
     position: 'Java Developer',
     link: 'https://fsbtech.com/',
     daterange: 'Nov 2022 - Dec 2022',
     points: [
-      'Java (JDK 8/11) ∙ WildFly',
-      'PostgreSQL ∙ MongoDB ∙ Maven',
-      'Linux (Ubuntu) ∙ Camel ∙ GitLab',
+      'Java (JDK 8/11) ∙ Maven ∙ Linux',
+      'PostgreSQL ∙ MongoDB ∙ GitLab',
     ],
     description: 'FSB Tech was a self-proclaimed gaming technology company '
       + 'who peddled an amatuer online betting experience. In late 2022 FSB was forced to close '
