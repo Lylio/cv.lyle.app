@@ -3,7 +3,6 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
 import { faHackerrank } from '@fortawesome/free-brands-svg-icons';
-import { SiSololearn } from 'react-icons/si';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
