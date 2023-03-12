@@ -2,6 +2,8 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
+import { faHackerrank } from '@fortawesome/free-brands-svg-icons';
+import { SiSololearn } from 'react-icons/si';
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -26,6 +28,11 @@ const data = [
     link: 'https://1drv.ms/b/s!Ap0L9avjjiaNgv41bhdHvrFwNv9DBw?e=4mtrYY',
     label: 'PDF',
     icon: faFilePdf,
+  },
+  {
+    link: 'https://www.hackerrank.com/Lylio',
+    label: 'HackerRank',
+    icon: faHackerrank,
   },
 ];
 

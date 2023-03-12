@@ -2,9 +2,10 @@
 # cv.lyle.app
 
 ## Description
-This is my online CV/Resume. A simple web-app built with my favourite frontend library:  <b>React JS</b>. 
+This is my online CV/Portfolio built with React. 
 
-The website presents info such as development projects, work experience and education. Hosted on Google Cloud Platform.
+The website presents info such as background details, work experience, education and a selection of projects I've built. 
+The app is hosted on the Google Cloud Platform.
 
 <br />
 
@@ -14,9 +15,15 @@ The website presents info such as development projects, work experience and educ
 | Tech Stack     | <div>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/GoogleCloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) |
 | Top Language   | ![Github Language](https://img.shields.io/github/languages/top/lylio/cv.lyle.app?style=for-the-badge)                                                                                                                                 |
 | Repo Size      | ![Repo Size](https://img.shields.io/github/repo-size/lylio/cv.lyle.app?style=for-the-badge)                                                                                                                                           |
-| GitHub Commits | ![Github Commit Activity](https://img.shields.io/github/commit-activity/m/lylio/cv.lyle.app?style=for-the-badge)                                                                                                                      |
 
 <br>
+
+### Launch Instructions
+1. The Node version should be 12.22.7
+2. `npm install`
+3. `npm start`
+
+<br />
 
 ### Acknowledgements
 
