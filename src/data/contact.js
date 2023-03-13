@@ -1,8 +1,12 @@
 import { faGithub } from '@fortawesome/free-brands-svg-icons/faGithub';
 import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
-import { faFilePdf } from '@fortawesome/free-regular-svg-icons';
-import { faHackerrank } from '@fortawesome/free-brands-svg-icons';
+import { faFilePdf, far } from '@fortawesome/free-regular-svg-icons';
+import { fab } from '@fortawesome/free-brands-svg-icons';
+import { faFan } from '@fortawesome/free-solid-svg-icons';
+import { library } from '@fortawesome/fontawesome-svg-core';
+
+library.add(far, fab);
 
 // See https://fontawesome.com/icons?d=gallery&s=brands,regular&m=free
 // to add other icons.
@@ -29,9 +33,9 @@ const data = [
     icon: faFilePdf,
   },
   {
-    link: 'https://www.hackerrank.com/Lylio',
-    label: 'HackerRank',
-    icon: faHackerrank,
+    link: 'https://www.sololearn.com/profile/24431183',
+    label: 'SoloLearn',
+    icon: faFan,
   },
 ];
 
