@@ -3,7 +3,6 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { faFilePdf, far } from '@fortawesome/free-regular-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons';
-import { faFan } from '@fortawesome/free-solid-svg-icons';
 import { library } from '@fortawesome/fontawesome-svg-core';
 
 library.add(far, fab);
@@ -31,11 +30,6 @@ const data = [
     link: 'https://1drv.ms/b/s!Ap0L9avjjiaNgv41bhdHvrFwNv9DBw?e=4mtrYY',
     label: 'PDF',
     icon: faFilePdf,
-  },
-  {
-    link: 'https://www.sololearn.com/profile/24431183',
-    label: 'SoloLearn',
-    icon: faFan,
   },
 ];
 
