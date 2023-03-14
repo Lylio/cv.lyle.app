@@ -2,8 +2,8 @@
 
 const degrees = [
   {
-    school: 'University of Glasgow',
-    degree: 'MSc, Software Development',
+    school: 'UNIVERSITY OF GLASGOW',
+    degree: 'MSc, SOFTWARE DEVELOPMENT',
     link: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
     curriculum: [
       ' Programming (Java) ∙ Advanced Programming (Java) ∙ Database Theory and Applications (SQL)',
@@ -13,22 +13,22 @@ const degrees = [
     ],
   },
   {
-    school: 'University of Glasgow',
-    degree: 'MPhil, Sociology',
+    school: 'UNIVERSITY OF GLASGOW',
+    degree: 'MPhil, SOCIOLOGY',
     link: 'https://www.gla.ac.uk/postgraduate/research/sociology/',
     curriculum: [
-      'Processes of Recovery from Problem Gambling: A Qualitative Exploration\n',
+      '"Processes of Recovery from Problem Gambling: A Qualitative Exploration"\n',
       'https://theses.gla.ac.uk/5470/',
     ],
   },
   {
-    school: 'University of Glasgow',
-    degree: 'MRes, Sociology & Research Methods',
+    school: 'UNIVERSITY OF GLASGOW',
+    degree: 'MRes, SOCIOLOGY & RESEARCH METHODS',
     link: 'https://www.gla.ac.uk/postgraduate/taught/sociologyresearchmethods/',
   },
   {
-    school: 'Abertay University',
-    degree: 'BA(Hons), Media, Culture & Society',
+    school: 'ABERTAY UNIVERSITY',
+    degree: 'BA(Hons), MEDIA,CULTURE & SOCIETY',
     link: 'https://www.abertay.ac.uk/course-search/undergraduate/sociology/',
   },
 ];

@@ -24,6 +24,14 @@
 			text-align: center;
 			margin-bottom: 2em;
 		}
+		h3 {
+			text-align: center;
+		}
+		h4 {
+			font-weight: bold;
+			color: #861330;
+			white-space: nowrap;
+		}
 	}
 	.experience {
 		.title {
@@ -37,6 +45,12 @@
 		}
 	}
 
+	.tutorials {
+
+		h3 {
+			text-align: center;
+		}
+	}
 	.jobs-container {
 		.points {
 			li {
@@ -61,6 +75,19 @@
 		}
 	}
 
+	.qualification-list {
+		h4 {
+			font-weight: bold;
+			color: #861330;
+			white-space: nowrap;
+		}
+	}
+		h5 {
+			color: #26757e;
+			font-weight: normal;
+		}
+	}
+
 	.skills {
 		margin-top: 2em;
 		.title {
@@ -76,7 +103,6 @@
 			text-align: center;
 		}
 	}
-}
 
 .contact-color {
 	color: #3c3b3b;
@@ -129,7 +155,7 @@
 }
 
 .curriculum {
-	color: cadetblue;
+	color: #26757e;
 }
 
 @include breakpoint(small) {

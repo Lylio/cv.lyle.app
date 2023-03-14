@@ -3,7 +3,7 @@ const positions = [
     company: 'CGI',
     position: 'Senior Software Engineer (Java)',
     link: 'https://www.cgi.com/en',
-    daterange: 'March 2023 - Present',
+    daterange: 'April 2023 - Present',
     points: [
       'Java (JDK 8/11) ∙ Maven ∙ Linux',
       'PostgreSQL ∙ MongoDB ∙ More Info TBC',

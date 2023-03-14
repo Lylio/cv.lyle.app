@@ -1,12 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Course = ({ data, last }) => (
+const Course = ({ data }) => (
   <li className="course-container">
     <a href={data.link}>
-      <h4 className="course-name">{data.title}</h4>
+      <h4 className="course-name">{}</h4>
     </a>
-    {!last && <div className="course-dot"><p>{data.title} &#8226;</p></div>}
+
   </li>
 );
 
@@ -17,11 +17,7 @@ Course.propTypes = {
     title: PropTypes.string.isRequired,
     curriculum: PropTypes.string.isRequired,
   }).isRequired,
-  last: PropTypes.bool,
-};
 
-Course.defaultProps = {
-  last: false,
 };
 
 export default Course;
