@@ -22,7 +22,11 @@ const Challenges = () => (
         <ul>
           <li><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a></li>
           <li><a href="https://www.hackerrank.com/dashboard"><b>HackerRank</b></a></li>
-          <li><a href="https://leetcode.com/Lylio/"><b>LeetCode</b></a></li>
+          <li><a href="https://www.leetcode.com/Lylio/"><b>LeetCode</b></a></li>
+          <li><a href="https://www.beecrowd.com.br/judge/en/"><b>BeerCrowd</b></a></li>
+          <li><a href="https://www.codechef.com/users/lylio"><b>CodeChef</b></a></li>
+          <li><a href="https://www.codewars.com/users/Lylio"><b>CodeWars</b></a></li>
+
           <br />
         </ul>
       </div>
