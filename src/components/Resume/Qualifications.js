@@ -24,7 +24,7 @@ const Qualifications = ({ data }) => (
     <div className="tutorials">
       <h3>Tutorials & Certificates</h3>
     </div>
-    <ul className="qualification-list">
+    <ul style={{ listStyleType: 'none' }} className="qualification-list">
       {getRows(data)}
     </ul>
   </div>

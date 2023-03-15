@@ -16,12 +16,12 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Send me your thoughts...</p>
+        <p>Let&apos;s chat...</p>
         <ul>
           <li><a href="https://www.linkedin.com/in/lylechristine/"><b>LinkedIn</b></a></li>
           <li><a href="mailto:cxz@gmx.com"><b>em@il</b></a></li>
           <br />
-          🌳
+          🌴
         </ul>
       </div>
       <ContactIcons />
