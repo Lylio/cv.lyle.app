@@ -1,7 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import Main from '../layouts/Main';
+import sololearn from '../static/img/icons/sololearn.png';
+import hackerrank from '../static/img/icons/hackerrank.png';
+import leetcode from '../static/img/icons/leetcode.png';
+import codechef from '../static/img/icons/codechef.png';
+import codewars from '../static/img/icons/codewars.png';
 import ContactIcons from '../components/Contact/ContactIcons';
 
   <h1>Code Challenges</h1>;
@@ -18,16 +22,12 @@ const Challenges = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Work in Progress... 🚧</p><br />
         <ul>
-          <li><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a></li>
-          <li><a href="https://www.hackerrank.com/dashboard"><b>HackerRank</b></a></li>
-          <li><a href="https://www.leetcode.com/Lylio/"><b>LeetCode</b></a></li>
-          <li><a href="https://www.beecrowd.com.br/judge/en/"><b>BeerCrowd</b></a></li>
-          <li><a href="https://www.codechef.com/users/lylio"><b>CodeChef</b></a></li>
-          <li><a href="https://www.codewars.com/users/Lylio"><b>CodeWars</b></a></li>
-
-          <br />
+          <a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b>SoloLearn</b></a><br />
+          <a href="https://hackerrank.com"><img src={hackerrank} alt="HackerRank" /><b>HackerRank</b></a><br />
+          <a href="https://leetcode.com"><img src={leetcode} alt="LeetCode" /><b>LeetCode</b></a><br />
+          <a href="https://codechef.com"><img src={codechef} alt="CodeChef" /><b>CodeChef</b></a><br />
+          <a href="https://codewars.com"><img src={codewars} alt="CodeWars" /><b>CodeWars</b></a><br />
         </ul>
       </div>
       <ContactIcons />
