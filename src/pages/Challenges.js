@@ -15,13 +15,13 @@ const Challenges = () => (
     title="Challenges"
     description="Code challenges as found on popular code challenge sites"
   >
-    <article className="post" id="contact">
+    <article className="post" id="challenges">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/contact">Code Challenges</Link></h2>
+          <h2 data-testid="heading"><Link to="/challenges">Code Challenges</Link></h2>
         </div>
       </header>
-      <div className="email-at">
+      <div className="challenge-list">
         <ul>
           <a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b>SoloLearn</b></a><br />
           <a href="https://hackerrank.com"><img src={hackerrank} alt="HackerRank" /><b>HackerRank</b></a><br />

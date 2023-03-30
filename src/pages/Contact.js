@@ -15,7 +15,7 @@ const Contact = () => (
           <h2 data-testid="heading"><Link to="/contact">Contact</Link></h2>
         </div>
       </header>
-      <div className="email-at">
+      <div className="email">
         <p>Let&apos;s chat...</p>
         <ul>
           <li><a href="mailto:cxz@gmx.com"><b>em@il</b></a></li>
