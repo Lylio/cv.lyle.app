@@ -14,16 +14,16 @@ const Index = () => (
         </div>
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
-      <p>Hi welcome to my online CV. I&apos;m
-        delighted to say I&apos;ll soon occupy the role of <b>Senior Sofware Engineer (Java) </b>
-        with esteemed global enterprise<b><a href="https://www.cgi.com/en"> CGI</a></b>.
-        For further info on my career details, please check out my
-        <b><a href="https://cv.lyle.app/about"> ABOUT</a></b> and
-        <b><a href="https://cv.lyle.app/cv"> CV</a></b> pages.
+      <p>Hi and welcome to my online CV. I currently occupy the role of
+        <b> Senior Sofware Engineer </b> with esteemed global consultancy
+        <a href="https://www.cgi.com/en"> <b>CGI</b></a>. For further info on my career details,
+        please check out the links above in addition to my
+        <b><a href="https://www.linkedin.com/in/lylechristine/"> LinkedIn</a></b> profile.
       </p>
-      <p> Also, my portfolio <b><a href="https://cv.lyle.app/projects"> PROJECTS </a></b>
-        page has some live demos along with my GitHub repos to give you an idea of my coding skill
-        level (*<b>cough</b>* ChatGPT level).
+      <p> My <b><a href="https://cv.lyle.app/projects"> portfolio </a></b>
+        page has some live demos along with accompanying GitHub repos to present an impression of my
+        coding and system design skills (*<b>cough</b>* ChatGPT skills).
+        <br />
       </p>
     </article>
   </Main>

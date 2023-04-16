@@ -19,6 +19,10 @@ const Challenges = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/challenges">Code Challenges</Link></h2>
+          <p>The following code challenges exist to help me gauge my levels of
+            programming, querying, mark-up and styling. The profiles are a work-in-progress and
+            a source of fun: I inch forward the challenges during my free moments.
+          </p>
         </div>
       </header>
       <div className="challenge-list">

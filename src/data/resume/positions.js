@@ -1,19 +1,20 @@
 const positions = [
   {
     company: 'CGI',
-    position: 'Senior Software Engineer (Java)',
+    position: 'Senior Software Engineer',
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      'Java (JDK 8/11) ∙ Maven ∙ Linux',
-      'PostgreSQL ∙ MongoDB ∙ More Info TBC',
+      'Java ∙ React ∙ Python',
+      'PostgreSQL ∙ MongoDB ∙ Linux',
+      'Azure ∙ SQL ∙ Node',
     ],
-    description: 'GGI is a global leader in excellence based on an outstanding reputation which '
-      + 'has been forged through creative and enthusiastic problem solving. Their team of '
-      + 'international software engineers regularly engage in varied domains including finance, '
-      + 'consumer trends, big data analysis, management and security, strategic IT and business '
-      + 'consulting, systems integration, intellectual property, and managed IT and business '
-      + 'process services.',
+    description: 'CGI is a multinational information technology consulting and systems integration '
+     + 'company. While CGI employs a large, talented global workforce to deliver on complex technical '
+     + 'projects, I\'m a Software Engineer within CGIs highly skilled Scottish Business Unit. Recent '
+     + 'project partnerships with the SBU division include: The Scottish Government, Glasgow City '
+     + 'Council, The Care Inspectorate, Ministry of Justice, Police Scotland, Office of National '
+     + 'Statistics and many more.',
   },
   {
     company: 'FSB Tech',
