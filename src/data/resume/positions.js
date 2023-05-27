@@ -5,16 +5,15 @@ const positions = [
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      'Java ∙ React ∙ Python',
-      'PostgreSQL ∙ MongoDB ∙ Linux',
-      'Azure ∙ SQL ∙ Node',
+      'Angular 16 ∙ Azure Kubernetes Service ∙ TypeScript',
+      'Helm ∙ Java (JDK 17) ∙ Karma ∙ Cypress ∙ Selenium',
+      'Agile Methodologies',
     ],
-    description: 'CGI is a multinational information technology consulting and systems integration '
-     + 'company. While CGI employs a large, talented global workforce to deliver on complex technical '
-     + 'projects, I\'m a Software Engineer within CGIs highly skilled Scottish Business Unit. Recent '
-     + 'project partnerships with the SBU division include: The Scottish Government, Glasgow City '
-     + 'Council, The Care Inspectorate, Ministry of Justice, Police Scotland, Office of National '
-     + 'Statistics and many more.',
+    description: 'CGI is a multinational information technology, consulting and systems '
+      + 'integration company. I\'m currently a Senior Software Engineer within CGI\'s highly '
+      + 'skilled Scottish Business Unit. At present I\'m working on a modernisation project for HM '
+      + 'Courts & Tribunals Service. This project focuses on migrating and upgrading the '
+      + 'legacy Digital Audio court system onto a Kubernetes Azure Cloud Platform.',
   },
   {
     company: 'FSB Tech',
@@ -25,11 +24,12 @@ const positions = [
       'Java (JDK 8/11) ∙ Maven ∙ Linux',
       'PostgreSQL ∙ MongoDB ∙ GitLab',
     ],
-    description: 'FSB Tech was a self-proclaimed gaming technology company '
-      + 'who peddled a generic and derivative online betting experience. A week before Christmas '
-      + '2022, FSB closed its Glasgow office and laid off around 25 employees. This was the '
-      + 'culmination of chaotic role restructuring, unsustainable market strategies and peddling '
-      + 'a product which proved to be unappealing to potential customers.',
+    description: 'FSB Tech was a self-proclaimed \'gaming technology\' company who peddled a '
+      + 'generic and derivative online betting experience. A week before Christmas 2022, FSB closed '
+      + 'its Glasgow office and ungraciously laid-off 25 employees. This was the culmination of '
+      + 'chaotic company role restructuring, underdeveloped market strategies and hawking a janky '
+      + 'gambling platform which proved to be unappealing to consumers and a dreary project for '
+      + 'skilled developers.',
   },
   {
     company: 'OLM Systems',

@@ -19,15 +19,15 @@ const Challenges = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/challenges">Code Challenges</Link></h2>
-          <p>The following code challenges exist to help me gauge my levels of
-            programming, querying, mark-up and styling. The profiles are a work-in-progress and
-            a source of fun: I inch forward the challenges during my free moments.
+          <p>The following code challenges help me gauge and progress my levels of
+            programming; querying; mark-up; and styling. These profiles are a work-in-progress and
+            a source of fun: I inch forward the challenge scores during my elusive free moments.
           </p>
         </div>
       </header>
       <div className="challenge-list">
         <ul>
-          <a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b>SoloLearn</b></a><br />
+          <a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b> SoloLearn</b></a><br />
           <a href="https://hackerrank.com"><img src={hackerrank} alt="HackerRank" /><b>HackerRank</b></a><br />
           <a href="https://leetcode.com"><img src={leetcode} alt="LeetCode" /><b>LeetCode</b></a><br />
           <a href="https://codechef.com"><img src={codechef} alt="CodeChef" /><b>CodeChef</b></a><br />
