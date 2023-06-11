@@ -6,8 +6,9 @@ const positions = [
     daterange: 'April 2023 - Present',
     points: [
       'Angular 16 ∙ Azure Kubernetes Service ∙ TypeScript',
-      'Helm ∙ Java (JDK 17) ∙ Karma ∙ Cypress ∙ Selenium',
-      'Agile Methodologies',
+      'Node 18 ∙ Karma ∙ Cypress ∙ Selenium',
+      'Yarn ∙ HTML ∙ CSS ∙ GitHub',
+      'Agile Methodologies ∙ MacOS',
     ],
     description: 'CGI is a multinational information technology, consulting and systems '
       + 'integration company. I\'m currently a Senior Software Engineer within CGI\'s highly '
@@ -60,7 +61,7 @@ const positions = [
       'OpenShift ∙ Docker ∙ Linux (RHEL 8) ∙ Bash',
       'Java (JDK 8) ∙ Spring Boot ∙ Python ∙ Gradle ∙ Maven',
       'Jenkins ∙ Nexus Repo ∙ MongoDB ∙ SonarQube ∙ GoCD',
-      'GitHub ∙ React ∙ Azure',
+      'GitHub ∙ React ∙ Azure ∙ MacOS',
     ],
     description: 'In this DevOps role I developed, supported and maintained'
       + ' Virgin Money\'s Operational Platform which was a complex containerisation estate'

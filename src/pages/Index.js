@@ -14,17 +14,19 @@ const Index = () => (
         </div>
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
-      <p>Hi and welcome to my online CV. I currently occupy the role of
-        <b> Senior Sofware Engineer </b> with esteemed global consultancy
+      {/* eslint-disable-next-line react/no-unescaped-entities */}
+      <p>Hi, I'm Lyle! I'm a <b>Senior Software Engineer</b> with esteemed global consultancy
         <a href="https://www.cgi.com/en"> <b>CGI</b></a>. For further info on my career details,
         please check out the links above in addition to my
         <b><a href="https://www.linkedin.com/in/lylechristine/"> LinkedIn</a></b> profile.
       </p>
-      <p> My <b><a href="https://cv.lyle.app/projects"> portfolio </a></b>
-        page has some live demos along with accompanying GitHub repos to present an impression of my
-        coding and system design skills (*<b>cough</b>* ChatGPT skills).
-        <br />
+      <p>My <b><a href="https://cv.lyle.app/projects"> portfolio </a></b>
+        page has some live demos along with accompanying GitHub code repos - basic stuff, but gives
+        a quick impression of my coding and system design skills (*<b>cough</b>* ChatGPT skills).
       </p>
+
+      {/* eslint-disable-next-line react/no-unescaped-entities */}
+      <p>Stick around, check it out, I'm delighted you're here 🍏.</p>
     </article>
   </Main>
 );
