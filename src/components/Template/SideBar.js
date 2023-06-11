@@ -15,15 +15,16 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Lyle Christine</h2>
-        <h3>Senior Software Developer</h3>
+        <h3>Senior Software Engineer</h3>
       </header>
     </section>
 
     <section className="blurb">
       <h2>Interests</h2>
-      <p>Java ☕ ∙ Spring 🌱 ∙ React ⚛ ∙ JavaScript 📜<br />
-        Linux 🐧 ∙ Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁<br />
-        MongoDB 🍃 ∙ PostgreSQL 🐘 ∙ Maven 🪶
+      <p>React ⚛ ∙ Angular 🚀 ∙ Type/JavaScript 📜 <br />
+        Java ☕ ∙ Spring 🌱 ∙ Maven 🪶 <br />
+        Linux 🐧 ∙ Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁ <br />
+        MongoDB 🍃 ∙ PostgreSQL 🐘
       </p>
       <ul className="actions">
         <li>
