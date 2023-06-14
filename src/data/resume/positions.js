@@ -5,16 +5,15 @@ const positions = [
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      'Angular 16 ∙ Azure Kubernetes Service ∙ TypeScript',
-      'Node 18 ∙ Karma ∙ Cypress ∙ Selenium',
-      'Yarn ∙ HTML ∙ CSS ∙ GitHub',
+      'Angular 16 ∙ Node 18 ∙ TypeScript',
+      'Azure Kubernetes Service ∙ HTML ∙ CSS',
+      'Yarn ∙ GitHub ∙ Helm',
       'Agile Methodologies ∙ MacOS',
     ],
     description: 'CGI is a multinational information technology, consulting and systems '
-      + 'integration company. I\'m currently a Senior Software Engineer within CGI\'s highly '
-      + 'skilled Scottish Business Unit. At present I\'m working on a modernisation project for HM '
-      + 'Courts & Tribunals Service. This project focuses on migrating and upgrading the '
-      + 'legacy Digital Audio court system onto a Kubernetes Azure Cloud Platform.',
+      + 'integration company. I\'m currently working as a frontend developer on a modernisation '
+      + 'project for HM Courts & Tribunals Service. This new project focuses on migrating and '
+      + 'upgrading the legacy Digital Audio court system onto a Kubernetes Azure Cloud Platform.',
   },
   {
     company: 'FSB Tech',
