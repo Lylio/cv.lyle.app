@@ -21,10 +21,10 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>Interests</h2>
-      <p>React ⚛ ∙ Angular 🚀 ∙ Type/JavaScript 📜 <br />
+      <p>React ⚛ ∙ Angular 🚀 ∙ TypeScript 📜 <br />
         Java ☕ ∙ Spring 🌱 ∙ Maven 🪶 <br />
-        Linux 🐧 ∙ Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁ <br />
-        MongoDB 🍃 ∙ PostgreSQL 🐘
+        Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁ <br />
+        MongoDB 🍃 ∙ PostgreSQL 🐘 ∙ Linux 🐧
       </p>
       <ul className="actions">
         <li>

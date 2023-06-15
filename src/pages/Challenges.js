@@ -27,11 +27,11 @@ const Challenges = () => (
       </header>
       <div className="challenge-list">
         <ul>
-          <a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b> SoloLearn</b></a><br />
-          <a href="https://hackerrank.com"><img src={hackerrank} alt="HackerRank" /><b>HackerRank</b></a><br />
-          <a href="https://leetcode.com"><img src={leetcode} alt="LeetCode" /><b>LeetCode</b></a><br />
-          <a href="https://codechef.com"><img src={codechef} alt="CodeChef" /><b>CodeChef</b></a><br />
-          <a href="https://codewars.com"><img src={codewars} alt="CodeWars" /><b>CodeWars</b></a><br />
+          <li><a href="https://www.sololearn.com/profile/24431183"><img src={sololearn} alt="SoloLearn" /><b> SoloLearn</b></a><br /></li>
+          <li><a href="https://hackerrank.com"><img src={hackerrank} alt="HackerRank" /><b>HackerRank</b></a><br /></li>
+          <li><a href="https://leetcode.com"><img src={leetcode} alt="LeetCode" /><b>LeetCode</b></a><br /></li>
+          <li><a href="https://codechef.com"><img src={codechef} alt="CodeChef" /><b>CodeChef</b></a><br /></li>
+          <li><a href="https://codewars.com"><img src={codewars} alt="CodeWars" /><b>CodeWars</b></a><br /></li>
         </ul>
       </div>
       <ContactIcons />
