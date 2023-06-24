@@ -12,11 +12,11 @@ const Code = () => (
     <article className="post" id="challenges">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/challenges">Code</Link></h2>
-          <p>SoloLearn is the code challenge system which helps me gauge and progress my
-            levels of programming, coding and styling. These profiles are a continuous
-            work-in-progress and I inch forward the challenge scores during my
-            elusive free moments. See also link below to my GitHub profile.
+          <h2 data-testid="heading"><Link to="/challenges">Code Challenges</Link></h2>
+          <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is the code
+            challenge system I use to track my progress in programming, coding and styling.
+            These ambitions are a continuous work-in-progress and exist as part of my ongoing
+            learning and development.
           </p>
         </div>
       </header>
