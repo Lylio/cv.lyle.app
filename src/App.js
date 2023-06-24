@@ -13,7 +13,7 @@ const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Projects = lazy(() => import('./pages/Projects'));
-const Challenges = lazy(() => import('./pages/Challenges'));
+const Code = lazy(() => import('./pages/Code'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 
@@ -24,7 +24,7 @@ const App = () => (
         <Route exact path="/" component={Index} />
         <Route path="/intro" component={Intro} />
         <Route path="/projects" component={Projects} />
-        <Route path="/challenges" component={Challenges} />
+        <Route path="/challenges" component={Code} />
         <Route path="/stats" component={Stats} />
         <Route path="/contact" component={Contact} />
         <Route path="/cv" component={Resume} />
