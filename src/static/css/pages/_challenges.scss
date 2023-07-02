@@ -5,16 +5,9 @@
   .challenge-list{
     margin: 3em 0;
     vertical-align: 2em;
-
-    img {
-      opacity: 1.0;
-      vertical-align: middle
-    }
-
-    img:hover {
-      opacity: 0.6;
-      vertical-align: middle
-    }
+  }
+  .sololearn a:hover {
+    opacity: 0.6;
   }
 }
 
