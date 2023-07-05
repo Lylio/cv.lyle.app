@@ -2,7 +2,7 @@
 
 #contact {
 
-  .email-at{
+  .email-at {
     margin: 3em 0;
 
     p {
@@ -21,30 +21,27 @@
     }
   }
 
-  a:hover {
-    color: #861330;
-  }
-}
-
-.inline {
+  .inline {
     min-width: 150px;
     display: inline-block;
     margin: 80px;
     padding: 0;
-    font-size: 15;
+    font-size: 15px;
     outline: 0;
     border: 0;
     text-align: right;
+  }
+
+  ul {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  .email ul li a:hover {
+    color: #861330FF;
+    opacity: 0.8;
+  }
 }
 
-ul {
-
-  margin-left: 0;
-  padding-left: 0;
-}
-
-.email li:hover {
-  color: #861330;
-}
 
 

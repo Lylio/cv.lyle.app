@@ -19,7 +19,7 @@ const Contact = () => (
         <p>Feel free to get in touch:</p>
         <ul>
           <li><a href="mailto:cxz@gmx.com"><b>Email</b></a></li>
-          <li><a href="https://www.linkedin.com/in/lylechristine/"><b>LinkedIn</b></a></li>
+          <li><a href="https://www.linkedin.com/in/lylechristine/"><b>LinkedIn</b></a></li><br />
           🍎🐛
           <br />
         </ul>
