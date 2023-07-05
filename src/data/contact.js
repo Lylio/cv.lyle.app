@@ -27,7 +27,7 @@ const data = [
     icon: faEnvelope,
   },
   {
-    link: 'https://1drv.ms/b/s!Ap0L9avjjiaNg4Azx5qirSJHi9br7g?e=Fxfapz',
+    link: 'https://1drv.ms/b/s!Ap0L9avjjiaNg4QTIF6JvI5DIAxGQw?e=va8GfD',
     label: 'PDF',
     icon: faFilePdf,
   },
