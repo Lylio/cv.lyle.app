@@ -8,13 +8,13 @@ and lots more.
 At heart, I'm a full stack engineer; I spend a lot of time expanding my skills on both front and back-end tooling 
 environments. After two-and-a-half years in **DevOps**, then a year-and-a-half as a microservice **Java Developer**, 
 I'm currently enjoying a **front-end** role as part of a large project for the HM Courts and Tribunal Service. It's a 
-good time to deep-dive into **Angular**, **Node**, **TypeScript**, and all that CSS "fun".
+good time to deep-dive into **Angular**, **Node**, **TypeScript**, and all that CSS fun.
 
 <br />
 
 <p align="center" width="100%">
     <img width="60%" 
-src="https://www.lylechristine.com/static/ba5b674706914c84ca325e9f6fb8eccf/60e21/lyle-christine-sepia.jpg">
+src="../../src/static/img/photos/lyle-christine-cv.jpg">
 </p>
 
 <br />
