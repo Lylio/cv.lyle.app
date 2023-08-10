@@ -15,6 +15,7 @@ good time to deep-dive into **Angular**, **Node**, **TypeScript**, and all that 
 <p align="center" width="100%">
     <img width="60%" 
 src="https://www.lylechristine.com/static/730d6f1edee44cafd65165e009c3aa6d/cbad9/lyle-christine-stubble.png">
+
 </p>
 
 <br />
