@@ -30,6 +30,7 @@ const Code = () => (
       </header>
       <div className="sololearn">
         <ul>
+          <li><a href="https://www.sololearn.com/certificates/CC-DVJRYRU8"><b>🎓 SQL | <span>Aug 2023</span></b></a></li>
           <li><a href="https://www.sololearn.com/certificates/CC-WXYQA2GW"><b>🎓 JavaScript | <span>Aug 2023</span></b></a></li>
           <li><a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><b>🎓 Java | <span>March 2023</span></b></a></li>
         </ul>
