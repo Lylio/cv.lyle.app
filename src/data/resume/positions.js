@@ -1,19 +1,33 @@
 const positions = [
   {
+    company: 'CGI: HMCTS',
+    position: 'Front End Developer',
+    link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
+    daterange: 'May 2023 - Present',
+    points: [
+      'JavaScript/TypeScript ∙ HTML5 ∙ CSS3',
+      'Angular 16 ∙ Node 18 ∙ Express ∙ Azure',
+      'Git/GitHub ∙ Figma ∙ Yarn',
+      'Agile Methodologies ∙ Peer Review ',
+    ],
+    description: 'I\'m currently working as a Front-End Angular Developer on a modernisation project '
+      + 'for HM Courts & Tribunals Service. This greenfield project focuses on migrating and '
+      + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
+      + 'a Kubernetes Azure Cloud Platform. Tech and tools involved include:',
+  },
+  {
     company: 'CGI',
-    position: 'Senior Software Engineer',
+    position: 'Senior Java Developer',
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      'Angular 16 ∙ Node 18 ∙ TypeScript',
-      'Azure Kubernetes Service ∙ HTML ∙ CSS',
-      'Yarn ∙ GitHub ∙ Helm',
-      'Agile Methodologies ∙ MacOS',
+      'Software Development · Software Engineering · Front-End Development',
+      'Back-End Web Development · Java · JavaScript',
     ],
-    description: 'CGI is a multinational information technology, consulting and systems '
-      + 'integration company. I\'m currently working as a frontend developer on a modernisation '
-      + 'project for HM Courts & Tribunals Service. This new project focuses on migrating and '
-      + 'upgrading the legacy Digital Audio court system onto a Kubernetes Azure Cloud Platform.',
+    description: 'CGI is an information technology, consulting and systems integration company with '
+      + 'a global presence. I\'m a Senior Software Engineer within CGI\'s Scottish Business Unit. '
+      + 'This role is dynamic, demanding and requires a variety of current tech skills applied in '
+      + 'various business environments.',
   },
   {
     company: 'FSB Tech',
