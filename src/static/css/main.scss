@@ -76,9 +76,24 @@
 	list-style-type: none
 }
 .sololearn span {
-	color: #861330;
+	color: black;
+	display: block;
+	font-weight: bolder;
 }
 
-.sololearn span:hover {
-	color: #a4a4a4;
+.sololearn a:hover {
+	color: #646464;
 }
+
+#cert {
+	color: rgb(134, 19, 48);
+}
+#java-cert {
+	width: 340px;
+}
+
+
+
+
+
+

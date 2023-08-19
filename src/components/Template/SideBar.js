@@ -26,11 +26,6 @@ const SideBar = () => (
         Docker 🐋 ∙ Kubernetes ☸ ∙ Cloud ☁ <br />
         MongoDB 🍃 ∙ PostgreSQL 🐘 ∙ Linux 🐧
       </p>
-      <ul className="actions">
-        <li>
-          {!window.location.pathname.includes('/cv') ? <Link to="/cv" className="button">CV</Link> : <Link to="/about" className="button">About Me</Link>}
-        </li>
-      </ul>
     </section>
 
     <section id="footer">

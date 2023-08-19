@@ -17,7 +17,7 @@ const positions = [
   },
   {
     company: 'CGI',
-    position: 'Senior Java Developer',
+    position: 'Senior Consultant',
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
@@ -81,18 +81,6 @@ const positions = [
       + ' comprising of Spring Boot microservices and React web applications. This role advanced'
       + ' my DevOps skill-set in Back End Development, Microservice Technology and Continuous'
       + ' Integration/Delivery.',
-  },
-  {
-    company: 'Research Scotland',
-    position: 'Research Assistant',
-    link: 'https://www.researchscotland.org/',
-    daterange: 'Nov 2014 - Nov 2016',
-    points: [
-      'Qualitative & quantitative data gathering',
-      'Statistical analysis & presentation',
-      'Literature reviews',
-      'Survey & interview design',
-    ],
   },
 ];
 
