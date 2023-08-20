@@ -18,8 +18,8 @@ const Code = () => (
             familiar languages, or as a way to upskill into new technical areas. I&#39;m currently
             working through modules in <b> CSS</b>,<b> Python</b> and <b>Intermediate Java </b>
             (alongside TypeScript, Node.js and Express.js). While I&#39;ve worked with these tech
-            tools for many years, I find a lot of satisfaction in keeping my skills shiny and sharp.
-            After all: <a href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
+            tools for many years (during my <b>MSc Software Development</b> for example), I do find
+            a lot of satisfaction in keeping my skills shiny and sharp. After all: <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
           </p>
           <br />
           <p>
