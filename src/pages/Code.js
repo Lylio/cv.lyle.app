@@ -30,15 +30,15 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
-            <a href="https://www.sololearn.com/certificates/CC-WXYQA2GW"><img src="https://lecontent.sololearn.com/material-images/00000400000004000004000000040000_javascript.png" alt="JavaScript" /></a>
+            <a href="https://www.sololearn.com/certificates/CC-WXYQA2GW"><img src="https://i.imgur.com/P8qgBC5.jpg" alt="JavaScript" /></a>
             <span>JavaScript | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-WXYQA2GW">Certificate</a></span>
           </li>
           <li>
-            <a href="https://www.sololearn.com/certificates/CC-DVJRYRU8"><img src="https://lecontent.sololearn.com/material-images/00000424000004242404000024040000_sql.png" alt="SQL" /></a>
+            <a href="https://www.sololearn.com/certificates/CC-DVJRYRU8"><img src="https://i.imgur.com/MbrP2z0.jpg" alt="SQL" /></a>
             <span>SQL | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-DVJRYRU8">Certificate</a></span>
           </li>
           <li>
-            <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><img src="https://imgur.com/a/Yat9h1b" id="java-cert" alt="Java" /></a>
+            <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><img src="https://i.imgur.com/aZbeRzk.jpeg" alt="Java" /></a>
             <span>Java | March 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CT-6JS4MSTM">Certificate</a></span>
           </li>
         </ul>
