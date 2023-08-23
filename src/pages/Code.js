@@ -38,7 +38,7 @@ const Code = () => (
             <span>SQL | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-DVJRYRU8">Certificate</a></span>
           </li>
           <li>
-            <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><img src="https://lecontent.sololearn.com/material-images/0000042c0000042c2c0400002c040000_java.png" id="java-cert" alt="Java" /></a>
+            <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><img src="https://imgur.com/a/Yat9h1b" id="java-cert" alt="Java" /></a>
             <span>Java | March 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CT-6JS4MSTM">Certificate</a></span>
           </li>
         </ul>
