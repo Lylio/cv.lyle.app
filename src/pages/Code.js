@@ -6,13 +6,13 @@ import ContactIcons from '../components/Contact/ContactIcons';
 const Code = () => (
 
   <Main
-    title="Code"
-    description="Code challenges as found on popular code challenge sites"
+    title="Certificates"
+    description="Code certificated completed from popular code challenge sites"
   >
     <article className="post" id="challenges">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/challenges">Code Challenges</Link></h2>
+          <h2 data-testid="heading"><Link to="/challenges">Code Certificates</Link></h2>
           <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is a
             <i>challenge</i> website which I use to either refresh my knowledge of
             familiar languages, or as a way to upskill into new technical areas. I&#39;m currently
