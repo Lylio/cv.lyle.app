@@ -29,6 +29,12 @@ const qualifications = [
     link: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e',
     university: 'Python Institute',
   },
+  {
+    title: 'Angular 11: Getting Started with Angular',
+    number: '73058892',
+    link: 'https://skillsoft.digitalbadges.skillsoft.com/489b2623-8aff-46b7-9122-69e2ae438545#gs.4n5tu5',
+    university: 'Skillsoft',
+  },
 ];
 
 export default qualifications;

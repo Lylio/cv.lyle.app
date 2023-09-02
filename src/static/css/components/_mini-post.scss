@@ -52,6 +52,12 @@
 
   }
 
+  @media screen and (max-width:767px) {
+    .github {
+      height: 30%;
+    }
+  }
+
   @media (max-width: 480px) {
     .description {
       position: inherit;

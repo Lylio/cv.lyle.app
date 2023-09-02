@@ -68,8 +68,13 @@
 @import 'pages/skills';
 @import 'pages/stats';
 
+p {
+
+}
+
 .sololearn {
 	font-size: 20px;
+	background-color: white;
 }
 
 .sololearn li {
@@ -92,9 +97,17 @@
 	width: 340px;
 }
 
-.title #rust {
+#rust {
+	color: rgb(134, 19, 48);
 	font-weight: bolder;
 	font-size: larger;
+	display: block;
+	text-align: center;
+}
+
+#rust:hover {
+	color: rgb(134, 19, 48);
+	opacity: 0.5;
 }
 
 

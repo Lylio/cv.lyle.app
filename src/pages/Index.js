@@ -23,10 +23,10 @@ const Index = () => (
 
       <p>My <b><a href="https://cv.lyle.app/projects"> projects </a></b>
         page has some live demos of my work - these basic examples give you the
-        reassurance that that I know how to use<b> Google</b> and<b> ChatGPT </b> to a
-        <i> satisfactory</i> level.
+        reassurance that that I know how to use<b> Stack Overflow</b> and<b> ChatGPT </b> to a
+        <i> decent </i> level.
       </p>
-      <p>Thanks muchly for visiting 😃.</p>
+      <p>Thanks kindly for visiting.</p>
     </article>
   </Main>
 );

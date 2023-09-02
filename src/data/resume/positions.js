@@ -1,19 +1,19 @@
 const positions = [
   {
-    company: 'CGI: HMCTS',
-    position: 'Front End Developer',
+    company: 'HMCTS',
+    position: 'Front-End Developer',
     link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
     daterange: 'May 2023 - Present',
     points: [
-      'JavaScript/TypeScript ∙ HTML5 ∙ CSS3',
       'Angular 16 ∙ Node 18 ∙ Express ∙ Azure',
+      'JavaScript/TypeScript ∙ HTML5 ∙ CSS3',
       'Git/GitHub ∙ Figma ∙ Yarn',
       'Agile Methodologies ∙ Peer Review ',
     ],
     description: 'I\'m currently working as a Front-End Angular Developer on a modernisation project '
       + 'for HM Courts & Tribunals Service. This greenfield project focuses on migrating and '
       + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
-      + 'a Kubernetes Azure Cloud Platform. Tech and tools involved include:',
+      + 'a Kubernetes Azure Cloud Platform.',
   },
   {
     company: 'CGI',

@@ -15,15 +15,15 @@ const Code = () => (
           <h2 data-testid="heading"><Link to="/challenges">Code Certificates</Link></h2>
           <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is a
             <i>challenge</i> website which I use to either refresh my knowledge of
-            familiar languages, or as a way to upskill into new technical areas. I&#39;m currently
-            working through modules in <b> CSS</b>,<b> Python</b> and <b>Intermediate Java </b>
-            (alongside TypeScript, Node.js and Express.js). While I&#39;ve worked with these tech
-            tools for many years (during my <b>MSc Software Development</b> for example), I do find
-            a lot of satisfaction in keeping my skills shiny and sharp. After all: <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
-          </p>
-          <br />
-          <p>
-            Completed certificates are listed below with more to come.
+            familiar languages, or as a way to upskill into new technical areas. . While I&#39;ve
+            worked with these tech tools for many years , I still find satisfaction in keeping my
+            skills shiny and sharp.
+            After all:
+            <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
+
+            <br />
+
+            Completed certificates are listed below with more currently in progress.
           </p>
         </div>
       </header>
