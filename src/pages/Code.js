@@ -30,6 +30,10 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
+            <a href="https://www.sololearn.com/certificates/CC-FJIJVBP3"><img src="https://i.imgur.com/iRdKaGX.png" alt="Java Intermediate" /></a>
+            <span>Java Intermediate | Sept 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-FJIJVBP3">Certificate</a></span>
+          </li>
+          <li>
             <a href="https://www.sololearn.com/certificates/CC-WXYQA2GW"><img src="https://i.imgur.com/P8qgBC5.jpg" alt="JavaScript" /></a>
             <span>JavaScript | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-WXYQA2GW">Certificate</a></span>
           </li>

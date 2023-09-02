@@ -6,8 +6,19 @@
     margin: 3em 0;
     vertical-align: 2em;
   }
+
+  .sololearn img {
+    width: 50%;
+  }
+
   .sololearn a:hover {
     opacity: 0.6;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .sololearn img {
+    width: 30%;
   }
 }
 
