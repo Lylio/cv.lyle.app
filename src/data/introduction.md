@@ -5,10 +5,9 @@ areas such as App Development, SPAs, PWAs, Microservices, Gaming, Cloud Tech, AI
 and lots more.
 <br />
 <br />
-At heart, I'm a full stack engineer; I spend a lot of time expanding my skills on both front and back-end tooling 
-environments. After two-and-a-half years in **DevOps**, then a year-and-a-half as a microservice **Java Developer**, 
-I'm currently enjoying a **front-end** role as part of a large project for the HM Courts and Tribunal Service. It's a 
-good time to deep-dive into **Angular**, **Node**, **TypeScript**, and all that CSS fun.
+After two-and-a-half years in **Platform Engineering**, then a year-and-a-half as a microservice **Java Developer**, 
+I'm currently enjoying a role as part of a large project for the **HM Courts and Tribunal Service**. So far this
+project has involved combinations of Angular, CSS, TypeScript (front-end) and Spring Boot, Java, PostgreSQL (back-end).
 
 <br />
 
@@ -31,8 +30,6 @@ by learning the best practices, industry-standards, and the **tools**, **techniq
 
 **Clean Code** (Martin, 2008) is at the core of my ethos: a neat-and-tidy codebase makes me *happy*. I'm a fan of 
 sensible naming conventions for variables, classes and methods. I like **clear** and **inclusive** documentation.
-Software Development isn't achieved in isolation; technical success is the result of complex collaboration and 
-communication in which dialogue, thoughts and fears can flow freely without judgement.
 <br /><br />
 
 **In summary**: I like a well-oiled machine that's free of **palaver** or **pain**.

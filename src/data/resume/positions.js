@@ -21,8 +21,8 @@ const positions = [
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      'Software Development · Software Engineering · Front-End Development',
-      'Back-End Web Development · Java · JavaScript',
+      'Software Development & Engineering · Back-End & Front-End Tooling',
+      'Mentoring · Self-Development · Teamwork · Communication',
     ],
     description: 'CGI is an information technology, consulting and systems integration company with '
       + 'a global presence. I\'m a Senior Software Engineer within CGI\'s Scottish Business Unit. '

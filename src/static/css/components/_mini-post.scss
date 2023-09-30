@@ -85,7 +85,7 @@
 
     &:hover {
       img {
-        @include vendor( 'transform', 'scale(1.05)');
+        @include vendor( 'transform', 'scale(1.00)');
       }
     }
   }
