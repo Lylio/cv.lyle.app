@@ -15,7 +15,7 @@ const Code = () => (
           <h2 data-testid="heading"><Link to="/challenges">Code Certificates</Link></h2>
           <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is a
             <i>challenge</i> website which I use to either refresh my knowledge of
-            familiar languages, or as a way to upskill into new technical areas. . While I&#39;ve
+            familiar languages, or as a way to upskill into new technical areas. While I&#39;ve
             worked with these tech tools for many years , I still find satisfaction in keeping my
             skills shiny and sharp.
             After all:
