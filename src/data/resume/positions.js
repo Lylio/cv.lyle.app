@@ -43,12 +43,9 @@ const positions = [
         PostgreSQL ∙ MongoDB ∙ GitLab<br />
       </b>,
     ],
-    description: 'FSB Tech was a self-proclaimed \'gaming technology\' company who peddled a '
-      + 'generic and derivative online betting experience. A week before Christmas 2022, FSB closed '
-      + 'its Glasgow office and ungraciously laid-off 25 employees. This was the culmination of '
-      + 'chaotic company role restructuring, underdeveloped market strategies and hawking a janky '
-      + 'gambling platform which proved to be unappealing to consumers and a dreary project for '
-      + 'skilled developers.',
+    description: 'FSB Tech was a gaming-technology company which created online betting experiences. '
+      + 'Unfortunately they had to close their Glasgow office in late 2022 which resulted in the '
+      + 'entire development team being made redundant.',
   },
   {
     company: 'OLM Systems',
