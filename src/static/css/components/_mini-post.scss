@@ -35,6 +35,11 @@
     position: absolute;
     padding: 0.5em;
     bottom: 0;
+    border-top: solid 1px _palette(border);
+
+    a:hover {
+      opacity: 0.3;
+    }
 
 
     p {
