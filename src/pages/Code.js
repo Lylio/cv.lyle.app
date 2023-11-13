@@ -21,9 +21,9 @@ const Code = () => (
             After all:
             <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
 
-            <br />
+            Completed certificates are listed below with more currently in progress such as
+            <b> Python</b>, <b>Web Development</b> and <b>C++</b>.
 
-            Completed certificates are listed below with more currently in progress.
           </p>
         </div>
       </header>
