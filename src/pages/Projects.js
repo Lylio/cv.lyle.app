@@ -16,7 +16,7 @@ const Projects = () => (
           <p>The following projects have been developed using tech frameworks such as
             <b> Spring Boot</b> and <b>React</b>. Although these are fairly simple applications
             composed of typical front-end, back-end and persistence layers, I have them listed
-            here to provide a little evidence of my coding skills (i.e. my frantic Googling skills).
+            here to provide a little evidence of my coding skills (i.e. my frantic chatGPT skills).
           </p>
           <p>
             Click on the <i>project title</i> to view the app and the code repos are behind the
