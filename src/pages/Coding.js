@@ -15,9 +15,10 @@ const Coding = () => (
           <h2 data-testid="heading"><Link to="/coding">Coding</Link></h2>
           <p>The following coding examples range from basic to advanced typical business tasks.
             Along with my <b><a href="/projects"> project examples</a></b>, the
-            combined samples give an indication of my programming skills (i.e. my frantic Googling
-            skills).
+            combined samples give an indication of my programming skill level (i.e. my frantic
+            Googling skills).
           </p>
+          <p>Click on the GitHub logo to view the code.</p>
         </div>
       </header>
       {data.map((coding) => (

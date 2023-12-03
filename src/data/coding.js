@@ -1,17 +1,10 @@
 const data = [
   {
-    title: 'Choosing most recent database record',
+    title: 'Hello World!',
     code: null,
-    image: '/images/coding-screenshots/codeTest1.png',
+    image: '/images/coding-screenshots/HelloWorld.png',
     date: '2023-12-03',
-    github: 'https://github.com/Lylio/java-sandbox',
-  },
-  {
-    title: 'Spring Boot REST API',
-    code: null,
-    desc: 'Spring Boot • REST API',
-    date: '2023-12-03',
-    github: 'https://github.com/Lylio/java-sandbox',
+    github: 'https://github.com/Lylio/java-sandbox/blob/main/src/main/java/HelloWorld.java',
   },
 ];
 
