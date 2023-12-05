@@ -18,7 +18,7 @@ const Coding = () => (
             combined samples give an indication of my programming skill level (i.e. my frantic
             Googling skills).
           </p>
-          <p>Click on the GitHub logo to view the code.</p>
+          <p>To view the code, click on the heading, background or GitHub logo.</p>
         </div>
       </header>
       {data.map((coding) => (

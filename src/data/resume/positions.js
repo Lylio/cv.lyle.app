@@ -2,7 +2,22 @@ import React from 'react';
 
 const positions = [
   {
-    company: 'HMCTS',
+    company: 'CGI',
+    position: 'Senior Consultant',
+    link: 'https://www.cgi.com/en',
+    daterange: 'April 2023 - Present',
+    points: [
+      <b>Software Development & Engineering · Back-End & Front-End Tooling<br />
+        Mentoring · Self-Development · Teamwork · Communication<br />
+      </b>,
+    ],
+    description: 'CGI is an information technology, consulting and systems integration company with '
+      + 'a global presence. I\'m a Senior Software Engineer within CGI\'s Scottish Business Unit. '
+      + 'This role is dynamic, demanding and requires a variety of current tech skills applied in '
+      + 'various business environments.',
+  },
+  {
+    company: 'HMCTS (CGI)',
     position: 'Front-End Developer',
     link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
     daterange: 'May 2023 - October 2023',
@@ -17,21 +32,6 @@ const positions = [
       + 'for HM Courts & Tribunals Service. This greenfield project focused on migrating and '
       + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
       + 'a Kubernetes Azure Cloud Platform.',
-  },
-  {
-    company: 'CGI',
-    position: 'Senior Consultant',
-    link: 'https://www.cgi.com/en',
-    daterange: 'April 2023 - Present',
-    points: [
-      <b>Software Development & Engineering · Back-End & Front-End Tooling<br />
-        Mentoring · Self-Development · Teamwork · Communication<br />
-      </b>,
-    ],
-    description: 'CGI is an information technology, consulting and systems integration company with '
-      + 'a global presence. I\'m a Senior Software Engineer within CGI\'s Scottish Business Unit. '
-      + 'This role is dynamic, demanding and requires a variety of current tech skills applied in '
-      + 'various business environments.',
   },
   {
     company: 'FSB Tech',
