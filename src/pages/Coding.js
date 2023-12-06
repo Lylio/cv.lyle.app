@@ -19,6 +19,9 @@ const Coding = () => (
             Googling skills).
           </p>
           <p>To view the code, click on the heading, background or GitHub logo.</p>
+          <p><b>PLEASE NOTE</b> - THIS PAGE IS A NEW ADDITION TO THE SITE AND WILL TAKE
+            SOME TIME TO BECOME A SUBSTANTIAL RESOURCE.
+          </p>
         </div>
       </header>
       {data.map((coding) => (
