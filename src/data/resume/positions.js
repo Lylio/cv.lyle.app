@@ -7,31 +7,28 @@ const positions = [
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [
-      <b>Software Development & Engineering · Back-End & Front-End Tooling<br />
-        Mentoring · Self-Development · Teamwork · Communication<br />
+      <b>Software Development · Software Engineering · Back-End Web Development · Cloud Computing
       </b>,
     ],
     description: 'CGI is an information technology, consulting and systems integration company with '
-      + 'a global presence. I\'m a Senior Software Engineer within CGI\'s Scottish Business Unit. '
+      + 'a global presence. I\'m a Software Engineer within CGI\'s Scottish Business Unit. '
       + 'This role is dynamic, demanding and requires a variety of current tech skills applied in '
       + 'various business environments.',
   },
   {
-    company: 'HMCTS (CGI)',
+    company: 'HMCTS (CGI Client)',
     position: 'Front-End Developer',
     link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
     daterange: 'May 2023 - October 2023',
     points: [
-      <b>Angular 16 ∙ Node 18 ∙ Express ∙ Azure<br />
-        JavaScript/TypeScript ∙ HTML5 ∙ CSS3<br />
-        Git/GitHub ∙ Figma ∙ Yarn<br />
-        Agile Methodologies ∙ Peer Review
+      <b>Angular 16 ∙ Azure ∙ JavaScript/TypeScript<br />
+        HTML5 ∙ CSS3 ∙ Git/GitHub ∙ Agile Methodologies<br />
       </b>,
     ],
-    description: 'I worked as a Front-End Angular Developer on a modernisation project '
+    description: 'I gained an introduction to Front-End Angular Developer on a modernisation project '
       + 'for HM Courts & Tribunals Service. This greenfield project focused on migrating and '
       + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
-      + 'a Kubernetes Azure Cloud Platform.',
+      + 'a Azure\'s Kubernetes  Cloud Platform.',
   },
   {
     company: 'FSB Tech',
@@ -40,7 +37,7 @@ const positions = [
     daterange: 'Nov 2022 - Dec 2022',
     points: [
       <b>Java (JDK 8/11) ∙ Maven ∙ Linux<br />
-        PostgreSQL ∙ MongoDB ∙ GitLab<br />
+        PostgreSQL ∙ MongoDB ∙ BitBucket<br />
       </b>,
     ],
     description: 'FSB Tech was a gaming-technology company which created online betting experiences. '
@@ -53,9 +50,9 @@ const positions = [
     link: 'https://www.olmsystems.com/',
     daterange: 'Aug 2021 - Oct 2022',
     points: [
-      <b>Java (JDK 8/11) ∙ Quarkus ∙ Spring Boot ∙ GraphQL<br />
-        PostgreSQL ∙ Kubernetes ∙ Kafka ∙ Docker ∙ Maven<br />
-        Google Cloud Platform ∙ Linux (Ubuntu) ∙ Bitbucket <br />
+      <b>Java (JDK 8/11) ∙ Quarkus ∙ Kafka<br />
+        PostgreSQL ∙ Kubernetes ∙ Maven<br />
+        Google Cloud Platform ∙ Linux (Ubuntu)<br />
       </b>,
     ],
     description: 'As part of the integration team, I developed bespoke data services which sat'
@@ -75,10 +72,9 @@ const positions = [
     daterange: 'Oct 2018 - Jun 2021',
     points: [
       <b>
-        OpenShift ∙ Docker ∙ Linux (RHEL 8) ∙ Bash<br />
-        Java (JDK 8) ∙ Spring Boot ∙ Python ∙ Gradle ∙ Maven<br />
-        Jenkins ∙ Nexus Repo ∙ MongoDB ∙ SonarQube ∙ GoCD<br />
-        GitHub ∙ React ∙ Azure ∙ MacOS<br />
+        OpenShift ∙ GitHub ∙ Docker ∙ Bash ∙ Python<br />
+        Java (JDK 8) ∙ Spring Boot ∙ Gradle ∙ Maven<br />
+        Jenkins ∙ Nexus Repo ∙ MongoDB ∙ SonarQube <br />
       </b>,
     ],
     description: 'In this DevOps role I developed, supported and maintained'
