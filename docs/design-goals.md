@@ -23,7 +23,7 @@ This projects attempts to follow these design principles. Feedback and discussio
     - Comments exist and have an appropriate level of detail.
     - Code should be readable.
 1. Lean
-    - Projects bloat over time. Actively prune for old and dead code.
+    - Apps bloat over time. Actively prune for old and dead code.
     - New features that affect the entire project should be carefully considered.
     - Buy, don't build. Don't reinvent the wheel. Use popular npm libraries when possible.
 1. Limited horizontal fragmentation

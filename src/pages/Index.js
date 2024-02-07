@@ -15,15 +15,15 @@ const Index = () => (
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
       {/* eslint-disable-next-line react/no-unescaped-entities */}
-      <p><b>Welcome!</b> I'm Lyle, currently a <b>Senior Consultant</b> with global consultancy
+      <p><b>Welcome!</b> I'm Lyle, currently a <b>Senior Java Developer</b> with global consultancy
         leaders <a href="https://www.cgi.com/en"> <b>CGI</b></a>. For further info on my career
         details, please browse around the links above or reach me at my
         <b><a href="https://www.linkedin.com/in/lylechristine/"> LinkedIn</a></b> profile.
       </p>
 
-      <p>My <b><a href="https://cv.lyle.app/projects"> projects </a></b>
-        page has some live demos of my work - these basic examples give you the
-        reassurance that that I know how to use<b> Stack Overflow</b> and<b> ChatGPT </b> to a
+      <p>My <b><a href="https://cv.lyle.app/apps"> apps </a></b>
+        page has some live applications and code links - these basic examples give you the
+        reassurance that that I know how to use <b>ChatGPT</b> to a
         <i> decent </i> level.
       </p>
       <p>Thanks kindly for visiting.</p>
