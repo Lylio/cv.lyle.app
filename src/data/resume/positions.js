@@ -3,7 +3,7 @@ import React from 'react';
 const positions = [
   {
     company: 'CGI',
-    position: 'Senior Consultant',
+    position: 'Senior Java Developer',
     link: 'https://www.cgi.com/en',
     daterange: 'April 2023 - Present',
     points: [

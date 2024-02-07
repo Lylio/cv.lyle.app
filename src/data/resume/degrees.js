@@ -3,7 +3,7 @@
 const degrees = [
   {
     school: 'UNIVERSITY OF GLASGOW',
-    degree: 'MSc, SOFTWARE DEVELOPMENT',
+    degree: 'MSc SOFTWARE DEVELOPMENT',
     link: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
     curriculum: [
       ' Programming (Java) ∙ Advanced Programming (Java) ∙ Database Theory and Applications (SQL)',
@@ -14,7 +14,7 @@ const degrees = [
   },
   {
     school: 'UNIVERSITY OF GLASGOW',
-    degree: 'MPhil, SOCIOLOGY',
+    degree: 'MPhil SOCIOLOGY',
     link: 'https://www.gla.ac.uk/postgraduate/research/sociology/',
     curriculum: [
       '"Processes of Recovery from Problem Gambling: A Qualitative Exploration"\n',
@@ -23,12 +23,12 @@ const degrees = [
   },
   {
     school: 'UNIVERSITY OF GLASGOW',
-    degree: 'MRes, SOCIOLOGY & RESEARCH METHODS',
+    degree: 'MRes SOCIOLOGY & RESEARCH METHODS',
     link: 'https://www.gla.ac.uk/postgraduate/taught/sociologyresearchmethods/',
   },
   {
     school: 'ABERTAY UNIVERSITY',
-    degree: 'BA(Hons), MEDIA,CULTURE & SOCIETY',
+    degree: 'BA(Hons) MEDIA,CULTURE & SOCIETY',
     link: 'https://www.abertay.ac.uk/course-search/undergraduate/sociology/',
   },
 ];
