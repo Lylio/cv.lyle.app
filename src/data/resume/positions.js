@@ -2,6 +2,37 @@ import React from 'react';
 
 const positions = [
   {
+    company: 'Agriculture and Rural Economies | Scottish Government',
+    position: 'Senior Java Developer (CGI Client)',
+    link: 'https://www.ruralpayments.org/',
+    daterange: 'March 2024 - Present',
+    points: [
+      <b>Java Development (JDK 11/8/6) · Oracle · SQL Developer · Red Hat Fuse · GitLab
+      </b>,
+    ],
+    description: 'I\'ve recently joined the Agricultural & Rural Economies (ARE) project with the'
+      + 'Scottish Government as a Java Developer. The ARE project is closely linked with the '
+      + 'Scottish Rural Payments and Services facility (https://www.ruralpayments.org/). The '
+      + 'maintenance and development of the Rural Payments Service is an ongoing relationship '
+      + 'between CGI developers and the Scottish Government: there are currently significant '
+      + 'upgrades to modernise the ARE technical estate such as upgrading to Java 11.',
+  },
+  {
+    company: 'HMCTS',
+    position: 'Front-End Developer (CGI Client)',
+    link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
+    daterange: 'May 2023 - October 2023',
+    points: [
+      <b>Angular 16 ∙ Azure ∙ JavaScript/TypeScript<br />
+        HTML5 ∙ CSS3 ∙ Git/GitHub ∙ Agile Methodologies<br />
+      </b>,
+    ],
+    description: 'I gained an introduction to Front-End Angular Developer on a modernisation project '
+      + 'for HM Courts & Tribunals Service. This greenfield project focused on migrating and '
+      + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
+      + 'a Azure\'s Kubernetes Cloud Platform.',
+  },
+  {
     company: 'CGI',
     position: 'Senior Java Developer',
     link: 'https://www.cgi.com/en',
@@ -14,21 +45,6 @@ const positions = [
       + 'a global presence. I\'m a Software Engineer within CGI\'s Scottish Business Unit. '
       + 'This role is dynamic, demanding and requires a variety of current tech skills applied in '
       + 'various business environments.',
-  },
-  {
-    company: 'HMCTS (CGI Client)',
-    position: 'Front-End Developer',
-    link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
-    daterange: 'May 2023 - October 2023',
-    points: [
-      <b>Angular 16 ∙ Azure ∙ JavaScript/TypeScript<br />
-        HTML5 ∙ CSS3 ∙ Git/GitHub ∙ Agile Methodologies<br />
-      </b>,
-    ],
-    description: 'I gained an introduction to Front-End Angular Developer on a modernisation project '
-      + 'for HM Courts & Tribunals Service. This greenfield project focused on migrating and '
-      + 'upgrading the legacy Digital Audio Recording Transcription and Storage system (DARTS) onto '
-      + 'a Azure\'s Kubernetes  Cloud Platform.',
   },
   {
     company: 'FSB Tech',
