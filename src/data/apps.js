@@ -60,9 +60,9 @@ const data = [
     github: 'https://github.com/Lylio/chatty',
   },
   {
-    title: 'Coronavirus Tracker | rona-report.lyle.app',
+    title: 'Coronavirus Tracker | (Retired)',
     subtitle: 'Coronavirus Tracker',
-    link: 'https://rona-report.lyle.app',
+    link: null,
     image: '/images/projects/ronareport.jpg',
     date: '2021-04-01',
     desc:
