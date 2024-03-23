@@ -22,7 +22,7 @@ const Code = () => (
             <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
             <br />
             Completed certificates are listed below with more currently in progress such as
-            <b> Python</b>, <b>Web Development</b> and <b>C++</b>.
+            <b> Python</b>, <b>Coding for Data</b> and <b>Intermediate SQL</b>.
 
           </p>
         </div>
