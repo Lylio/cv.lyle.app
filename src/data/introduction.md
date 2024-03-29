@@ -1,4 +1,6 @@
-My core tech skills list is an ongoing evolving list composed of professional 
+Greetings again friends. 💕 
+<br/><br/>
+My core tech skills list is an ongoing evolving list composed of professional
 experience, self-taught learning and academic study. My interests are varied: Java Back-End Development, 
 Android Mobile App Development, Microservices, Gaming, Cloud Tech, Ai, System Design. I love building things; I like
 fixing things; I'm not a fan of deadlines for building or fixing things. Heh.
