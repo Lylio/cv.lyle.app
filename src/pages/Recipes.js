@@ -13,11 +13,12 @@ const Recipes = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/recipes">Recipes</Link></h2>
-          <p>The following <i>code recipes</i> range from basic to advanced tech
-            tasks. Basically, anything that takes my fancy (or ChatGPT orders me to publish).
+          <p>The following <i>code recipes</i> will eventually become a collection of odds
+            &#39;n&#39; sods tech tasks. Basically, anything that takes my fancy or ChatGPT commands
+            me to publish.
           </p>
-          <p>This page is a new addition and will take some time to
-            become anything like a <i>steaming hot</i> resource.
+          <p>This page is a new addition and will take some time to become a <i>steaming hot</i>
+            resource. Your patience is very much appreciated.
           </p>
         </div>
       </header>

@@ -10,9 +10,9 @@ const data = [
     github: 'https://github.com/Lylio/tic-tac-toe',
   },
   {
-    title: 'Cookie Contacts | cookie-contacts.lyle.app',
+    title: 'Cookie Contacts | (offline)',
     subtitle: 'Contact Management Service',
-    link: 'https://cookie-contacts.lyle.app',
+    link: null,
     image: '/images/projects/cookie-contacts.jpg',
     date: '2022-06-16',
     desc:
@@ -20,9 +20,9 @@ const data = [
     github: 'https://github.com/Lylio/cookie-contacts',
   },
   {
-    title: 'QR Code Generator | quarcode.lyle.app',
+    title: 'QR Code Generator | (offline)',
     subtitle: 'QR Code Generator',
-    link: 'https://quarcode.lyle.app',
+    link: null,
     image: '/images/projects/quarcode.jpg',
     date: '2022-02-19',
     desc:
@@ -30,9 +30,9 @@ const data = [
     github: 'https://github.com/Lylio/quarcode',
   },
   {
-    title: 'Software Bug Tracker | bugout.lyle.app',
+    title: 'Software Bug Tracker | (offline)',
     subtitle: 'Software Bug Tracker',
-    link: 'https://bugout.lyle.app/',
+    link: null,
     image: '/images/projects/bugout.jpg',
     date: '2021-10-21',
     desc:
@@ -40,9 +40,9 @@ const data = [
     github: 'https://github.com/Lylio/bugout',
   },
   {
-    title: 'Task Board | tasket.lyle.app',
+    title: 'Task Board | (offline)',
     subtitle: 'Task Board',
-    link: 'https://tasket.lyle.app',
+    link: null,
     image: '/images/projects/tasket.jpg',
     date: '2021-11-23',
     desc:
@@ -50,9 +50,9 @@ const data = [
     github: 'https://github.com/Lylio/tasket',
   },
   {
-    title: 'Chat Room | chatty.lyle.app',
+    title: 'Chat Room | (offline)',
     subtitle: 'Chat Room',
-    link: 'https://chatty.lyle.app',
+    link: null,
     image: '/images/projects/chatty.jpg',
     date: '2019-07-03',
     desc:
@@ -60,7 +60,7 @@ const data = [
     github: 'https://github.com/Lylio/chatty',
   },
   {
-    title: 'Coronavirus Tracker | (Retired)',
+    title: 'Coronavirus Tracker | (offline)',
     subtitle: 'Coronavirus Tracker',
     link: null,
     image: '/images/projects/ronareport.jpg',
