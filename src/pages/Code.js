@@ -12,7 +12,7 @@ const Code = () => (
     <article className="post" id="challenges">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/challenges">Code Certificates</Link></h2>
+          <h2 data-testid="heading"><Link to="/certificates">Code Certificates</Link></h2>
           <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is a
             <i>challenge</i> website which I use to either refresh my knowledge of
             familiar languages, or as a way to upskill into new technical areas. While I&#39;ve

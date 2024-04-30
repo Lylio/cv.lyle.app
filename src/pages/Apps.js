@@ -12,7 +12,7 @@ const Apps = () => (
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/projects">Apps</Link></h2>
+          <h2 data-testid="heading"><Link to="/apps">Apps</Link></h2>
           <p>The following apps have been developed using tech frameworks such as
             <b> Spring Boot</b> and <b>React</b>. Although these are simple applications
             composed of typical front-end, back-end and persistence layers, I feel my CV should

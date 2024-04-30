@@ -15,7 +15,7 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Lyle Christine</h2>
-        <h3>Software Engineer</h3>
+        <h3>Software Developer</h3>
       </header>
     </section>
 

@@ -17,8 +17,8 @@ const routes = [
     path: '/apps',
   },
   {
-    label: 'Recipes',
-    path: '/recipes',
+    label: 'Articles',
+    path: '/articles',
   },
   {
     label: 'Certificates',
