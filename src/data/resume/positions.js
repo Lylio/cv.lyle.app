@@ -2,12 +2,13 @@ import React from 'react';
 
 const positions = [
   {
-    company: 'Agriculture and Rural Economies | Scottish Government',
-    position: 'Senior Java Developer (CGI Client)',
+    company: 'SCOTTISH GOVERNMENT (CGI CLIENT)',
+    position: 'Senior Java Developer @ AGRICULTURE AND RURAL ECONOMIES ',
     link: 'https://www.ruralpayments.org/',
     daterange: 'March 2024 - Present',
     points: [
-      <b>Java Development (JDK 11/8/6) · Oracle · SQL Developer · Red Hat Fuse · GitLab
+      <b>Java (JDK 11) · JSP · Red Hat Fuse · Git/GitLab · OpenShift · Oracle · SQL Developer ·
+        SoapUI
       </b>,
     ],
     description: 'I\'ve recently joined the Agricultural & Rural Economies (ARE) project with the'
@@ -18,13 +19,12 @@ const positions = [
       + 'upgrades to modernise the ARE technical estate such as upgrading to Java 11.',
   },
   {
-    company: 'HMCTS',
-    position: 'Front-End Developer (CGI Client)',
+    company: 'HMCTS (CGI CLIENT)',
+    position: 'Front-End Developer',
     link: 'https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service',
     daterange: 'May 2023 - October 2023',
     points: [
-      <b>Angular 16 ∙ Azure ∙ JavaScript/TypeScript<br />
-        HTML5 ∙ CSS3 ∙ Git/GitHub ∙ Agile Methodologies<br />
+      <b>Angular 16 ∙ Azure ∙ JavaScript/TypeScript ∙ HTML5 ∙ CSS3 ∙ Git/GitHub ∙ Agile
       </b>,
     ],
     description: 'I gained an introduction to Front-End Angular Developer on a modernisation project '
