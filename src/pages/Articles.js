@@ -1,8 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Main from '../layouts/Main';
-import Cell from '../components/Projects/Cell';
-import data from '../data/articles';
 
 const Articles = () => (
   <Main
@@ -13,17 +11,11 @@ const Articles = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/articles">Articles</Link></h2>
-          <p>The following software development <b>articles</b> are a motley crew collection of
-            interesting tech topics.
+          <p>Click <b><a href="https://write.as/christova/">here</a></b> for a motley crew
+            collection of interesting tech topics.
           </p>
         </div>
       </header>
-      {data.map((articles) => (
-        <Cell
-          data={articles}
-          key={articles.title}
-        />
-      ))}
     </article>
   </Main>
 );
