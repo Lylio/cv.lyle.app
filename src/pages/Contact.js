@@ -19,8 +19,8 @@ const Contact = () => (
         <p>Feel free to get in touch:</p>
         <ul>
           <li><a href="mailto:cxz@gmx.com"><b>✉️ Email</b></a></li>
-          <li><a href="https://www.linkedin.com/in/lylechristine/"><b>🔗 LinkedIn</b></a></li><br />
-          <br />
+          <li><a href="https://www.linkedin.com/in/lylechristine/"><b>🔗 LinkedIn</b></a></li>
+          <li><a href="https://www.christova.net"><b>🚀 Christova</b></a></li>
         </ul>
       </div>
       <ContactIcons />

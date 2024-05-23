@@ -19,10 +19,11 @@ const Code = () => (
             worked with these tech tools for many years , I still find satisfaction in keeping my
             skills shiny and sharp.
             After all:
-            <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b>Rust Never Sleeps.</b></a>
+            <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b><i>Rust Never Sleeps.</i></b></a>
             <br />
             Completed certificates are listed below with more currently in progress such as
-            <b> Python</b>, <b>Coding for Data</b> and <b>Intermediate SQL</b>.
+            <b> Intermediate SQL</b> and <b>Kotlin </b>(Codecademy) to compliment my Java experience
+            .
 
           </p>
         </div>
