@@ -12,11 +12,10 @@ const positions = [
       </b>,
     ],
     description: 'I\'ve recently joined the Agricultural & Rural Economies (ARE) project with the'
-      + 'Scottish Government as a Java Developer. The ARE project is closely linked with the '
+      + ' Scottish Government as a Java Developer. The ARE project is closely linked with the '
       + 'Scottish Rural Payments and Services facility (https://www.ruralpayments.org/). The '
       + 'maintenance and development of the Rural Payments Service is an ongoing relationship '
-      + 'between CGI developers and the Scottish Government: there are currently significant '
-      + 'upgrades to modernise the ARE technical estate such as upgrading to Java 11.',
+      + 'between CGI developers and the Scottish Government.',
   },
   {
     company: 'HMCTS (CGI CLIENT)',

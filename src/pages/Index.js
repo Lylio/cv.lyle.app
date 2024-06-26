@@ -16,14 +16,15 @@ const Index = () => (
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
       {/* eslint-disable-next-line react/no-unescaped-entities */}
       <p>Hello! I'm <b>Lyle</b>: I'm currently a <b>Senior Java Developer</b> with global
-        consultancy leaders <a href="https://www.cgi.com/en"> <b>CGI</b></a>.
+        consultancy leaders <a href="https://www.cgi.com/en"> <b>CGI</b></a>, working on a project
+        for the <b>Scottish Government</b>.
         <br />
         <br />This is my humble online <b>CV</b> space which I built to give myself <i>double </i>
-        the headache of updating in addition to my LinkedIn profile. <i>D-R-Y Lyle! D-R-Y!</i>
+        the headache of updating my resume info HERE in addition to my
+        <a href="https://www.linkedin.com/in/lylechristine/"> <b>LinkedIn</b></a> profile 😃.
+        <i> D-R-Y Lyle! Don&#39;t Repeat Yourself! <b>DOH!</b>
+        </i>
         <br />
-        <br />
-        For further info on my career details, please enjoy my
-        <b><a href="https://www.linkedin.com/in/lylechristine/"> LinkedIn</a></b> profile.
       </p>
       <p>Thanks kindly for visiting.</p>
     </article>

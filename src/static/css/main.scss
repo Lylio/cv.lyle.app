@@ -93,6 +93,10 @@ p {
 #cert {
 	color: rgb(134, 19, 48);
 }
+#certlist {
+	display: block;
+	text-align: center;
+}
 #java-cert {
 	width: 340px;
 }
@@ -103,6 +107,8 @@ p {
 	font-size: larger;
 	display: block;
 	text-align: center;
+	border-bottom: 5px;
+
 }
 
 #rust a:hover {

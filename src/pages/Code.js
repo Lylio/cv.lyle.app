@@ -13,19 +13,19 @@ const Code = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/certificates">Code Certificates</Link></h2>
-          <p><a href="https://www.sololearn.com/profile/24431183"><b>SoloLearn</b></a> is a
-            <i>challenge</i> website which I use to either refresh my knowledge of
-            familiar languages, or as a way to upskill into new technical areas. While I&#39;ve
-            worked with these tech tools for many years , I still find satisfaction in keeping my
-            skills shiny and sharp.
-            After all:
-            <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw"><b><i>Rust Never Sleeps.</i></b></a>
-            <br />
-            Completed certificates are listed below with more currently in progress such as
-            <b> Intermediate SQL</b> and <b>Kotlin </b>(Codecademy) to compliment my Java experience
-            .
-
-          </p>
+          I use code challenge websites such as
+          <a href="https://www.sololearn.com/profile/24431183"><b> Sololearn</b></a>,
+          <a href="https://leetcode.com/u/Lylio/"><b> LeetCode</b></a> and others to keep my
+          knowledge of familiar languages fresh, and also as a way to up-skill into new technical
+          areas. While I&#39;ve worked with these programming languages for many years, I still find
+          satisfaction in keeping my skills <i>shiny</i> and <i>sharp</i>. After all: <br /> <br />
+          <a id="rust" href="https://www.youtube.com/watch?v=i6RZY4Ar3fw">Rust Never
+            Sleeps
+          </a>
+          <br />
+          <br />
+          <div id="certlist">Completed certificates are listed below with more currently in progress.
+          </div>
         </div>
       </header>
       <div className="sololearn">
