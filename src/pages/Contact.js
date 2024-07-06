@@ -20,7 +20,7 @@ const Contact = () => (
         <ul>
           <li><a href="mailto:cxz@gmx.com"><b>✉️ Email</b></a></li>
           <li><a href="https://www.linkedin.com/in/lylechristine/"><b>🔗 LinkedIn</b></a></li>
-          <li><a href="https://www.christova.net"><b>🚀 Christova</b></a></li>
+          <li><a href="https://www.christova.net"><b>🚀 Christova</b></a> (WIP)</li>
         </ul>
       </div>
       <ContactIcons />
