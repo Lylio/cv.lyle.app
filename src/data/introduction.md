@@ -1,9 +1,8 @@
-<b>Greetings! 👋</b>
+<b>Greetings!</b>
 <br/>
 My core list of tech-skills is an ongoing, evolving collection which is composed of professional
 experience, self-taught learning and academic study. My interests are varied: Java Back-End Development; 
-Android Mobile App Development; Microservices; Gaming; Cloud Tech, Ai, System Design. I like **building** things; I like
-**fixing** things.
+Android Mobile App Development; Microservices; Gaming; Cloud Tech; Ai; System Design.
 <br/>
 <br/>
 Since April 2023 I've been a member with consultancy organisation CGI where my core area is *Java Development* with 
