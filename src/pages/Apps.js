@@ -14,12 +14,12 @@ const Apps = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/apps">Apps</Link></h2>
           <p>The following apps have been developed using tech frameworks such as
-            <b> Spring Boot</b> and <b>React</b>. Although these are simple applications
-            composed of typical front-end, back-end and persistence layers, I feel my CV should
-            have some evidence of my coding skills (i.e. my asking ChatGPT skills 🥳).
+            <b> Spring Boot</b> and <b>React</b>. These are simple applications
+            composed of typical MVC front-end, back-end and persistence layers which exist to serve
+            as evidence of my basic coding skills (i.e. my asking ChatGPT skills).
           </p>
-          <p> <b>NOTE:</b> At the moment, these toys are not &#39;app&#39; and running. But please,
-            check out the <b><a href="https://github.com/Lylio"> codebases</a></b>.
+          <p> <b>NOTE:</b> At the moment, most of these app toys are not &#39;app&#39; and running.
+            But please, check out the <b><a href="https://github.com/Lylio"> codebases</a></b>.
           </p>
         </div>
       </header>

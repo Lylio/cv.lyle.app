@@ -1,8 +1,8 @@
 const data = [
   {
-    title: 'Tic Tac Toe | tic-tac-toe-damp-glade-5588.fly.dev',
+    title: 'Tic Tac Toe | tic-tac-toe.lyle.app',
     subtitle: 'Classic Gaming',
-    link: 'https://tic-tac-toe-damp-glade-5588.fly.dev/',
+    link: 'https://tic-tac-toe.lyle.app/',
     image: '/images/projects/tic-tac-toe.jpg',
     date: '2022-10-22',
     desc:
