@@ -15,7 +15,8 @@ const Articles = () => (
             collection of interesting tech topics and explanatory software development graphics.
             This blog is updated in no particular order, to no particular schedule. It is a
             compendium of work from some of the best Software Developer bloggers.
-            <br />©All rights reserved to each developer and blogger.
+            <br />
+            <br /><b>©All rights reserved to each author.</b>
           </p>
         </div>
       </header>

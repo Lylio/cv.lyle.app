@@ -2,16 +2,28 @@ import React from 'react';
 
 const positions = [
   {
+    company: 'CGI (INTERNAL)',
+    position: 'Java Technical Lead @ Monitoring & Tracking SaaS Project ',
+    link: 'https://www.cgi.com/sites/default/files/2022-05/cgi_empowered_learning_-_pupil_monitoring_and_tracking.pdf',
+    daterange: 'Oct 2024 - Present',
+    points: [
+      <b>Java (JDK 23) · Microservices · MongoDB · Azure · PostGreSQL · Gradle · Angular ·
+        TypeScript
+      </b>,
+    ],
+    description: 'Description Coming Soon!',
+  },
+  {
     company: 'SCOTTISH GOVERNMENT (CGI CLIENT)',
     position: 'Senior Java Developer @ AGRICULTURE AND RURAL ECONOMIES ',
     link: 'https://www.ruralpayments.org/',
-    daterange: 'March 2024 - Present',
+    daterange: 'March 2024 - Oct 2024',
     points: [
       <b>Java (JDK 11) · JSP · Red Hat Fuse · Git/GitLab · OpenShift · Oracle · SQL Developer ·
         SoapUI
       </b>,
     ],
-    description: 'I\'ve recently joined the Agricultural & Rural Economies (ARE) project with the'
+    description: 'I joined the Agricultural & Rural Economies (ARE) project with the'
       + ' Scottish Government as a Java Developer. The ARE project is closely linked with the '
       + 'Scottish Rural Payments and Services facility (https://www.ruralpayments.org/). The '
       + 'maintenance and development of the Rural Payments Service is an ongoing relationship '
