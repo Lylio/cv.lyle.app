@@ -32,7 +32,7 @@ const Code = () => (
         <ul>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-5NVB5KDV"><img
-              src="https://lecontent.sololearn.com/material-images/7723d1592a0b454cb59a32cf5ab35642-SQL2.png"
+              src="https://i.imgur.com/EvogYB5.jpeg"
               alt="SQL Intermediate"
             />
             </a>

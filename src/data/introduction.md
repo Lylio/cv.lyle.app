@@ -18,6 +18,6 @@ Kubernetes and many other CI/CD applications has real satisfaction for me.
 <br />
 <br />
 I also enjoy using my free-time to expand my current skill-set. For example, I am currently deep-diving into the 
-**Kotlin** language to support my entry into Android mobile development.
+Kotlin language to support my entry into Android mobile development.
 
 
