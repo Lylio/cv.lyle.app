@@ -15,14 +15,19 @@ const Index = () => (
       </header>
       <h2 style={{ color: 'rgb(134,19,48)' }}>Current Activity</h2>
       {/* eslint-disable-next-line react/no-unescaped-entities */}
-      <p>Hello, I'm <b>Lyle</b>, a <b>Senior Java Developer</b> with global
-        consultancy leaders <a href="https://www.cgi.com/en"> <b>CGI</b></a>.
+      <p>Hello, I'm <b>Lyle</b>. I currently work with global
+        consultancy leaders <a href="https://www.cgi.com/en"> <b>CGI</b></a> as a <b>Senior Java Consultant</b>.
         <br />
-        <br />This is my online CV space : thanks for visiting.
+        <br />This is my online CV space; thanks for visiting.
 
         <br />
       </p>
-      <p>Thanks for visiting.</p>
+      <h3 style={{ color: 'rgb(115,115,115)' }}>--- CURRENTLY WORKING ON ---</h3>
+      <ul>
+        <li>• Spring Security</li>
+        <li>• Microsoft Azure</li>
+        <li>• Kotlin</li>
+      </ul>
     </article>
   </Main>
 );
