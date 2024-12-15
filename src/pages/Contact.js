@@ -21,6 +21,11 @@ const Contact = () => (
           <li><a href="mailto:cxz@gmx.com"><b>✉️ Email</b></a></li>
           <li><a href="https://www.linkedin.com/in/lylechristine/"><b>🔗 LinkedIn</b></a></li>
         </ul>
+        <img
+          src="https://i.ibb.co/WFGSpYD/lyle-christine-cv2.jpg"
+          style={{ height: '400px' }}
+          alt="Lyle Christine"
+        />
       </div>
       <ContactIcons />
     </article>

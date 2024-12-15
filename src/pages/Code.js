@@ -24,12 +24,20 @@ const Code = () => (
           </a>
           <br />
           <br />
-          <div id="certlist">Completed certificates are listed below with more currently in progress.
+          <div id="certlist">Completed certificates are listed below:
           </div>
         </div>
       </header>
       <div className="sololearn">
         <ul>
+          <li>
+            <a href="https://www.sololearn.com/certificates/CC-YJ1Y8S6C"><img
+              src="https://i.ibb.co/yQg6Cdk/coding-for-data.jpg"
+              alt="Coding for Data"
+            />
+            </a>
+            <span>Coding for Data | Dec 2024 | <a id="cert" href="https://www.sololearn.com/en/certificates/CC-YJ1Y8S6C">Certificate</a></span>
+          </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-5NVB5KDV"><img
               src="https://i.imgur.com/EvogYB5.jpeg"

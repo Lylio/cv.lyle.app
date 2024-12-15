@@ -22,12 +22,6 @@ const Index = () => (
 
         <br />
       </p>
-      <h3 style={{ color: 'rgb(115,115,115)' }}>--- CURRENTLY WORKING ON ---</h3>
-      <ul>
-        <li>• Spring Security</li>
-        <li>• Microsoft Azure</li>
-        <li>• Kotlin</li>
-      </ul>
     </article>
   </Main>
 );
