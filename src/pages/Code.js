@@ -31,12 +31,22 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
+            <a href="https://www.sololearn.com/certificates/CC-H4OF8EKL"><img
+              src="https://blob.sololearn.com/certificates/f1e8c045-3c8f-4a00-877b-bc1bb3aba74c.jpg"
+              alt="Introduction to Python"
+            />
+            </a>
+            <span>Introduction to Python | Jan 2025 | <a id="cert"
+                                                  href="https://www.sololearn.com/certificates/CC-H4OF8EKL">Certificate</a></span>
+          </li>
+          <li>
             <a href="https://www.sololearn.com/certificates/CC-YJ1Y8S6C"><img
               src="https://i.ibb.co/yQg6Cdk/coding-for-data.jpg"
               alt="Coding for Data"
             />
             </a>
-            <span>Coding for Data | Dec 2024 | <a id="cert" href="https://www.sololearn.com/en/certificates/CC-YJ1Y8S6C">Certificate</a></span>
+            <span>Coding for Data | Dec 2024 | <a id="cert"
+                                                  href="https://www.sololearn.com/en/certificates/CC-YJ1Y8S6C">Certificate</a></span>
           </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-5NVB5KDV"><img
@@ -44,7 +54,8 @@ const Code = () => (
               alt="SQL Intermediate"
             />
             </a>
-            <span>SQL Intermediate | Nov 2024 | <a id="cert" href="https://www.sololearn.com/en/certificates/CC-5NVB5KDV">Certificate</a></span>
+            <span>SQL Intermediate | Nov 2024 | <a id="cert"
+                                                   href="https://www.sololearn.com/en/certificates/CC-5NVB5KDV">Certificate</a></span>
           </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-FJIJVBP3"><img
@@ -52,7 +63,8 @@ const Code = () => (
               alt="Java Intermediate"
             />
             </a>
-            <span>Java Intermediate | Sept 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-FJIJVBP3">Certificate</a></span>
+            <span>Java Intermediate | Sept 2023 | <a id="cert"
+                                                     href="https://www.sololearn.com/certificates/CC-FJIJVBP3">Certificate</a></span>
           </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-WXYQA2GW"><img
@@ -60,7 +72,8 @@ const Code = () => (
               alt="JavaScript"
             />
             </a>
-            <span>JavaScript | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-WXYQA2GW">Certificate</a></span>
+            <span>JavaScript | Aug 2023 | <a id="cert"
+                                             href="https://www.sololearn.com/certificates/CC-WXYQA2GW">Certificate</a></span>
           </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CC-DVJRYRU8"><img
@@ -68,7 +81,8 @@ const Code = () => (
               alt="SQL"
             />
             </a>
-            <span>SQL | Aug 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CC-DVJRYRU8">Certificate</a></span>
+            <span>SQL | Aug 2023 | <a id="cert"
+                                      href="https://www.sololearn.com/certificates/CC-DVJRYRU8">Certificate</a></span>
           </li>
           <li>
             <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM"><img
@@ -76,11 +90,12 @@ const Code = () => (
               alt="Java"
             />
             </a>
-            <span>Java | March 2023 | <a id="cert" href="https://www.sololearn.com/certificates/CT-6JS4MSTM">Certificate</a></span>
+            <span>Java | March 2023 | <a id="cert"
+                                         href="https://www.sololearn.com/certificates/CT-6JS4MSTM">Certificate</a></span>
           </li>
         </ul>
       </div>
-      <ContactIcons />
+      <ContactIcons/>
     </article>
   </Main>
 );
