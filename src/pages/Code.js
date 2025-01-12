@@ -31,6 +31,14 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
+            <a href="https://www.sololearn.com/certificates/CC-7TYIURTO"><img
+              src="https://i.imgur.com/i7SRfMa.png"
+              alt="Python Intermediate"
+            />
+            </a>
+            <span>Python Intermediate | Jan 2025 | <a id="cert" href="https://www.sololearn.com/certificates/CC-7TYIURTO">Certificate</a></span>
+          </li>
+          <li>
             <a href="https://www.sololearn.com/certificates/CC-H4OF8EKL"><img
               src="https://imgur.com/I7KKXoq.jpeg"
               alt="Introduction to Python"
