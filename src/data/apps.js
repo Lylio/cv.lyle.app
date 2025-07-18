@@ -1,6 +1,6 @@
 const data = [
   {
-    title: 'Tic Tac Toe | tic-tac-toe.lyle.app',
+    title: 'Tic Tac Toe | https://tic-tac-toe-damp-glade-5588.fly.dev/',
     subtitle: 'Classic Gaming',
     link: 'https://tic-tac-toe-damp-glade-5588.fly.dev/',
     image: '/images/projects/tic-tac-toe.jpg',
@@ -50,7 +50,7 @@ const data = [
     github: 'https://github.com/Lylio/tasket',
   },
   {
-    title: 'Chat Room | chatty.lyle.app',
+    title: 'Chat Room | https://chatty-wild-paper-2127.fly.dev/',
     subtitle: 'Chat Room',
     link: 'https://chatty-wild-paper-2127.fly.dev/',
     image: '/images/projects/chatty.jpg',
