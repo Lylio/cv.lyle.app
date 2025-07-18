@@ -31,6 +31,22 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
+            <a href="https://www.sololearn.com/certificates/CC-TADETWOJ">
+              <img
+                src="https://i.imgur.com/aBHPzKQ.png"
+                alt="Vibe Coding"
+              />
+            </a>
+            <span>Vibe Coding | July 2025 | &nbsp;
+              <a
+                id="cert"
+                href="https://www.sololearn.com/certificates/CC-TADETWOJ"
+              >
+                Certificate
+              </a>
+            </span>
+          </li>
+          <li>
             <a href="https://www.sololearn.com/certificates/CC-IFB8SIKR">
               <img
                 src="https://i.imgur.com/OA6SvFa.png"
