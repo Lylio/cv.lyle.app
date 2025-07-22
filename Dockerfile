@@ -1,4 +1,6 @@
-FROM node:15.4 as build
+FROM node:15.4 AS build
+
+EXPOSE 8080
 
 WORKDIR /app
 

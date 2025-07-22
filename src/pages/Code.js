@@ -33,7 +33,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-TADETWOJ">
               <img
-                src="https://i.imgur.com/aBHPzKQ.png"
+                src="https://i.imgur.com/69A3Sts.png"
                 alt="Vibe Coding"
               />
             </a>

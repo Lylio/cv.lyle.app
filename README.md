@@ -19,9 +19,11 @@ The app is hosted on the Google Cloud Platform.
 <br>
 
 ### Launch Instructions
-1. The Node version should be 12.22.7
+1. `nvm use 14.20.0`
 2. `npm install`
 3. `npm start`
+4. http://localhost:3000
+
 
 <br />
 
