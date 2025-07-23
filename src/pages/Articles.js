@@ -11,9 +11,10 @@ const Articles = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/articles">Articles</Link></h2>
-          <p>Click <b><a href="https://write.as/christova/">here</a></b> for my
-            collection of useful blog posts on tech topics.
+          <p>Click <b><a href="https://write.as/christova/">here</a></b> for a
+            collection of useful blog posts on various <b><a href="https://write.as/christova/">tech topics</a></b>.
           </p>
+          <h3 style={{ fontSize: '150px' }}><b><a href="https://write.as/christova/">📜</a></b></h3>
         </div>
       </header>
     </article>
