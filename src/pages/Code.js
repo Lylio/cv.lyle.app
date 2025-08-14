@@ -31,6 +31,22 @@ const Code = () => (
       <div className="sololearn">
         <ul>
           <li>
+            <a href="https://www.sololearn.com/certificates/CC-YUX5BHQQ">
+              <img
+                src="https://i.imgur.com/rAx3p2k.png"
+                alt="Introduction to C#"
+              />
+            </a>
+            <span>Introduction to C# | Aug 2025 | &nbsp;
+              <a
+                id="cert"
+                href="https://www.sololearn.com/certificates/CC-YUX5BHQQ"
+              >
+                Certificate
+              </a>
+            </span>
+          </li>
+          <li>
             <a href="https://www.sololearn.com/certificates/CC-TADETWOJ">
               <img
                 src="https://i.imgur.com/69A3Sts.png"
