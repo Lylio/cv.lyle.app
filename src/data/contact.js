@@ -3,7 +3,7 @@ import { faLinkedinIn } from '@fortawesome/free-brands-svg-icons/faLinkedinIn';
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { faArrowsSpin } from '@fortawesome/free-solid-svg-icons';
+import { faArrowsSpin, faCode } from '@fortawesome/free-solid-svg-icons';
 
 library.add(fab);
 
@@ -21,7 +21,11 @@ const data = [
     label: 'SoloLearn',
     icon: faArrowsSpin,
   },
-
+  {
+    link: 'https://app.codecrafters.io/users/Lylio',
+    label: 'CodeCrafters',
+    icon: faCode,
+  },
   {
     link: 'https://www.linkedin.com/in/lylechristine/',
     label: 'LinkedIn',
