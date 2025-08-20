@@ -3,7 +3,7 @@ import React from 'react';
 const positions = [
   {
     company: 'CGI (INTERNAL)',
-    position: 'Java Technical Lead @ Monitoring & Tracking SaaS Project ',
+    position: 'Java Technical Lead | Monitoring & Tracking SaaS Project ',
     link: 'https://www.cgi.com/sites/default/files/2022-05/cgi_empowered_learning_-_pupil_monitoring_and_tracking.pdf',
     daterange: 'Oct 2024 - Present',
     points: [
@@ -11,11 +11,10 @@ const positions = [
         TypeScript
       </b>,
     ],
-    description: 'Description Coming Soon!',
   },
   {
     company: 'SCOTTISH GOVERNMENT (CGI CLIENT)',
-    position: 'Senior Java Developer @ AGRICULTURE AND RURAL ECONOMIES ',
+    position: 'Senior Java Developer | AGRICULTURE AND RURAL ECONOMIES ',
     link: 'https://www.ruralpayments.org/',
     daterange: 'March 2024 - Oct 2024',
     points: [
