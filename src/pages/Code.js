@@ -14,8 +14,7 @@ const Code = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/certificates">Code Certificates</Link></h2>
           I use code challenge websites such as
-          <a href="https://www.sololearn.com/profile/24431183"><b> Sololearn</b></a>,
-          <a href="https://app.codecrafters.io/users/Lylio"><b> CodeCrafters</b></a> and <a href="https://leetcode.com/u/Lylio/"><b> LeetCode</b></a> to keep my
+          <a href="https://www.sololearn.com/profile/24431183"><b> Sololearn</b></a> to keep my
           knowledge of familiar languages fresh, and also as a way to up-skill into new technical
           areas. While I&#39;ve worked with these programming languages for many years, I still find
           satisfaction in keeping my skills <i>shiny</i> and <i>sharp</i>. After all: <br /> <br />
