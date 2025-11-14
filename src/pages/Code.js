@@ -32,7 +32,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-YUX5BHQQ">
               <img
-                src="https://i.imgur.com/rAx3p2k.png"
+                src="/images/cert-icons/c-sharp.png"
                 alt="Introduction to C#"
               />
             </a>
@@ -48,7 +48,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-TADETWOJ">
               <img
-                src="https://i.imgur.com/69A3Sts.png"
+                src="/images/cert-icons/vibe-coding.png"
                 alt="Vibe Coding"
               />
             </a>
@@ -64,7 +64,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-IFB8SIKR">
               <img
-                src="https://i.imgur.com/OA6SvFa.png"
+                src="/images/cert-icons/prompt-engineering.png"
                 alt="Prompt Engineering"
               />
             </a>
@@ -80,7 +80,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-7TYIURTO">
               <img
-                src="https://i.imgur.com/i7SRfMa.png"
+                src="/images/cert-icons/python-intermediate.png"
                 alt="Python Intermediate"
               />
             </a>
@@ -96,8 +96,8 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-H4OF8EKL">
               <img
-                src="https://imgur.com/I7KKXoq.jpeg"
-                alt="Python Intermediate"
+                src="/images/cert-icons/introduction-to-python.png"
+                alt="Introduction to Python"
               />
             </a>
             <span>Introduction to Python | Jan 2025 | &nbsp;
@@ -128,7 +128,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-5NVB5KDV">
               <img
-                src="https://i.imgur.com/EvogYB5.jpeg"
+                src="/images/cert-icons/sql-intermediate.png"
                 alt="SQL Intermediate"
               />
             </a>
@@ -144,7 +144,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-FJIJVBP3">
               <img
-                src="https://i.imgur.com/iRdKaGX.png"
+                src="/images/cert-icons/java-intermediate.png"
                 alt="Java Intermediate"
               />
             </a>
@@ -160,7 +160,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-WXYQA2GW">
               <img
-                src="https://i.imgur.com/P8qgBC5.jpg"
+                src="/images/cert-icons/javascript.png"
                 alt="JavaScript"
               />
             </a>
@@ -176,7 +176,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CC-DVJRYRU8">
               <img
-                src="https://i.imgur.com/MbrP2z0.jpg"
+                src="/images/cert-icons/sql.png"
                 alt="SQL"
               />
             </a>
@@ -192,7 +192,7 @@ const Code = () => (
           <li>
             <a href="https://www.sololearn.com/certificates/CT-6JS4MSTM">
               <img
-                src="https://i.imgur.com/aZbeRzk.jpeg"
+                src="/images/cert-icons/java.png"
                 alt="Java"
               />
             </a>
