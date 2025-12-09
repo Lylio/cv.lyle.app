@@ -6,8 +6,8 @@
   Ubuntu, Cantarell, sans-serif;
 
   a:hover span {
-    text-decoration: underline;
-    color: blue!important;
+    //text-decoration: underline;
+    color: #861330!important;
   }
 
   /* If you still want zero default spacing inside *this page only*: */
@@ -73,7 +73,7 @@
   }
 
   .items-per-page select:hover {
-    border-color: #667eea;
+    border-color: #f0f4ff;
   }
 
   .search-box {
@@ -120,14 +120,16 @@
     border-radius: 12px;
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s, box-shadow 0.2s;
-    animation: fadeIn 0.3s ease-in;
+    transition: transform 0.6s, box-shadow 0.2s, background-color 1.6s ease;
+    animation: fadeIn 0.6s ease-in;
   }
 
   .certificate-card:hover {
     text-decoration: none;
     transform: translateY(-4px);
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    background-color: #f0f4ff;
+    animation: fadeIn 1.6s ease-in;
   }
 
   @keyframes fadeIn {
@@ -234,9 +236,9 @@
   }
 
   .pagination button:hover:not(:disabled) {
-    background: #667eea;
+    background: #f0f4ff;
     color: white;
-    border-color: #667eea;
+    border-color: #f0f4ff;
     transform: translateY(-1px);
   }
 
@@ -246,9 +248,9 @@
   }
 
   .pagination button.active {
-    background: #667eea;
+    background: #f0f4ff;
     color: white;
-    border-color: #667eea;
+    border-color: #f0f4ff;
   }
 
   .pagination-info {
@@ -313,7 +315,7 @@
 
     .text:hover {
 
-      color: red;
+      color: #20e854;
 
     }
   }
