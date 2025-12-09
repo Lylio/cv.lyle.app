@@ -3,6 +3,16 @@ import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
   {
+    title: 'Introduction to LLMs',
+    issuer: 'Sololearn',
+    date: '2025-12',
+    id: 'CC-BM7VWYBU',
+    description:
+      'Through a combination of theoretical knowledge and practical examples, this course will equip you with a comprehensive understanding of LLMs and their significance in the AI landscape. By the end of this course, you\'ll be able to explain how these advanced models are pivotal to creating innovative AI solutions.',
+    url: 'https://www.sololearn.com/en/certificates/CC-BM7VWYBU',
+    image: 'https://i.ibb.co/GfGhwy2k/llm-sololearn.png',
+  },
+  {
     title: 'Introduction to C#',
     issuer: 'Sololearn',
     date: '2025-08',
@@ -111,6 +121,16 @@ const allCertificates = [
       'With our interactive Java course, you’ll learn object-oriented Java programming and have the ability to write clear and valid code in almost no time at all.',
     url: 'https://www.sololearn.com/en/certificates/CT-6JS4MSTM',
     image: 'https://i.ibb.co/5qFYQrv/java.png',
+  },
+  {
+    title: 'MSc Software Development',
+    issuer: 'University of Glasgow',
+    date: '2018-11',
+    id: '0912407',
+    description:
+      'The Masters in Software Development is a specialist version of the MSc (Information Technology). It is an intensive, practically oriented programme focussing on professional software development skills, which students apply to a significant Software Development project.',
+    url: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
+    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
   },
 ];
 

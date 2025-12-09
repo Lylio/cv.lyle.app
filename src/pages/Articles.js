@@ -14,7 +14,16 @@ const Articles = () => (
           <p>Click <b><a href="https://write.as/christova/">here</a></b> for a
             collection of useful blog posts on various <b><a href="https://write.as/christova/">tech topics</a></b>.
           </p>
-          <h3 style={{ fontSize: '150px' }}><b><a href="https://write.as/christova/">📜</a></b></h3>
+          <h3 style={{ fontSize: '150px' }}>
+            <b>
+              <a
+                href="https://write.as/christova/"
+                className="scroll-link"
+              >
+                📜
+              </a>
+            </b>
+          </h3>
         </div>
       </header>
     </article>

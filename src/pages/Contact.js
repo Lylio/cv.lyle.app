@@ -18,8 +18,8 @@ const Contact = () => (
       <div className="email">
         <p>Feel free to get in touch:</p>
         <ul>
-          <li><a href="mailto:cxz@gmx.com"><b>✉️ Email</b></a></li>
-          <li><a href="https://www.linkedin.com/in/lylechristine/"><b>🔗 LinkedIn</b></a></li>
+          <b><a href="mailto:cxz@gmx.com" className="contact-link">✉️ Email</a></b><br /><br />
+          <b><a href="https://www.linkedin.com/in/lylechristine/" className="contact-link">🔗 LinkedIn</a></b>
         </ul>
         <img
           src="https://i.ibb.co/WFGSpYD/lyle-christine-cv2.jpg"

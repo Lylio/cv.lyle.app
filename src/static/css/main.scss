@@ -116,6 +116,23 @@ p {
 	opacity: 0.5;
 }
 
+.scroll-link {
+	transition: opacity 0.2s ease-in-out;
+	display: inline-block;
+}
+
+.scroll-link:hover {
+	opacity: 0.65;
+}
+
+.contact-link {
+	transition: color 0.2s ease-in-out;
+}
+
+.contact-link:hover {
+	color: #861330;
+}
+
 
 
 
