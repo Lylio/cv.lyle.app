@@ -8,7 +8,7 @@ const allCertificates = [
     date: '2025-12',
     id: 'CC-JS4BU0NR',
     description:
-      'Through a combination of theoretical knowledge and practical examples, this course will equip you with a comprehensive understanding of LLMs and their significance in the AI landscape. By the end of this course, you\'ll be able to explain how these advanced models are pivotal to creating innovative AI solutions.',
+      'You\'ll learn to build interactive programs and automate your tasks, analyze and visualize even the most complex data and create AI and machine learning models.',
     url: 'https://www.sololearn.com/en/certificates/CC-JS4BU0NR',
     image: 'https://i.ibb.co/wNgHpYK6/python-dev-icon.png',
   },
