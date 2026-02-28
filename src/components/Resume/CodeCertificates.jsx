@@ -3,6 +3,16 @@ import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
   {
+    title: 'JavaScript Intermediate',
+    issuer: 'Sololearn',
+    date: '2026-03',
+    id: 'CC-HDKCUPUP',
+    description:
+      'This course will teach you how to make more complex and flexible programs as well as even more interactive websites.',
+    url: 'https://www.sololearn.com/certificates/CC-HDKCUPUP',
+    image: 'https://lecontent.sololearn.com/material-images/6fb46787e13748dab696c7a14a2cec4c-JS2.png',
+  },
+  {
     title: 'Python Developer',
     issuer: 'Sololearn',
     date: '2025-12',
