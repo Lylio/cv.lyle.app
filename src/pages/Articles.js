@@ -11,8 +11,8 @@ const Articles = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/articles">Articles</Link></h2>
-          <p>Click <b><a href="https://write.as/christova/">here</a></b> for a
-            collection of useful blog posts on various <b><a href="https://write.as/christova/">tech topics</a></b>.
+          <p><b><a href="https://write.as/christova/">christova.writeas.com</a></b> has a collection
+            of articles on various <b><a href="https://write.as/christova/"> tech topics</a></b>.
           </p>
           <h3 style={{ fontSize: '150px' }}>
             <b>
@@ -20,7 +20,7 @@ const Articles = () => (
                 href="https://write.as/christova/"
                 className="scroll-link"
               >
-                📜
+                🖱️
               </a>
             </b>
           </h3>
