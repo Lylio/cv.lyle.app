@@ -18,11 +18,11 @@ const Contact = () => (
       <div className="email">
         <p>Feel free to get in touch:</p>
         <ul>
-          <b><a href="mailto:cxz@gmx.com" className="contact-link">✉️ Email</a></b><br /><br />
+          <b><a href="mailto:cxz@gmx.com" className="contact-link">📧 Email</a></b><br /><br />
           <b><a href="https://www.linkedin.com/in/lylechristine/" className="contact-link">🔗 LinkedIn</a></b>
         </ul>
         <img
-          src="https://www.flickr.com/photos/204495731@N06/55211270141/in/dateposted-public/"
+          src="https://live.staticflickr.com/65535/55211270141_b4e7f56011_n.jpg"
           style={{ height: '400px' }}
           alt="Lyle Christine"
         />
