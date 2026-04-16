@@ -20,7 +20,7 @@ const Articles = () => (
                 href="https://write.as/christova/"
                 className="scroll-link"
               >
-                🖱️
+                🗒️
               </a>
             </b>
           </h3>
