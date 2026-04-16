@@ -22,7 +22,7 @@ const Contact = () => (
           <b><a href="https://www.linkedin.com/in/lylechristine/" className="contact-link">🔗 LinkedIn</a></b>
         </ul>
         <img
-          src="https://static.vecteezy.com/system/resources/thumbnails/026/848/822/small/big-cartoon-tree-vector.jpg"
+          src="https://www.flickr.com/photos/204495731@N06/55211270141/in/dateposted-public/"
           style={{ height: '400px' }}
           alt="Lyle Christine"
         />
