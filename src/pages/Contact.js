@@ -18,7 +18,7 @@ const Contact = () => (
       <div className="email">
         <p>Feel free to get in touch:</p>
         <ul>
-          <b><a href="mailto:cxz@gmx.com" className="contact-link">📧 Email</a></b><br /><br />
+          <b><a href="mailto:cxz@gmx.com" className="contact-link">✉️ Email</a></b><br /><br />
           <b><a href="https://www.linkedin.com/in/lylechristine/" className="contact-link">🔗 LinkedIn</a></b>
         </ul>
         <img
