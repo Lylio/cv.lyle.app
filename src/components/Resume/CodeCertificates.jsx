@@ -143,7 +143,7 @@ const allCertificates = [
     image: 'https://i.ibb.co/5qFYQrv/java.png',
   },
   {
-    title: 'Certified Entry-Level Python Programmer (PCEP)',
+    title: 'Certified Entry-Level Python Programmer (PCEP-30-01)',
     issuer: 'Python Institute',
     date: '2020-12',
     id: 'd4199324-cb4f-41dc-85c3-e5557817a16e',
