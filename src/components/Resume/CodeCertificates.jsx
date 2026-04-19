@@ -2,6 +2,16 @@ import React, { useState, useMemo, useEffect } from 'react';
 import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
+     {
+    title: 'MSc Software Development',
+    issuer: 'University of Glasgow',
+    date: '2018-11',
+    id: '0912407',
+    description:
+      'The Masters in Software Development is a specialist version of the MSc (Information Technology). It is an intensive, practically oriented programme focussing on professional software development skills, which students apply to a significant Software Development project.',
+    url: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
+    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+  },
    {
     title: 'Python Developer',
     issuer: 'Sololearn',
@@ -151,17 +161,7 @@ const allCertificates = [
       'Earners of the PCEP – Certified Entry-Level Python Programmer certification have knowledge of the universal concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish coding tasks related to the essentials of programming in the Python language and fundamental skills in resolving typical implementation challenges with the help of the Python Standard Library.',
     url: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e?source=linked_in_profile',
     image: 'https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png',
-  },
-  {
-    title: 'MSc Software Development',
-    issuer: 'University of Glasgow',
-    date: '2018-11',
-    id: '0912407',
-    description:
-      'The Masters in Software Development is a specialist version of the MSc (Information Technology). It is an intensive, practically oriented programme focussing on professional software development skills, which students apply to a significant Software Development project.',
-    url: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
-    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
-  },
+  }
 ];
 
 function CodeCertificates() {
