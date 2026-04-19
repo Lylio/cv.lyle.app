@@ -12,7 +12,17 @@ const allCertificates = [
     url: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
     image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
   },
-   {
+  {
+    title: 'JavaScript Intermediate',
+    issuer: 'Sololearn',
+    date: '2026-03',
+    id: 'CC-HDKCUPUP',
+    description:
+      'This course will teach you how to make more complex and flexible programs as well as even more interactive websites.',
+    url: 'https://www.sololearn.com/certificates/CC-HDKCUPUP',
+    image: 'https://lecontent.sololearn.com/material-images/6fb46787e13748dab696c7a14a2cec4c-JS2.png',
+  },
+  {
     title: 'Python Developer',
     issuer: 'Sololearn',
     date: '2025-12',
@@ -153,6 +163,26 @@ const allCertificates = [
     image: 'https://coursera.org/share/0e0372c40745765c60f733ee018e7601',
   },
   {
+    title: 'Core Java',
+    issuer: 'Coursera',
+    date: '2021-02',
+    id: 'SLY39QZG9WYV',
+    description:
+      'Web Development with Java Spring Framework',
+    url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/SLY39QZG9WYV',
+    image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV.jpeg',
+  },
+  {
+    title: 'Fundamentals of Red Hat Enterprise Linux',
+    issuer: 'Coursera',
+    date: '2021-04',
+    id: 'E6LB287VTAVH',
+    description:
+      'This specialization introduces Red Hat Enterprise Linux system administration and private cloud capabilities of IBM Systems. IBM Power servers will be used to demonstrate these concepts. Through three courses, you will learn a range of concepts from how to get started with Linux, to using Linux in a large private cloud environment with OpenStack-based products such as IBM PowerVC. Brought to you by IBM! ',
+    url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
+    image: 'https://coursera.org/share/0e0372c40745765c60f733ee018e7601',
+  },
+  {
     title: 'Certified Entry-Level Python Programmer (PCEP)',
     issuer: 'Python Institute',
     date: '2020-12',
@@ -161,7 +191,7 @@ const allCertificates = [
       'Earners of the PCEP – Certified Entry-Level Python Programmer certification have knowledge of the universal concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish coding tasks related to the essentials of programming in the Python language and fundamental skills in resolving typical implementation challenges with the help of the Python Standard Library.',
     url: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e?source=linked_in_profile',
     image: 'https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png',
-  }
+  },
 ];
 
 function CodeCertificates() {
