@@ -2,7 +2,7 @@ import React, { useState, useMemo, useEffect } from 'react';
 import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
-     {
+  {
     title: 'MSc Software Development',
     issuer: 'University of Glasgow',
     date: '2018-11',
@@ -93,6 +93,36 @@ const allCertificates = [
     image: 'https://i.ibb.co/DS5pxv1/introduction-to-python.png',
   },
   {
+    title: 'Learn Advanced Java',
+    issuer: 'Codecademy',
+    date: '2017-02',
+    id: '0969B394-3',
+    description:
+      'Learn the basics of parallel and concurrent programming, servlets, and sockets in this advanced Java course.',
+    url: 'https://www.codecademy.com/enrolled/courses/learn-advanced-java',
+    image: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
+  },
+  {
+    title: 'Learn SQL Course',
+    issuer: 'Codecademy',
+    date: '2017-02',
+    id: 'D7CF4B83-E',
+    description:
+      'Information is all around us. You can put it to use by learning SQL basics. Used in data science, analytics, and engineering, SQL makes it easy to work with data and make more informed strategy, operations, and business decisions. It’s a helpful skill for anyone who works with data (even in non-tech roles). In this SQL course, you’ll learn how to manage large datasets and analyze real data.',
+    url: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
+    image: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
+  },
+  {
+    title: 'Establishing AI Guardrails and Governance',
+    issuer: 'Skillsoft',
+    date: '2024-08',
+    id: '0xa1a6eb495cf973a2f302133447cbfbe4e9b3e78f82f384b46acd5a1cf8b96442',
+    description:
+      'Basic Python and SQL. A slightly misleading title of course.',
+    url: 'https://skillsoft.digitalbadges.skillsoft.com/9d24ccbb-c4c1-4a64-a1d9-12e4971522b1',
+    image: 'https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113201048',
+  },
+  {
     title: 'Coding for Data',
     issuer: 'Sololearn',
     date: '2024-12',
@@ -171,6 +201,26 @@ const allCertificates = [
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/SLY39QZG9WYV',
     image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV.jpeg',
+  },
+  {
+    title: 'Angular 11: Getting Started with Angular',
+    issuer: 'Skillsoft',
+    date: '2020-05',
+    id: '73058892',
+    description:
+      'Angular helps build interactive and dynamic single-page applications (SPAs) through templating, two-way binding, modularization, RESTful API handling, dependency injection, and AJAX handling. It\'s a highly demanded technology and a useful language among experienced developers who want to move into full stack development. Use this course to explore the different building blocks of Angular. Examine some of the advanced features of Angular 11 and install various software components for making use of its features and benefits. Install Node.js, Visual Studio Code, and Angular CLI and learn to create and run an Angular application. Finally, investigate the different characteristics of package.json files and outline the basics of Typescript. When you\'re done with this course, you\'ll have a basic grasp of working with Angular.',
+    url: 'https://skillsoft.digitalbadges.skillsoft.com/489b2623-8aff-46b7-9122-69e2ae438545#acc.UZdNAWeg',
+    image: 'https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73058892',
+  },
+  {
+    title: 'Introduction to Ansible: The Fundamentals',
+    issuer: 'Coursera',
+    date: '2020-04',
+    id: 'c5c5269d5ae8878cd05332aca7d3fab3',
+    description:
+      'In this guided project you will learn how to implement infrastructure as a code practice using Ansible, a configuration management tool. The task-based approach that we follow in our guided project will get you a better understanding of Ansible that comes very handy while working on your real-life project. . Most importantly you will leave this course with more confidence that will get you to work in Ansible more efficiently.',
+    url: 'https://www.coursera.org/account/accomplishments/certificate/AYKK2AWXFUYQ',
+    image: 'https://coursera.org/share/c5c5269d5ae8878cd05332aca7d3fab3',
   },
   {
     title: 'Fundamentals of Red Hat Enterprise Linux',
