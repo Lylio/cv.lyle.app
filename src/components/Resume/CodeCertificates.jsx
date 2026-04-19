@@ -143,6 +143,16 @@ const allCertificates = [
     image: 'https://i.ibb.co/5qFYQrv/java.png',
   },
   {
+    title: 'Certified Entry-Level Python Programmer (PCEP)',
+    issuer: 'Python Institute',
+    date: '2020-12',
+    id: 'd4199324-cb4f-41dc-85c3-e5557817a16e',
+    description:
+      'Earners of the PCEP – Certified Entry-Level Python Programmer certification have knowledge of the universal concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish coding tasks related to the essentials of programming in the Python language and fundamental skills in resolving typical implementation challenges with the help of the Python Standard Library.',
+    url: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e?source=linked_in_profile',
+    image: 'https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png',
+  },
+  {
     title: 'MSc Software Development',
     issuer: 'University of Glasgow',
     date: '2018-11',
