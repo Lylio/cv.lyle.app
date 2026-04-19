@@ -2,17 +2,7 @@ import React, { useState, useMemo, useEffect } from 'react';
 import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
-  {
-    title: 'JavaScript Intermediate',
-    issuer: 'Sololearn',
-    date: '2026-03',
-    id: 'CC-HDKCUPUP',
-    description:
-      'This course will teach you how to make more complex and flexible programs as well as even more interactive websites.',
-    url: 'https://www.sololearn.com/certificates/CC-HDKCUPUP',
-    image: 'https://lecontent.sololearn.com/material-images/6fb46787e13748dab696c7a14a2cec4c-JS2.png',
-  },
-  {
+   {
     title: 'Python Developer',
     issuer: 'Sololearn',
     date: '2025-12',
@@ -143,7 +133,17 @@ const allCertificates = [
     image: 'https://i.ibb.co/5qFYQrv/java.png',
   },
   {
-    title: 'Certified Entry-Level Python Programmer (PCEP-30-01)',
+    title: 'Web Development with Java Spring Framework',
+    issuer: 'Coursera',
+    date: '2021-03',
+    id: '4GXSTE5EF3MD',
+    description:
+      'Web Development with Java Spring Framework',
+    url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
+    image: 'https://coursera.org/share/0e0372c40745765c60f733ee018e7601',
+  },
+  {
+    title: 'Certified Entry-Level Python Programmer (PCEP)',
     issuer: 'Python Institute',
     date: '2020-12',
     id: 'd4199324-cb4f-41dc-85c3-e5557817a16e',
