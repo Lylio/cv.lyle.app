@@ -110,7 +110,7 @@ const allCertificates = [
     description:
       'Information is all around us. You can put it to use by learning SQL basics. Used in data science, analytics, and engineering, SQL makes it easy to work with data and make more informed strategy, operations, and business decisions. It’s a helpful skill for anyone who works with data (even in non-tech roles). In this SQL course, you’ll learn how to manage large datasets and analyze real data.',
     url: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
-    image: 'https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp',
+    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
   },
   {
     title: 'Establishing AI Guardrails and Governance',
@@ -190,7 +190,7 @@ const allCertificates = [
     description:
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
-    image: '<a href="https://www.clipartmax.com/middle/m2i8i8d3N4b1G6i8_spring-data-team-spring-framework-icon/" target="_blank">Spring Data Team - Spring Framework Icon @clipartmax.com</a>',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png',
   },
   {
     title: 'Core Java',
