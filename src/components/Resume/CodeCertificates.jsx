@@ -140,7 +140,7 @@ const allCertificates = [
     description:
       'Often, you need multiple tables in order to keep data integrity and avoid duplication. In this course, we’ll teach you how to easily deal with more than one table. Master the process of data manipulation and work with more complex interrelated multi-table databases.',
     url: 'https://www.sololearn.com/en/certificates/CC-5NVB5KDV',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s',
+    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
   },
   {
     title: 'Java Intermediate',
@@ -170,7 +170,7 @@ const allCertificates = [
     description:
       'This course covers an array of SQL-related topics, such as retrieving, updating and filtering data; functions and subqueries; creating & updating tables; & many more!',
     url: 'https://www.sololearn.com/en/certificates/CC-DVJRYRU8',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s',
+    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
   },
   {
     title: 'Java',
