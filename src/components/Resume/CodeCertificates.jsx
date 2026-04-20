@@ -100,7 +100,7 @@ const allCertificates = [
     description:
       'Learn the basics of parallel and concurrent programming, servlets, and sockets in this advanced Java course.',
     url: 'https://www.codecademy.com/enrolled/courses/learn-advanced-java',
-    image: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
+    image: 'https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-shadow-tal-revivo.jpg',
   },
   {
     title: 'Learn SQL Course',
@@ -110,17 +110,17 @@ const allCertificates = [
     description:
       'Information is all around us. You can put it to use by learning SQL basics. Used in data science, analytics, and engineering, SQL makes it easy to work with data and make more informed strategy, operations, and business decisions. It’s a helpful skill for anyone who works with data (even in non-tech roles). In this SQL course, you’ll learn how to manage large datasets and analyze real data.',
     url: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
-    image: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
+    image: 'https://icon2.cleanpng.com/20180611/ipg/aa8k6rg0g.webp',
   },
   {
     title: 'Establishing AI Guardrails and Governance',
     issuer: 'Skillsoft',
     date: '2024-08',
-    id: '0xa1a6eb495cf973a2f302133447cbfbe4e9b3e78f82f384b46acd5a1cf8b96442',
+    id: '9d24ccbb-c4c1-4a64-a1d9-12e4971522b1',
     description:
       'Basic Python and SQL. A slightly misleading title of course.',
     url: 'https://skillsoft.digitalbadges.skillsoft.com/9d24ccbb-c4c1-4a64-a1d9-12e4971522b1',
-    image: 'https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/113201048',
+    image: 'https://cdn-icons-png.flaticon.com/512/8131/8131880.png',
   },
   {
     title: 'Coding for Data',
@@ -190,7 +190,7 @@ const allCertificates = [
     description:
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
-    image: 'https://coursera.org/share/0e0372c40745765c60f733ee018e7601',
+    image: '<a href="https://www.clipartmax.com/middle/m2i8i8d3N4b1G6i8_spring-data-team-spring-framework-icon/" target="_blank">Spring Data Team - Spring Framework Icon @clipartmax.com</a>',
   },
   {
     title: 'Core Java',
@@ -200,7 +200,7 @@ const allCertificates = [
     description:
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/SLY39QZG9WYV',
-    image: 'https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV/CERTIFICATE_LANDING_PAGE~SLY39QZG9WYV.jpeg',
+    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
   },
   {
     title: 'Angular 11: Getting Started with Angular',
@@ -210,7 +210,7 @@ const allCertificates = [
     description:
       'Angular helps build interactive and dynamic single-page applications (SPAs) through templating, two-way binding, modularization, RESTful API handling, dependency injection, and AJAX handling. It\'s a highly demanded technology and a useful language among experienced developers who want to move into full stack development. Use this course to explore the different building blocks of Angular. Examine some of the advanced features of Angular 11 and install various software components for making use of its features and benefits. Install Node.js, Visual Studio Code, and Angular CLI and learn to create and run an Angular application. Finally, investigate the different characteristics of package.json files and outline the basics of Typescript. When you\'re done with this course, you\'ll have a basic grasp of working with Angular.',
     url: 'https://skillsoft.digitalbadges.skillsoft.com/489b2623-8aff-46b7-9122-69e2ae438545#acc.UZdNAWeg',
-    image: 'https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73058892',
+    image: 'https://keylines.cambridge-intelligence.com/im/tutorials/angular.png',
   },
   {
     title: 'Introduction to Ansible: The Fundamentals',
@@ -220,7 +220,7 @@ const allCertificates = [
     description:
       'In this guided project you will learn how to implement infrastructure as a code practice using Ansible, a configuration management tool. The task-based approach that we follow in our guided project will get you a better understanding of Ansible that comes very handy while working on your real-life project. . Most importantly you will leave this course with more confidence that will get you to work in Ansible more efficiently.',
     url: 'https://www.coursera.org/account/accomplishments/certificate/AYKK2AWXFUYQ',
-    image: 'https://coursera.org/share/c5c5269d5ae8878cd05332aca7d3fab3',
+    image: 'https://img.icons8.com/fluent/1200/ansible.jpg',
   },
   {
     title: 'Fundamentals of Red Hat Enterprise Linux',
@@ -230,7 +230,7 @@ const allCertificates = [
     description:
       'This specialization introduces Red Hat Enterprise Linux system administration and private cloud capabilities of IBM Systems. IBM Power servers will be used to demonstrate these concepts. Through three courses, you will learn a range of concepts from how to get started with Linux, to using Linux in a large private cloud environment with OpenStack-based products such as IBM PowerVC. Brought to you by IBM! ',
     url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
-    image: 'https://coursera.org/share/0e0372c40745765c60f733ee018e7601',
+    image: 'https://images.icon-icons.com/2108/PNG/512/redhat_icon_130844.png',
   },
   {
     title: 'Certified Entry-Level Python Programmer (PCEP)',
