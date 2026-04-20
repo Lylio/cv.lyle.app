@@ -20,8 +20,14 @@ const Code = () => (
           technical areas. While I have worked with these programming languages for many years, I
           still find satisfaction in keeping my skills shiny and sharp. After all:
 
-          <b><a href="https://www.youtube.com/watch?v=i6RZY4Ar3fw" className="hover-link"> Rust Never Sleeps </a></b>
-
+         <div style="text-align: center;">
+        <b>
+          <a href="https://www.youtube.com/watch?v=i6RZY4Ar3fw" className="hover-link">
+      Rust Never Sleeps
+          </a>
+      </b>
+        </div>
+        <br/>
           <div id="certlist">Completed certificates are listed below:</div>
         </div>
       </header>
