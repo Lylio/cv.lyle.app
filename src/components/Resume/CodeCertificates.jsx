@@ -20,7 +20,7 @@ const allCertificates = [
     description:
       'This course will teach you how to make more complex and flexible programs as well as even more interactive websites.',
     url: 'https://www.sololearn.com/certificates/CC-HDKCUPUP',
-    image: 'https://lecontent.sololearn.com/material-images/6fb46787e13748dab696c7a14a2cec4c-JS2.png',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
   },
   {
     title: 'Python Developer',
@@ -120,7 +120,7 @@ const allCertificates = [
     description:
       'Basic Python and SQL. A slightly misleading title of course.',
     url: 'https://skillsoft.digitalbadges.skillsoft.com/9d24ccbb-c4c1-4a64-a1d9-12e4971522b1',
-    image: 'https://cdn-icons-png.flaticon.com/512/8131/8131880.png',
+    image: 'https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F405%2FPNG%2F512%2FAi_40670.png',
   },
   {
     title: 'Coding for Data',
@@ -140,7 +140,7 @@ const allCertificates = [
     description:
       'Often, you need multiple tables in order to keep data integrity and avoid duplication. In this course, we’ll teach you how to easily deal with more than one table. Master the process of data manipulation and work with more complex interrelated multi-table databases.',
     url: 'https://www.sololearn.com/en/certificates/CC-5NVB5KDV',
-    image: 'https://i.ibb.co/3ykWsZ9B/sql-intermediate.png',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s',
   },
   {
     title: 'Java Intermediate',
@@ -160,7 +160,7 @@ const allCertificates = [
     description:
       'Learn all the basic features of JavaScript, including making your website more interactive, changing website content, validating forms, and so much more.',
     url: 'https://www.sololearn.com/en/certificates/CC-WXYQA2GW',
-    image: 'https://i.ibb.co/j9WTgG70/javascript.png',
+    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
   },
   {
     title: 'SQL',
@@ -170,7 +170,7 @@ const allCertificates = [
     description:
       'This course covers an array of SQL-related topics, such as retrieving, updating and filtering data; functions and subqueries; creating & updating tables; & many more!',
     url: 'https://www.sololearn.com/en/certificates/CC-DVJRYRU8',
-    image: 'https://i.ibb.co/zWy7FFkC/sql.png',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s',
   },
   {
     title: 'Java',
