@@ -100,7 +100,7 @@ const allCertificates = [
     description:
       'Learn the basics of parallel and concurrent programming, servlets, and sockets in this advanced Java course.',
     url: 'https://www.codecademy.com/enrolled/courses/learn-advanced-java',
-    image: 'https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/1200/external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-shadow-tal-revivo.jpg',
+    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
   },
   {
     title: 'Learn SQL Course',
@@ -150,7 +150,7 @@ const allCertificates = [
     description:
       'Time to get serious and really see what Java (and you!) can do! In this course you’ll learn some concepts related to Object-Oriented Programming (OOP), Collections, and working with files.',
     url: 'https://www.sololearn.com/en/certificates/CC-FJIJVBP3',
-    image: 'https://i.ibb.co/8nFKzGCN/java-intermedeiate.png',
+    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
   },
   {
     title: 'JavaScript',
@@ -180,7 +180,7 @@ const allCertificates = [
     description:
       'With our interactive Java course, you’ll learn object-oriented Java programming and have the ability to write clear and valid code in almost no time at all.',
     url: 'https://www.sololearn.com/en/certificates/CT-6JS4MSTM',
-    image: 'https://i.ibb.co/5qFYQrv/java.png',
+    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
   },
   {
     title: 'Web Development with Java Spring Framework',
