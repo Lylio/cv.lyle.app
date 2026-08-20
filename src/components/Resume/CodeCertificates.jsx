@@ -242,6 +242,35 @@ const allCertificates = [
     url: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e?source=linked_in_profile',
     image: 'https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png',
   },
+  {
+    title: 'MPhil, Sociology',
+    issuer: 'University of Glasgow',
+    date: '2014-11',
+    id: '0912407',
+    description:
+      'Processes of Recovery from Problem Gambling: A Qualitative Exploration: http://theses.gla.ac.uk/5470/',
+    url: 'http://theses.gla.ac.uk/5470/',
+    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+  },
+  {
+    title: 'MRes, Sociology and Research Methods',
+    issuer: 'University of Glasgow',
+    date: '2010-05',
+    id: '0912407',
+    description:
+      'Advanced and mixed-methods training to build your confidence as a researcher. The programme offers practical, expert-led teaching that connects qualitative and quantitative methods to prepare you to understand and address major global challenges.',
+    url: 'https://www.gla.ac.uk/postgraduate/taught/social-science-research-methods/',
+    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+  },
+  {
+    title: 'Media, Culture & Society',
+    issuer: 'Abertay University',
+    date: '2009-05',
+    description:
+      'Core Focus: Explored how news and media are constructed, how communication shapes daily life, and the ties between culture and nationhood.Key Topics: Analyzed political culture, propaganda, media representation, and the sociology of popular media.Skills Gained: Critical analysis of texts and media, social research methods, and contextual understanding of cultural shifts',
+    url: 'https://www.abertay.ac.uk/media/me3pq2n0/ba-with-honours-in-sociology.pdf',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uY5VaUBlCP_ly33A9arls-LxtGx1G32DWrXF6SUQpZ2NmjqJRGFt8Kf5&s=10',
+  },
 ];
 
 function CodeCertificates() {
