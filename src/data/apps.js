@@ -1,5 +1,15 @@
 const data = [
   {
+    title: 'BlackJack | https://sweet-nurturing-production-9c2d.up.railway.app/',
+    subtitle: 'BlackJack',
+    link: 'https://sweet-nurturing-production-9c2d.up.railway.app/',
+    image: '/images/projects/blackjack.png',
+    date: '2026-08-22',
+    desc:
+      'Classic BlackJack card game: 21 or bust!',
+    github: 'https://github.com/Lylio/blackjack',
+  },
+  {
     title: 'Tic Tac Toe | https://tic-tac-toe-damp-glade-5588.fly.dev/',
     subtitle: 'Classic Gaming',
     link: 'https://tic-tac-toe-damp-glade-5588.fly.dev/',
