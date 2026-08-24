@@ -6,7 +6,7 @@ const data = [
     image: '/images/projects/blackjack.png',
     date: '2026-08-22',
     desc:
-      'Classic BlackJack card game: 21 or bust!',
+      'Spring Boot • React • 21 or Bust!',
     github: 'https://github.com/Lylio/blackjack',
   },
   {
@@ -30,9 +30,9 @@ const data = [
     github: 'https://github.com/Lylio/cookie-contacts',
   },
   {
-    title: 'QR Code Generator | (offline)',
+    title: 'QR Code Generator | https://quarcode-production-1897.up.railway.app/',
     subtitle: 'QR Code Generator',
-    link: null,
+    link: 'https://quarcode-production-1897.up.railway.app/',
     image: '/images/projects/quarcode.jpg',
     date: '2022-02-19',
     desc:
