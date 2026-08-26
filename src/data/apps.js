@@ -1,5 +1,15 @@
 const data = [
   {
+    title: 'Whether the Weather | https://whether-the-weather-production.up.railway.app/',
+    subtitle: 'Whether the Weather',
+    link: 'https://whether-the-weather-production.up.railway.app/',
+    image: '/images/projects/whether-the-weather.jpg',
+    date: '2026-08-26',
+    desc:
+      'Spring Boot • JavaFX',
+    github: 'https://github.com/Lylio/whether-the-weather',
+  },
+  {
     title: 'BlackJack | https://sweet-nurturing-production-9c2d.up.railway.app/',
     subtitle: 'BlackJack',
     link: 'https://sweet-nurturing-production-9c2d.up.railway.app/',
