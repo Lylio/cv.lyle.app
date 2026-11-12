@@ -7,18 +7,23 @@ const Cell = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
       <header>
-        <h3><a href={data.link}>{data.title}</a></h3>
+        <h3><a href={data.link || data.github}>{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-      <a href={data.link} className="image">
-        <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
+      <a href={data.link || data.github} className="image">
+        <img
+          src={data.image.startsWith('https://')
+            ? data.image
+            : `${process.env.PUBLIC_URL}${data.image}`}
+          alt={`${data.title} preview`}
+        />
       </a>
       <div className="description">
         <p>{data.desc}</p>
       </div>
       <div className="github">
-        <a href={data.github} className="image">
-          <img src={githublogo} alt="" />
+        <a href={data.github} className="image" aria-label={`View ${data.title} on GitHub`}>
+          <img src={githublogo} alt="GitHub" />
         </a>
       </div>
     </article>
