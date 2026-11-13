@@ -10,7 +10,7 @@ const allCertificates = [
     description:
       'The Masters in Software Development is a specialist version of the MSc (Information Technology). It is an intensive, practically oriented programme focussing on professional software development skills, which students apply to a significant Software Development project.',
     url: 'https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/',
-    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/glasgow.png`,
   },
   {
     title: 'JavaScript Intermediate',
@@ -20,7 +20,7 @@ const allCertificates = [
     description:
       'This course will teach you how to make more complex and flexible programs as well as even more interactive websites.',
     url: 'https://www.sololearn.com/certificates/CC-HDKCUPUP',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/javascript.png`,
   },
   {
     title: 'Python Developer',
@@ -30,7 +30,7 @@ const allCertificates = [
     description:
       'You\'ll learn to build interactive programs and automate your tasks, analyze and visualize even the most complex data and create AI and machine learning models.',
     url: 'https://www.sololearn.com/en/certificates/CC-JS4BU0NR',
-    image: 'https://i.ibb.co/wNgHpYK6/python-dev-icon.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-developer.png`,
   },
   {
     title: 'Introduction to LLMs',
@@ -40,7 +40,7 @@ const allCertificates = [
     description:
       'Through a combination of theoretical knowledge and practical examples, this course will equip you with a comprehensive understanding of LLMs and their significance in the AI landscape. By the end of this course, you\'ll be able to explain how these advanced models are pivotal to creating innovative AI solutions.',
     url: 'https://www.sololearn.com/en/certificates/CC-BM7VWYBU',
-    image: 'https://i.ibb.co/GfGhwy2k/llm-sololearn.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/llm.png`,
   },
   {
     title: 'Introduction to C#',
@@ -50,7 +50,7 @@ const allCertificates = [
     description:
       'C# is used by many large organizations, start-ups and beginners alike. It takes some of the useful features of C and adds syntax to save time and effort.',
     url: 'https://www.sololearn.com/en/certificates/CC-YUX5BHQQ',
-    image: 'https://i.ibb.co/KpGq9cb8/c-sharp.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/c-sharp.png`,
   },
   {
     title: 'Vibe Coding',
@@ -60,7 +60,7 @@ const allCertificates = [
     description:
       'Perfect for beginners and future-forward developers, vibe coding makes software development more human, accessible, collaborative, and productive than ever.',
     url: 'https://www.sololearn.com/en/certificates/CC-TADETWOJ',
-    image: 'https://i.ibb.co/GzDXfTH/vibe-coding.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/vibe-coding.png`,
   },
   {
     title: 'Prompt Engineering',
@@ -70,7 +70,7 @@ const allCertificates = [
     description:
       'Learn the art of crafting precise and effective prompts to achieve desired results from AI systems. Dive deep into the principles of prompt engineering, communicate your intentions clearly to AI, and explore advanced techniques to optimize AI responses.',
     url: 'https://www.sololearn.com/en/certificates/CC-IFB8SIKR',
-    image: 'https://i.ibb.co/TDw88cQX/prompt-engineering-icon.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/prompt-engineering.png`,
   },
   {
     title: 'Python Intermediate',
@@ -80,7 +80,7 @@ const allCertificates = [
     description:
       'Python collection types, lambda functions, generators, decorators, object-oriented programming, and much more.',
     url: 'https://www.sololearn.com/en/certificates/CC-7TYIURTO',
-    image: 'https://i.ibb.co/hxr8pNsR/intermediate-python.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-intermediate.png`,
   },
   {
     title: 'Introduction to Python',
@@ -90,7 +90,7 @@ const allCertificates = [
     description:
       'Cover the basic concepts of Python, as well as build real-life projects and solve different coding challenges.',
     url: 'https://www.sololearn.com/en/certificates/CC-H4OF8EKL',
-    image: 'https://i.ibb.co/DS5pxv1/introduction-to-python.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-introduction.png`,
   },
   {
     title: 'Learn Advanced Java',
@@ -100,7 +100,7 @@ const allCertificates = [
     description:
       'Learn the basics of parallel and concurrent programming, servlets, and sockets in this advanced Java course.',
     url: 'https://www.codecademy.com/enrolled/courses/learn-advanced-java',
-    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
     title: 'Learn SQL Course',
@@ -110,7 +110,7 @@ const allCertificates = [
     description:
       'Information is all around us. You can put it to use by learning SQL basics. Used in data science, analytics, and engineering, SQL makes it easy to work with data and make more informed strategy, operations, and business decisions. It’s a helpful skill for anyone who works with data (even in non-tech roles). In this SQL course, you’ll learn how to manage large datasets and analyze real data.',
     url: 'https://www.codecademy.com/profiles/Lylio/certificates/042a4e5884e3eb6ea1f2a12be6abb851',
-    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
     title: 'Establishing AI Guardrails and Governance',
@@ -120,7 +120,7 @@ const allCertificates = [
     description:
       'Basic Python and SQL. A slightly misleading title of course.',
     url: 'https://skillsoft.digitalbadges.skillsoft.com/9d24ccbb-c4c1-4a64-a1d9-12e4971522b1',
-    image: 'https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F405%2FPNG%2F512%2FAi_40670.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/ai-governance.png`,
   },
   {
     title: 'Coding for Data',
@@ -130,7 +130,7 @@ const allCertificates = [
     description:
       'Basic Python and SQL. A slightly misleading title of course.',
     url: 'https://www.sololearn.com/en/certificates/CC-YJ1Y8S6C',
-    image: 'https://i.ibb.co/VpLCg56b/coding-for-data.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/coding-for-data.png`,
   },
   {
     title: 'SQL Intermediate',
@@ -140,7 +140,7 @@ const allCertificates = [
     description:
       'Often, you need multiple tables in order to keep data integrity and avoid duplication. In this course, we’ll teach you how to easily deal with more than one table. Master the process of data manipulation and work with more complex interrelated multi-table databases.',
     url: 'https://www.sololearn.com/en/certificates/CC-5NVB5KDV',
-    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
     title: 'Java Intermediate',
@@ -150,7 +150,7 @@ const allCertificates = [
     description:
       'Time to get serious and really see what Java (and you!) can do! In this course you’ll learn some concepts related to Object-Oriented Programming (OOP), Collections, and working with files.',
     url: 'https://www.sololearn.com/en/certificates/CC-FJIJVBP3',
-    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
     title: 'JavaScript',
@@ -160,7 +160,7 @@ const allCertificates = [
     description:
       'Learn all the basic features of JavaScript, including making your website more interactive, changing website content, validating forms, and so much more.',
     url: 'https://www.sololearn.com/en/certificates/CC-WXYQA2GW',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/javascript.png`,
   },
   {
     title: 'SQL',
@@ -170,7 +170,7 @@ const allCertificates = [
     description:
       'This course covers an array of SQL-related topics, such as retrieving, updating and filtering data; functions and subqueries; creating & updating tables; & many more!',
     url: 'https://www.sololearn.com/en/certificates/CC-DVJRYRU8',
-    image: 'https://img.icons8.com/fluent/1200/sql.jpg',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
     title: 'Java',
@@ -180,7 +180,7 @@ const allCertificates = [
     description:
       'With our interactive Java course, you’ll learn object-oriented Java programming and have the ability to write clear and valid code in almost no time at all.',
     url: 'https://www.sololearn.com/en/certificates/CT-6JS4MSTM',
-    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
     title: 'Web Development with Java Spring Framework',
@@ -190,7 +190,7 @@ const allCertificates = [
     description:
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/spring-boot.png`,
   },
   {
     title: 'Core Java',
@@ -200,7 +200,7 @@ const allCertificates = [
     description:
       'Web Development with Java Spring Framework',
     url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/SLY39QZG9WYV',
-    image: 'https://cdn-icons-png.flaticon.com/512/5968/5968282.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
     title: 'Angular 11: Getting Started with Angular',
@@ -210,7 +210,7 @@ const allCertificates = [
     description:
       'Angular helps build interactive and dynamic single-page applications (SPAs) through templating, two-way binding, modularization, RESTful API handling, dependency injection, and AJAX handling. It\'s a highly demanded technology and a useful language among experienced developers who want to move into full stack development. Use this course to explore the different building blocks of Angular. Examine some of the advanced features of Angular 11 and install various software components for making use of its features and benefits. Install Node.js, Visual Studio Code, and Angular CLI and learn to create and run an Angular application. Finally, investigate the different characteristics of package.json files and outline the basics of Typescript. When you\'re done with this course, you\'ll have a basic grasp of working with Angular.',
     url: 'https://skillsoft.digitalbadges.skillsoft.com/489b2623-8aff-46b7-9122-69e2ae438545#acc.UZdNAWeg',
-    image: 'https://keylines.cambridge-intelligence.com/im/tutorials/angular.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/angular.svg`,
   },
   {
     title: 'Introduction to Ansible: The Fundamentals',
@@ -220,7 +220,7 @@ const allCertificates = [
     description:
       'In this guided project you will learn how to implement infrastructure as a code practice using Ansible, a configuration management tool. The task-based approach that we follow in our guided project will get you a better understanding of Ansible that comes very handy while working on your real-life project. . Most importantly you will leave this course with more confidence that will get you to work in Ansible more efficiently.',
     url: 'https://www.coursera.org/account/accomplishments/certificate/AYKK2AWXFUYQ',
-    image: 'https://img.icons8.com/fluent/1200/ansible.jpg',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/ansible.png`,
   },
   {
     title: 'Fundamentals of Red Hat Enterprise Linux',
@@ -230,7 +230,7 @@ const allCertificates = [
     description:
       'This specialization introduces Red Hat Enterprise Linux system administration and private cloud capabilities of IBM Systems. IBM Power servers will be used to demonstrate these concepts. Through three courses, you will learn a range of concepts from how to get started with Linux, to using Linux in a large private cloud environment with OpenStack-based products such as IBM PowerVC. Brought to you by IBM! ',
     url: 'https://www.coursera.org/account/accomplishments/verify/4GXSTE5EF3MD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course',
-    image: 'https://images.icon-icons.com/2108/PNG/512/redhat_icon_130844.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/redhat.png`,
   },
   {
     title: 'Certified Entry-Level Python Programmer (PCEP)',
@@ -240,7 +240,7 @@ const allCertificates = [
     description:
       'Earners of the PCEP – Certified Entry-Level Python Programmer certification have knowledge of the universal concepts of computer programming, the syntax and semantics of the Python language as well as demonstrate the ability to accomplish coding tasks related to the essentials of programming in the Python language and fundamental skills in resolving typical implementation challenges with the help of the Python Standard Library.',
     url: 'https://www.credly.com/badges/d4199324-cb4f-41dc-85c3-e5557817a16e?source=linked_in_profile',
-    image: 'https://images.credly.com/size/340x340/images/d8017c77-3cc0-4fdf-8e17-62e50632812e/bronze_1_small.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/pcep.png`,
   },
   {
     title: 'MPhil, Sociology',
@@ -250,7 +250,7 @@ const allCertificates = [
     description:
       'Processes of Recovery from Problem Gambling: A Qualitative Exploration: http://theses.gla.ac.uk/5470/',
     url: 'http://theses.gla.ac.uk/5470/',
-    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/glasgow.png`,
   },
   {
     title: 'MRes, Sociology and Research Methods',
@@ -260,7 +260,7 @@ const allCertificates = [
     description:
       'Advanced and mixed-methods training to build your confidence as a researcher. The programme offers practical, expert-led teaching that connects qualitative and quantitative methods to prepare you to understand and address major global challenges.',
     url: 'https://www.gla.ac.uk/postgraduate/taught/social-science-research-methods/',
-    image: 'https://i.ibb.co/jkstphF2/uni-of-glasgow.png',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/glasgow.png`,
   },
   {
     title: 'Media, Culture & Society',
@@ -269,7 +269,7 @@ const allCertificates = [
     description:
       'Core Focus: Explored how news and media are constructed, how communication shapes daily life, and the ties between culture and nationhood.Key Topics: Analyzed political culture, propaganda, media representation, and the sociology of popular media.Skills Gained: Critical analysis of texts and media, social research methods, and contextual understanding of cultural shifts',
     url: 'https://www.abertay.ac.uk/media/me3pq2n0/ba-with-honours-in-sociology.pdf',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8uY5VaUBlCP_ly33A9arls-LxtGx1G32DWrXF6SUQpZ2NmjqJRGFt8Kf5&s=10',
+    image: `${process.env.PUBLIC_URL || ''}/images/certificates/abertay.png`,
   },
 ];
 
