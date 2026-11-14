@@ -3,6 +3,7 @@ import '../../static/css/pages/_codeCertificate.scss';// put your CSS here
 
 const allCertificates = [
   {
+    order: 10,
     title: 'MSc Software Development',
     issuer: 'University of Glasgow',
     date: '2018-11',
@@ -14,6 +15,7 @@ const allCertificates = [
   },
   {
     title: 'JavaScript Intermediate',
+    order: 90,
     issuer: 'Sololearn',
     date: '2026-03',
     id: 'CC-HDKCUPUP',
@@ -23,6 +25,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/javascript.png`,
   },
   {
+    order: 20,
     title: 'Python Developer',
     issuer: 'Sololearn',
     date: '2025-12',
@@ -33,6 +36,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-developer.png`,
   },
   {
+    order: 100,
     title: 'Introduction to LLMs',
     issuer: 'Sololearn',
     date: '2025-12',
@@ -43,6 +47,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/llm.png`,
   },
   {
+    order: 110,
     title: 'Introduction to C#',
     issuer: 'Sololearn',
     date: '2025-08',
@@ -53,6 +58,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/c-sharp.png`,
   },
   {
+    order: 120,
     title: 'Vibe Coding',
     issuer: 'Sololearn',
     date: '2025-07',
@@ -63,6 +69,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/vibe-coding.png`,
   },
   {
+    order: 130,
     title: 'Prompt Engineering',
     issuer: 'Sololearn',
     date: '2025-07',
@@ -73,6 +80,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/prompt-engineering.png`,
   },
   {
+    order: 140,
     title: 'Python Intermediate',
     issuer: 'Sololearn',
     date: '2025-01',
@@ -83,6 +91,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-intermediate.png`,
   },
   {
+    order: 150,
     title: 'Introduction to Python',
     issuer: 'Sololearn',
     date: '2025-01',
@@ -93,6 +102,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/python-introduction.png`,
   },
   {
+    order: 30,
     title: 'Learn Advanced Java',
     issuer: 'Codecademy',
     date: '2017-02',
@@ -103,6 +113,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
+    order: 40,
     title: 'Learn SQL Course',
     issuer: 'Codecademy',
     date: '2017-02',
@@ -113,6 +124,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
+    order: 50,
     title: 'Establishing AI Guardrails and Governance',
     issuer: 'Skillsoft',
     date: '2024-08',
@@ -123,6 +135,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/ai-governance.png`,
   },
   {
+    order: 60,
     title: 'Coding for Data',
     issuer: 'Sololearn',
     date: '2024-12',
@@ -133,6 +146,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/coding-for-data.png`,
   },
   {
+    order: 160,
     title: 'SQL Intermediate',
     issuer: 'Sololearn',
     date: '2024-11',
@@ -143,6 +157,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
+    order: 170,
     title: 'Java Intermediate',
     issuer: 'Sololearn',
     date: '2023-09',
@@ -153,6 +168,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
+    order: 70,
     title: 'JavaScript',
     issuer: 'Sololearn',
     date: '2023-08',
@@ -163,6 +179,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/javascript.png`,
   },
   {
+    order: 80,
     title: 'SQL',
     issuer: 'Sololearn',
     date: '2023-08',
@@ -173,6 +190,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/sql.png`,
   },
   {
+    order: 180,
     title: 'Java',
     issuer: 'Sololearn',
     date: '2023-03',
@@ -183,6 +201,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
+    order: 80,
     title: 'Web Development with Java Spring Framework',
     issuer: 'Coursera',
     date: '2021-03',
@@ -193,6 +212,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/spring-boot.png`,
   },
   {
+    order: 190,
     title: 'Core Java',
     issuer: 'Coursera',
     date: '2021-02',
@@ -203,6 +223,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/java.png`,
   },
   {
+    order: 200,
     title: 'Angular 11: Getting Started with Angular',
     issuer: 'Skillsoft',
     date: '2020-05',
@@ -213,6 +234,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/angular.svg`,
   },
   {
+    order: 210,
     title: 'Introduction to Ansible: The Fundamentals',
     issuer: 'Coursera',
     date: '2020-04',
@@ -223,6 +245,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/ansible.png`,
   },
   {
+    order: 220,
     title: 'Fundamentals of Red Hat Enterprise Linux',
     issuer: 'Coursera',
     date: '2021-04',
@@ -233,6 +256,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/redhat.png`,
   },
   {
+    order: 90,
     title: 'Certified Entry-Level Python Programmer (PCEP)',
     issuer: 'Python Institute',
     date: '2020-12',
@@ -243,6 +267,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/pcep.png`,
   },
   {
+    order: 230,
     title: 'MPhil, Sociology',
     issuer: 'University of Glasgow',
     date: '2014-11',
@@ -253,6 +278,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/glasgow.png`,
   },
   {
+    order: 240,
     title: 'MRes, Sociology and Research Methods',
     issuer: 'University of Glasgow',
     date: '2010-05',
@@ -263,6 +289,7 @@ const allCertificates = [
     image: `${process.env.PUBLIC_URL || ''}/images/certificates/glasgow.png`,
   },
   {
+    order: 250,
     title: 'Media, Culture & Society',
     issuer: 'Abertay University',
     date: '2009-05',
@@ -280,8 +307,12 @@ function CodeCertificates() {
 
   const filteredCertificates = useMemo(() => {
     const term = searchTerm.toLowerCase().trim();
-    if (!term) return allCertificates;
-    return allCertificates.filter(
+    const orderedCertificates = [...allCertificates].sort(
+      (a, b) => a.order - b.order,
+    );
+
+    if (!term) return orderedCertificates;
+    return orderedCertificates.filter(
       (cert) => cert.title.toLowerCase().includes(term)
         || cert.issuer.toLowerCase().includes(term)
         || cert.description.toLowerCase().includes(term)
@@ -454,7 +485,7 @@ function CodeCertificates() {
 
               return (
                 <a
-                  key={cert.id}
+                  key={`${cert.title}-${cert.date}`}
                   href={cert.url}
                   target="_blank"
                   rel="noopener noreferrer"
